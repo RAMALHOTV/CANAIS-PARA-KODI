@@ -57,9 +57,10 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="ABERTOS",SBT PE 
 http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="band.br" tvg-name="BAND" tvg-logo="" group-title="ABERTOS",BAND
-http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="ABERTOS",Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="ABERTOS",Band
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="ABERTOS",RECORD SP
 http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
 
@@ -72,8 +73,6 @@ http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
 #EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="ABERTOS",RECORD RJ HD
 http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="ABERTOS",Band
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="ABERTOS",RedeTV! SP
 http://177.20.208.58:8000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="REDE TV" tvg-logo="http://i.imgur.com/fTJdvmS.png" group-title="ABERTOS",Rede TV SP
@@ -83,8 +82,6 @@ http://origin-02.nxplay.com.br/REDETV_HD_SIMBA/tracks-v2a1/mono.m3u8?PEDROJUNIOR
 http://origin-02.nxplay.com.br/REDETV_HD_SIMBA/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/ZLgQJeY.png" tvg-shift="0" group-title="ABERTOS",RecordTV
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="ABERTOS",Band
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Catve (Cultura PR)" tvg-logo="https://imgur.com/yg60ANb.png" group-title="ABERTOS",Catve (Cultura PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
