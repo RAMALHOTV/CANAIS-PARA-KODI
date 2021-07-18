@@ -32,7 +32,29 @@ http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1n
 #EXTINF:-1 tvg-id="" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="ABERTOS",Globo RJ
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
 
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="ABERTOS",Globo SP
+http://50.7.34.155:2200/BR/Globo_HD_SP-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="ABERTOS",Globo BA
+http://50.7.34.155:2200/BR/TV_Bahia_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="ABERTOS",Globo MG
+http://50.7.34.155:2200/BR/Globo_HD_Minas-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="ABERTOS",Globo PA
+http://50.7.34.155:2200/BR/RPC_TV_Curitiba_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="ABERTOS",Globo GO
+http://50.7.34.155:2200/BR/TV_Anhanguera_Gonia_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="ABERTOS",Globo RS
+http://50.7.34.155:2200/BR/RBS_TV_HD_Porto_Alegre-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="ABERTOS",Globo CE
+http://50.7.34.155:2200/BR/TV_Verdes_Mares_HD_Fortaleza-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="ABERTOS",Globo DF 
+http://50.7.34.155:2200/BR/Globo_Brasilia_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="ABERTOS",SBT SD
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u8
 
@@ -385,29 +407,7 @@ http://50.7.34.155:2200/BR/Warner_Channel_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIO
 
 #EXTINF:-1 tvg-id="WARNER CHANNEL" tvg-logo="http://i.imgur.com/HBaycf4.png" group-title="Filmes e Séries",Warner HD
 http://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index_3.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="ABERTOS",Globo SP
-http://50.7.34.155:2200/BR/Globo_HD_SP-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="ABERTOS",Globo BA
-http://50.7.34.155:2200/BR/TV_Bahia_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="ABERTOS",Globo MG
-http://50.7.34.155:2200/BR/Globo_HD_Minas-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="ABERTOS",Globo PA
-http://50.7.34.155:2200/BR/RPC_TV_Curitiba_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="ABERTOS",Globo GO
-http://50.7.34.155:2200/BR/TV_Anhanguera_Gonia_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="ABERTOS",Globo RS
-http://50.7.34.155:2200/BR/RBS_TV_HD_Porto_Alegre-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="ABERTOS",Globo CE
-http://50.7.34.155:2200/BR/TV_Verdes_Mares_HD_Fortaleza-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-
-#EXTINF:-1 tvg-id="GLOBO SP" tvg-logo="http://i.imgur.com/NSHvLCe.png" group-title="ABERTOS",Globo DF 
-http://50.7.34.155:2200/BR/Globo_Brasilia_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 #EXTINF:-1 tvg-id="PREMIERE CLUBES" tvg-logo="http://i.imgur.com/xmmiHls.png" group-title="Esportes",Premiere Clubes
 http://50.7.34.155:2200/BR/Premiere_Clubes_HD-br/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
 
