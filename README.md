@@ -24,13 +24,18 @@ https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
 
 
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="ABERTOS",Globo RJ HD
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="ABERTOS",Globo RJ SD
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Globo RJ" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="ABERTOS",Globo RJ
-http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² SP HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² SP HD
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/32174
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP SD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO SP SD
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/32175
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO² NORDESTE HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO² NORDESTE HD
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/32165
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ RPC MARINGA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ RPC MARINGA FULLHD
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/32265
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ RPC PONTA GROSSA FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ RPC PONTA GROSSA FULLHD
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/32266
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO³ RPC TV PARANAVAI FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/5a2524e4ef0acb6513811be94ef945f8.png" group-title="CANAIS: GLOBO",GLOBO³ RPC TV PARANAVAI FULL HD
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/32267
 
 
 #EXTINF:-1 tvg-id="SBT" tvg-logo="http://i.imgur.com/7SlZF9B.png" group-title="ABERTOS",SBT PE HD
@@ -43,17 +48,20 @@ http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="ABERTOS",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="ABERTOS",RECORD SP
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="ABERTOS",RECORD SP HD
-http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="ABERTOS",RECORD RJ
-http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8
-
-#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="ABERTOS",RECORD RJ HD
-http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD SP HD²" tvg-logo="http://xcui.vitvabc.xyz:8880/images/83c8d9c5f77bb532343d417188302a37.png" group-title="CANAIS: RECORD",BR: RECORD SP HD²
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/31556
+#EXTINF:-1 tvg-id="Record" tvg-name="RECORD RS" tvg-logo="http://xcui.vitvabc.xyz:8880/images/f38444c569dc24df0ab9c4f9911e7305.png" group-title="CANAIS: RECORD",RECORD RS
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/31557
+#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD RJ HD²" tvg-logo="http://xcui.vitvabc.xyz:8880/images/83c8d9c5f77bb532343d417188302a37.png" group-title="CANAIS: RECORD",BR: RECORD RJ HD²
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/31555
+#EXTINF:-1 tvg-id="" tvg-name="REDE TV HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/bc12f0ddd6fdcb7742bf4924ac4601fd.png" group-title="CANAIS: ABERTOS",REDE TV HD
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/31072
+#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS: ABERTOS",SBT
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/31075
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT FULLHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS: ABERTOS",SBT FULLHD
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/31076
+#EXTINF:-1 tvg-id="" tvg-name="SBT RJ ¹" tvg-logo="http://xcui.vitvabc.xyz:8880/images/eadc1bacb17aea28d29fefc19868b5e1.png" group-title="CANAIS: ABERTOS",SBT RJ ¹
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/31077
 
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="ABERTOS",RedeTV! SP
 http://177.20.208.58:8000/play/a03p/index.m3u8
@@ -62,8 +70,6 @@ http://origin-02.nxplay.com.br/REDETV_HD_SIMBA/tracks-v2a1/mono.m3u8?PEDROJUNIOR
 
 #EXTINF:-1 tvg-id="REDE TV" tvg-logo="http://i.imgur.com/fTJdvmS.png" group-title="ABERTOS",Rede TV SP HD
 http://origin-02.nxplay.com.br/REDETV_HD_SIMBA/tracks-v1a1/mono.m3u8?PEDROJUNIORTUTORIAIS
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/ZLgQJeY.png" tvg-shift="0" group-title="ABERTOS",RecordTV
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Catve (Cultura PR)" tvg-logo="https://imgur.com/yg60ANb.png" group-title="ABERTOS",Catve (Cultura PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.m3u8
@@ -298,6 +304,40 @@ http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/16751
 http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/16752
 #EXTINF:-1 tvg-id="" tvg-name="SporTV HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/ef3f48d2e548940db0f144817f1295a0.png" group-title="CANAIS: HD",SporTV HD+
 http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/16753
+#EXTINF:-1 tvg-id="Premiere Clubes FHD" tvg-name="PREMIERE CLUBES FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES FULL HD
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/31525
+#EXTINF:-1 tvg-id="Premiere Clubes HD" tvg-name="PREMIERE CLUBES HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES HD
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/31526
+#EXTINF:-1 tvg-id="Premiere Clubes HD [Alter 2]" tvg-name="PREMIERE CLUBES HD²" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE CLUBES HD²
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/31527
+#EXTINF:-1 tvg-id="Premiere 2 FHD" tvg-name="PREMIERE 2 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 2 FULL HD
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/31528
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="PREMIERE 2 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 2 HD
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/31529
+#EXTINF:-1 tvg-id="Premiere 2 HD" tvg-name="PREMIERE 2 UHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 2 UHD
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/31531
+#EXTINF:-1 tvg-id="Premiere 3 FHD" tvg-name="PREMIERE 3 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 3 FULL HD
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/31532
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="PREMIERE 3 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 3 HD
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/31533
+#EXTINF:-1 tvg-id="Premiere 3 HD" tvg-name="PREMIERE 3 UHD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 3 UHD
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/31535
+#EXTINF:-1 tvg-id="Premiere 4 FHD" tvg-name="PREMIERE 4 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 4 FULL HD
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/31536
+#EXTINF:-1 tvg-id="Premiere 4 HD" tvg-name="PREMIERE 4 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 4 HD
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/31537
+#EXTINF:-1 tvg-id="Premiere 5 FHD" tvg-name="PREMIERE 5 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 5 FULL HD
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/31539
+#EXTINF:-1 tvg-id="Premiere 5 HD" tvg-name="PREMIERE 5 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 5 HD
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/31540
+#EXTINF:-1 tvg-id="Premiere 6 FHD" tvg-name="PREMIERE 6 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 6 FULL HD
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/31542
+#EXTINF:-1 tvg-id="Premiere 6 HD" tvg-name="PREMIERE 6 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 6 HD
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/31543
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="PREMIERE 7 FULL HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 7 FULL HD
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/31544
+#EXTINF:-1 tvg-id="Premiere 7 HD [Alter]" tvg-name="PREMIERE 7 HD" tvg-logo="http://xcui.vitvabc.xyz:8880/images/a4c651f79f10b15504b1b50c5ca91802.png" group-title="CANAIS: PREMIERE",PREMIERE 7 HD
+http://xcui.vitvabc.xyz:8880/2879940030dd/2879940030dd/31545
 #EXTINF:-1 tvg-id="" tvg-name="Studio Universal HD+" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/150/studiouniversalb.png" group-title="CANAIS: HD",Studio Universal HD+
 http://xcui.vitvabc.xyz:8880/2879940030ad/2879940030ad/16754
 #EXTINF:-1 tvg-id="" tvg-name="SyFy HD+" tvg-logo="http://xcui.vitvabc.xyz:8880/images/8d4f17ac26b11aa97e5a28cac138b392.png" group-title="CANAIS: HD",SyFy HD+
