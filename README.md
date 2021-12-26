@@ -17,8 +17,7 @@ https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
 #EXTINF:-1 tvg-logo="http://i.imgur.com/DwOmHHG.png" group-title="Informações da Lista",Canais Offline? Avise-nos!
-https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
-
+https://www.youtube.com/channel/UCojJlq
 #EXTINF:-1 tvg-logo="http://i.imgur.com/4xQxZ5g.png" group-title="Informações da Lista",(44) 98656144
 https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
