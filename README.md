@@ -23,11 +23,6 @@ https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 
 
 
-
-
-
-
-
 ############################### ABERTOS #####################################
 
 #EXTINF:-1 tvg-id="Globorj.br" tvg-name="Globo" tvg-logo="https://imgur.com/5RQ1PxL.png" group-title="ABERTOS",Globo
