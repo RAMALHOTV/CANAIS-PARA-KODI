@@ -49,7 +49,8 @@ http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b216000_sleng.m3u
 #EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="CANAIS ABERTOS",SBT RJ SD
 http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b176000_sleng.m3u8
 
-
+#EXTINF:-1 tvg-id="Fx.br" tvg-name="FX HD" tvg-logo="https://i.imgur.com/h19NtTP.png" group-title="CANAIS | FILMES E SÉRIES ",FX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://bolos.cteam.me:80/789789/789789/856720|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
 #EXTINF:-1 tvg-id="" tvg-name="A&E " tvg-logo="http://distv.net/icons/ae.png" group-title="FILMES E SERIES",A&E 
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoTV&amp;url=http://rec2.distv.net:80/welisson/123456/113|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
 #EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://distv.net/icons/amc.png" group-title="FILMES E SERIES",AMC
