@@ -22,414 +22,971 @@ https://www.youtube.com/channel/UCojJlqr-L
  
 #EXTINF:-1 tvg-logo="http://i.imgur.com/4xQxZ5g.png" group-title="Informações da Lista",(44)98656144 
 https://www.youtube.com/channel/UCojJ
-#EXTINF:-1 tvg-id="Rederecord.br" tvg-name="Record" tvg-logo="https://imgur.com/HcdW6B4.png" tvg-shift="0" group-title="ABERTOS",RecordTV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8?MARTINTV|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
-#EXTINF:-1 tvg-id="Sbt.br" tvg-logo="https://imgur.com/3Mrx9Ee.png" group-title="ABERTOS",SBT 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?MARTINTV|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="ABERTOS", RedeTV! TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=https://5b7f3c45ab7c2.streamlock.net/tvarapuan/tvarapuan/playlist.m3u8?MARTINTV|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="ABERTOS",RedeTV! SP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://177.20.208.58:8000/play/a03p/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="ABERTOS",RECORD SP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_360_av-p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="ABERTOS",RECORD SP HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="ABERTOS",RECORD RJ
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_360_av-p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
-#EXTINF:-1 tvg-id="RECORD SP" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="ABERTOS",RECORD RJ HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/Ll0dvQY.png" group-title="ABERTOS", Band
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w210441685.m3u8?MARTINTV|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" tvg-shift="0" group-title="ABERTOS",Band
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="ABERTOS",SBT SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w372330674_b176000_sleng.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="ABERTOS",SBT HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="ABERTOS",SBT RJ HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b216000_sleng.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
-#EXTINF:-1 tvg-id="Sbt.br" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-2.png" group-title="ABERTOS",SBT RJ SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1033677620_b176000_sleng.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
 
-
-#EXTINF:-1 tvg-id="" tvg-name="A&E " tvg-logo="http://distv.net/icons/ae.png" group-title="FILMES E SERIES",A&E 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/113|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://distv.net/icons/amc.png" group-title="FILMES E SERIES",AMC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/223|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="ANIMAL PLANET" tvg-logo="http://distv.net/icons/animalplanet.png" group-title="ENTRETENIMENTO",ANIMAL PLANET
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/114|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="ARTE 1" tvg-logo="http://distv.net/icons/arte1.png" group-title="ENTRETENIMENTO",ARTE 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/115|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://distv.net/icons/axn.png" group-title="FILMES E SERIES",AXN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/116|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="http://distv.net/icons/babytv.png" group-title="KIDS",BABY TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/117|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="BAND" tvg-logo="http://distv.net/icons/band.png" group-title="CANAIS LOCAIS",BAND
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/224|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="BAND NEWS" tvg-logo="http://distv.net/icons/bandnews.png" group-title="REPORTAGEM",BAND NEWS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/118|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="BAND RN" tvg-logo="http://distv.net/icons/BAND.png" group-title=" CANAIS LOCAIS NATAL",BAND RN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/294|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="BAND SPORTS" tvg-logo="http://distv.net/icons/bandsports.png" group-title="SPORTS",BAND SPORTS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/119|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="BIS" tvg-logo="http://distv.net/icons/bis.png" group-title="ENTRETENIMENTO",BIS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/120|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="BOOMERANG" tvg-logo="http://distv.net/icons/boomerang.png" group-title="KIDS",BOOMERANG
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/121|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL 21" tvg-logo="http://distv.net/icons/canal21.png" group-title="CANAIS LOCAIS",CANAL 21
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/265|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL COMUNITARIO" tvg-logo="http://distv.net/icons/Canal%20ComunitaRIO.png" group-title="CANAIS LOCAIS",CANAL COMUNITARIO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/267|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="http://distv.net/icons/canaldoboi.png" group-title="CANAIS LOCAIS",CANAL DO BOI
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/266|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SONY" tvg-logo="http://distv.net/icons/sonychannel.png" group-title="FILMES E SERIES",CANAL SONY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/123|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="CANÇÃO NOVA" tvg-logo="http://distv.net/icons/cancaonovoceara.png" group-title="CANAIS LOCAIS",CANÇÃO NOVA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/65|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="http://distv.net/icons/cartoonnetwork.png" group-title="KIDS",CARTOON NETWORK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/124|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 01" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 01
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/48|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 02" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 02
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/49|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 03" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 03
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/50|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 04" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 04
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/51|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 05" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 05
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/52|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 06" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 06
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/53|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 07" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 07
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/54|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 08" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 08
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/55|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 09" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 09
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/56|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY 10" tvg-logo="https://1.bp.blogspot.com/-hUNENZa3e1c/XmRJ79iDRvI/AAAAAAAACTc/nZdJE1gqWHE930T2lF41jaW0gazwKwfDwCK4BGAYYCw/s400/CINE%2BSKI.png" group-title="CINE SKY",CINE SKY 10
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/57|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="http://distv.net/icons/cinemax.png" group-title="FILMES E SERIES",CINEMAX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/125|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL" tvg-logo="http://distv.net/icons/cnnbrasil.png" group-title="REPORTAGEM",CNN BRASIL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/225|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="COMBATE" tvg-logo="http://distv.net/icons/combate.png" group-title="SPORTS",COMBATE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/126|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="http://distv.net/icons/comedycentral.png" group-title="FILMES E SERIES",COMEDY CENTRAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/127|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="CULTURA" tvg-logo="http://distv.net/icons/cultura.png" group-title="ENTRETENIMENTO",CULTURA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/128|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="CURTA" tvg-logo="http://distv.net/icons/curta.png" group-title="ENTRETENIMENTO",CURTA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/129|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="DAZN" tvg-logo="http://distv.net/icons/dazn.png" group-title="SPORTS",DAZN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/226|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://distv.net/icons/discoverychannel.png" group-title="ENTRETENIMENTO",DISCOVERY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/130|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY HOME & HEALTH" tvg-logo="http://distv.net/icons/discoveryhomehealth.png" group-title="ENTRETENIMENTO",DISCOVERY HOME & HEALTH
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/131|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ID" tvg-logo="http://distv.net/icons/discoveryid.png" group-title="ENTRETENIMENTO",DISCOVERY ID
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/132|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY KIDS" tvg-logo="http://distv.net/icons/discoverykids.png" group-title="KIDS",DISCOVERY KIDS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/133|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY SCIENCE" tvg-logo="http://distv.net/icons/discoveryscience.png" group-title="ENTRETENIMENTO",DISCOVERY SCIENCE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/134|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY THEATER" tvg-logo="http://distv.net/icons/discoverytheater.png" group-title="ENTRETENIMENTO",DISCOVERY THEATER
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/135|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY TURBO" tvg-logo="http://distv.net/icons/discoveryturbo.png" group-title="ENTRETENIMENTO",DISCOVERY TURBO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/136|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY WORLD" tvg-logo="http://distv.net/icons/discoveryworld.png" group-title="ENTRETENIMENTO",DISCOVERY WORLD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/137|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL" tvg-logo="http://distv.net/icons/disneychannel.png" group-title="KIDS",DISNEY CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/138|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="http://distv.net/icons/disneyjr.png" group-title="KIDS",DISNEY JR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/139|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="http://distv.net/icons/disneyxd.png" group-title="KIDS",DISNEY XD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/140|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="E!" tvg-logo="http://distv.net/icons/e.png" group-title="ENTRETENIMENTO",E!
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/141|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="EDUCAÇÃO" tvg-logo="http://distv.net/icons/EDUCA%c3%87%c3%83O.png" group-title="CANAIS LOCAIS",EDUCAÇÃO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/285|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN" tvg-logo="http://distv.net/icons/espn.png" group-title="SPORTS",ESPN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/142|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="http://distv.net/icons/espn2.png" group-title="SPORTS",ESPN 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/143|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN BRASIL" tvg-logo="http://distv.net/icons/espnbrasil.png" group-title="SPORTS",ESPN BRASIL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/144|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="ESPN EXTRA" tvg-logo="http://distv.net/icons/espnextra.png" group-title="SPORTS",ESPN EXTRA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/145|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="http://distv.net/icons/EURO%20NEWS.png" group-title="CANAIS LOCAIS",EURO NEWS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/270|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="FASHION" tvg-logo="http://distv.net/icons/fashiontv.png" group-title="CANAIS LOCAIS",FASHION
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/82|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="FILMS & ARTS" tvg-logo="http://distv.net/icons/filmeseartes.png" group-title="ENTRETENIMENTO",FILMS & ARTS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/227|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="FISH TV" tvg-logo="http://distv.net/icons/fishtv.png" group-title="ENTRETENIMENTO",FISH TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/146|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK" tvg-logo="http://distv.net/icons/foodnetwork.png" group-title="ENTRETENIMENTO",FOOD NETWORK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/147|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="http://distv.net/icons/foxchannel.png" group-title="FILMES E SERIES",FOX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/148|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="http://distv.net/icons/foxlife.png" group-title="FILMES E SERIES",FOX LIFE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/149|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 1" tvg-logo="http://distv.net/icons/foxpremium1.png" group-title="FILMES E SERIES",FOX PREMIUM 1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/150|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="FOX PREMIUM 2" tvg-logo="http://distv.net/icons/foxpremium2.png" group-title="FILMES E SERIES",FOX PREMIUM 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/151|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS" tvg-logo="http://distv.net/icons/foxsports.png" group-title="SPORTS",FOX SPORTS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/152|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="FOX SPORTS 2" tvg-logo="http://distv.net/icons/foxsports2.png" group-title="SPORTS",FOX SPORTS 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/153|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="FUTURA" tvg-logo="http://distv.net/icons/futura.png" group-title="ENTRETENIMENTO",FUTURA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/228|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="http://distv.net/icons/fx.png" group-title="ENTRETENIMENTO",FX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/229|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="GAZETA" tvg-logo="http://distv.net/icons/gazeta.png" group-title="ENTRETENIMENTO",GAZETA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/230|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO" tvg-logo="http://distv.net/icons/globo.png" group-title="CANAIS LOCAIS",GLOBO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/231|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO BRASILIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/3|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO FLORIANOPOLIS" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO FLORIANOPOLIS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/5|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO MINAS" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO MINAS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/6|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NATAL" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO NATAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/7|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO NEWS" tvg-logo="http://distv.net/icons/globonews.png" group-title="REPORTAGEM",GLOBO NEWS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/232|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO REDE AMAZÔNICA" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO REDE AMAZÔNICA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/11|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO RIO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/13|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RIO GRANDE DO SUL" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO RIO GRANDE DO SUL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/12|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO RPC CURITIBA" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO RPC CURITIBA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/14|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO SP" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO SP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/15|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV ANHANGUERA GOIANIA" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO TV ANHANGUERA GOIANIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/16|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BAHIA" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO TV BAHIA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/17|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV LIBERAL BELEM" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO TV LIBERAL BELEM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/18|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV MIRANTE" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS GLOBO",GLOBO TV MIRANTE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/19|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="GLOOB" tvg-logo="http://distv.net/icons/gloob.png" group-title="KIDS",GLOOB
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/154|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="GLOOBINHO" tvg-logo="http://distv.net/icons/gloobinho.png" group-title="KIDS",GLOOBINHO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/215|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="GNT" tvg-logo="http://distv.net/icons/gnt.png" group-title="ENTRETENIMENTO",GNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/155|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://distv.net/icons/hbo.png" group-title="FILMES E SERIES",HBO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/156|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO 2" tvg-logo="http://distv.net/icons/hbo2.png" group-title="FILMES E SERIES",HBO 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/157|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY" tvg-logo="http://distv.net/icons/hbofamily.png" group-title="FILMES E SERIES",HBO FAMILY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/158|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="HBO MUNDI" tvg-logo="http://distv.net/icons/hbomundi.png" group-title="FILMES E SERIES",HBO MUNDI
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/159|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO PLUS" tvg-logo="http://distv.net/icons/hboplus.png" group-title="FILMES E SERIES",HBO PLUS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/160|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="HBOPOP" tvg-name="HBO POP" tvg-logo="http://distv.net/icons/hbopop.png" group-title="FILMES E SERIES",HBO POP
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/161|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="http://distv.net/icons/hbosignature.png" group-title="FILMES E SERIES",HBO SIGNATURE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/162|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="HBO XTREME" tvg-logo="http://distv.net/icons/hboextreme.png" group-title="FILMES E SERIES",HBO XTREME
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/163|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="http://distv.net/icons/hgtv.png" group-title="ENTRETENIMENTO",HGTV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/164|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY" tvg-logo="http://distv.net/icons/historychannel.png" group-title="ENTRETENIMENTO",HISTORY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/165|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="HISTORY 2" tvg-logo="http://distv.net/icons/h2.png" group-title="ENTRETENIMENTO",HISTORY 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/166|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="INTERTV CABUGI(GLOBO)" tvg-logo="http://distv.net/icons/globo.png" group-title=" CANAIS LOCAIS NATAL",INTERTV CABUGI(GLOBO)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/295|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="LIFE TIME" tvg-logo="http://distv.net/icons/lifetime.png" group-title="ENTRETENIMENTO",LIFE TIME
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/167|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="MAIS GLOBOSAT" tvg-logo="http://distv.net/icons/maisglobosat.png" group-title="ENTRETENIMENTO",MAIS GLOBOSAT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/235|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX" tvg-logo="http://distv.net/icons/megapix.png" group-title="FILMES E SERIES",MEGAPIX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/168|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://distv.net/icons/mtv.png" group-title="ENTRETENIMENTO",MTV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/169|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX - SD" tvg-logo=http://xsrv.me/logos/img/fx.png" group-title="- Filmes e Series",FX - SD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24860|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX - HD" tvg-logo=http://xsrv.me/logos/img/fx.png" group-title="- Filmes e Series",FX - HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoTV;&buffer=60000;url=http://xsrv.me:80/fabiana123/123fabiana/24859|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0  
-#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE" tvg-logo="http://distv.net/icons/mtv.png" group-title="ENTRETENIMENTO",MTV LIVE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/236|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="MULTISHOW" tvg-logo="http://distv.net/icons/multishow.png" group-title="ENTRETENIMENTO",MULTISHOW
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/170|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="MUSIC BOX BRAZIL" tvg-logo="http://distv.net/icons/musicboxbrazil.png" group-title="ENTRETENIMENTO",MUSIC BOX BRAZIL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/171|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO" tvg-logo="http://distv.net/icons/natgeo.png" group-title="ENTRETENIMENTO",NAT GEO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/172|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO KIDS" tvg-logo="http://distv.net/icons/natgeokids.png" group-title="KIDS",NAT GEO KIDS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/173|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="http://distv.net/icons/natgeowild.png" group-title="ENTRETENIMENTO",NAT GEO WILD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/174|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="NBR TV" tvg-logo="http://distv.net/icons/nbr.png" group-title="CANAIS LOCAIS",NBR TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/271|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="NICK" tvg-logo="http://distv.net/icons/nick.png" group-title="KIDS",NICK
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/175|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="http://distv.net/icons/nickjr.png" group-title="KIDS",NICK JR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/176|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="OFF" tvg-logo="http://distv.net/icons/off.png" group-title="ENTRETENIMENTO",OFF
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/177|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="http://distv.net/icons/paramount.png" group-title="FILMES E SERIES",PARAMOUNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/178|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 2" tvg-logo="http://distv.net/icons/premiere2.png" group-title="SPORTS",PREMIERE 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/179|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 3" tvg-logo="http://distv.net/icons/premiere3.png" group-title="SPORTS",PREMIERE 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/180|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 4" tvg-logo="http://distv.net/icons/premeire4.png" group-title="SPORTS",PREMIERE 4
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/181|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 5" tvg-logo="http://distv.net/icons/premeire5.png" group-title="SPORTS",PREMIERE 5
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/182|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 6" tvg-logo="http://distv.net/icons/premiere6.png" group-title="SPORTS",PREMIERE 6
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/183|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE 7" tvg-logo="http://distv.net/icons/premiere7.png" group-title="SPORTS",PREMIERE 7
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/237|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="PREMIERE CLUBES" tvg-logo="http://distv.net/icons/premiereclubes.png" group-title="SPORTS",PREMIERE CLUBES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/184|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="PRIME BOX BRAZIL" tvg-logo="http://distv.net/icons/primeboxbrazil.png" group-title="ENTRETENIMENTO",PRIME BOX BRAZIL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/185|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BAHIA " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD BAHIA 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/23|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="RECORD BRASILIA " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD BRASILIA 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/25|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="RECORD GOIAS " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD GOIAS 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/26|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MANAUS" tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD MANAUS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/22|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MG" tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD MG
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/32|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD MINAS 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/27|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="RECORD NEWS " tvg-logo="http://distv.net/icons/recordnews.png" group-title="REPORTAGEM",RECORD NEWS 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/28|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="RECORD PARA " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD PARA 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/30|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="RECORD RIO " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD RIO 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/31|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="RECORD SP " tvg-logo="http://distv.net/icons/record.png" group-title="CANAIS LOCAIS RECORD",RECORD SP 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/33|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="REDE GENESIS" tvg-logo="http://distv.net/icons/redegenesis.png" group-title="CANAIS LOCAIS",REDE GENESIS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/273|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="REDE GOSPEL" tvg-logo="http://distv.net/icons/redegospel.png" group-title="CANAIS LOCAIS",REDE GOSPEL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/274|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="REDE MINAS" tvg-logo="http://distv.net/icons/Rede%20Minas.png" group-title="CANAIS LOCAIS",REDE MINAS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/275|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="REDE SECULO 21" tvg-logo="http://distv.net/icons/seculo21.png" group-title="CANAIS LOCAIS",REDE SECULO 21
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/276|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="REDE SUPER" tvg-logo="http://distv.net/icons/redesuper.png" group-title="CANAIS LOCAIS",REDE SUPER
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/277|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV" tvg-logo="http://distv.net/icons/redetv.png" group-title="CANAIS LOCAIS",REDE TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/69|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="http://distv.net/icons/redevida.png" group-title="ENTRETENIMENTO",REDE VIDA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/218|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="RIT TV" tvg-logo="http://distv.net/icons/rittv.png" group-title="CANAIS LOCAIS",RIT TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/70|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="SBT" tvg-logo="http://distv.net/icons/sbt.png" group-title="CANAIS LOCAIS",SBT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/238|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="SBT RN" tvg-logo="http://distv.net/icons/sbt.png" group-title=" CANAIS LOCAIS NATAL",SBT RN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/296|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="http://distv.net/icons/space.png" group-title="FILMES E SERIES",SPACE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/187|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV" tvg-logo="http://distv.net/icons/sportv.png" group-title="SPORTS",SPORTV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/188|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 2" tvg-logo="http://distv.net/icons/sportv2.png" group-title="SPORTS",SPORTV 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/189|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="SPORTV 3" tvg-logo="http://distv.net/icons/sportv3.png" group-title="SPORTS",SPORTV 3
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/190|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://distv.net/icons/studiouniversal.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/191|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="http://distv.net/icons/syfy.png" group-title="FILMES E SERIES",SYFY
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/192|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TBC" tvg-logo="http://distv.net/icons/TBC.png" group-title="CANAIS LOCAIS",TBC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/278|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="http://distv.net/icons/tbs.png" group-title="FILMES E SERIES",TBS
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/193|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="TELECINE ACTION" tvg-logo="http://distv.net/icons/tcaction.png" group-title="FILMES E SERIES",TELECINE ACTION
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/194|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="TELECINECULT" tvg-name="TELECINE CULT" tvg-logo="http://distv.net/icons/tccult.png" group-title="FILMES E SERIES",TELECINE CULT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/195|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="TELECINE FUN" tvg-logo="http://distv.net/icons/tcfun.png" group-title="FILMES E SERIES",TELECINE FUN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/196|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="TELECINE PIPOCA" tvg-logo="http://distv.net/icons/tcpipoca.png" group-title="FILMES E SERIES",TELECINE PIPOCA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/197|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="TELECINE PREMIUM" tvg-logo="http://distv.net/icons/tcpremium.png" group-title="FILMES E SERIES",TELECINE PREMIUM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/198|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="TELECINE TOUCH" tvg-logo="http://distv.net/icons/tctouch.png" group-title="FILMES E SERIES",TELECINE TOUCH
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/199|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="http://distv.net/icons/tlc.png" group-title="ENTRETENIMENTO",TLC
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/200|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://distv.net/icons/tnt.png" group-title="FILMES E SERIES",TNT
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/201|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TNT SERIES" tvg-logo="http://distv.net/icons/tntseries.png" group-title="FILMES E SERIES",TNT SERIES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/202|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TOONCAST" tvg-logo="http://distv.net/icons/tooncast.png" group-title="KIDS",TOONCAST
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/203|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TRAVELBOX" tvg-logo="http://distv.net/icons/travelboxbrazil.png" group-title="ENTRETENIMENTO",TRAVELBOX
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/240|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV ALEPE" tvg-logo="http://distv.net/icons/TV%20Alepe.png" group-title=" CANAIS LOCAIS RECIFE",TV ALEPE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/72|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV ARAPUAN" tvg-logo="http://distv.net/icons/tvarapuan.png" group-title="CANAIS LOCAIS PARAIBA",TV ARAPUAN
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/98|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL" tvg-logo="http://distv.net/icons/tvbrasil.png" group-title="ENTRETENIMENTO",TV BRASIL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/241|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL 2" tvg-logo="http://distv.net/icons/tvbrasil.png" group-title="CANAIS LOCAIS",TV BRASIL 2
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/279|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV CABO BRANCO PB" tvg-logo="http://distv.net/icons/tvcabobranco.png" group-title="CANAIS LOCAIS PARAIBA",TV CABO BRANCO PB
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/100|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV CAMARA" tvg-logo="http://distv.net/icons/tvcamara.png" group-title="ENTRETENIMENTO",TV CAMARA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/222|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV CIDADE" tvg-logo="http://distv.net/icons/tvcidade.png" group-title=" CANAIS LOCAIS CARIRI-CE",TV CIDADE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/308|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV CORREIO PB" tvg-logo="http://distv.net/icons/tvcorreio.png" group-title="CANAIS LOCAIS PARAIBA",TV CORREIO PB
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/101|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV DIARIO" tvg-logo="http://distv.net/icons/tvdiario.png" group-title=" CANAIS LOCAIS CARIRI-CE",TV DIARIO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/309|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV ESCOLA DIGITAL" tvg-logo="http://distv.net/icons/TV%20ESCOLA%20DIGITAL.png" group-title="CANAIS LOCAIS",TV ESCOLA DIGITAL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/280|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV EVANGELIZAR" tvg-logo="http://distv.net/icons/tvevangelizar.png" group-title="CANAIS LOCAIS",TV EVANGELIZAR
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/91|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV GLOBO NE" tvg-logo="http://distv.net/icons/globonordeste.png" group-title=" CANAIS LOCAIS RECIFE",TV GLOBO NE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/75|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV GUARARAPES" tvg-logo="http://distv.net/icons/tv-guararapes.png" group-title=" CANAIS LOCAIS RECIFE",TV GUARARAPES
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/73|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO" tvg-logo="http://distv.net/icons/novotempo.png" group-title="ENTRETENIMENTO",TV NOVO TEMPO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/242|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV PAI ETERNO" tvg-logo="http://distv.net/icons/tvpaieterno.png" group-title="CANAIS LOCAIS",TV PAI ETERNO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/103|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV RA TIM BUM" tvg-logo="http://distv.net/icons/tvratimbum.png" group-title="KIDS",TV RA TIM BUM
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/204|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV RIOSUL" tvg-logo="http://distv.net/icons/tvriosul.png" group-title="CANAIS LOCAIS",TV RIOSUL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/283|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV TRIBUNA" tvg-logo="http://distv.net/icons/tvtribuna.png" group-title=" CANAIS LOCAIS RECIFE",TV TRIBUNA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/77|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV TROPICAL (RECORD TV)" tvg-logo="http://distv.net/icons/TV%20TROPICAL.png" group-title=" CANAIS LOCAIS NATAL",TV TROPICAL (RECORD TV)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/298|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV UFPB TV" tvg-logo="http://distv.net/icons/tvufpb.png" group-title="CANAIS LOCAIS PARAIBA",TV UFPB TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/104|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV UNIAO" tvg-logo="http://distv.net/icons/redeuniao.png" group-title="CANAIS LOCAIS",TV UNIAO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/92|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV VERDE MARES CE" tvg-logo="http://distv.net/icons/globotvverdesmares.png" group-title=" CANAIS LOCAIS CARIRI-CE",TV VERDE MARES CE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/306|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="TV VERDE VALE" tvg-logo="http://distv.net/icons/tvverdevale.png" group-title=" CANAIS LOCAIS CARIRI-CE",TV VERDE VALE
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/293|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="UNIVERSAL TV" tvg-logo="http://distv.net/icons/universalchannel.png" group-title="FILMES E SERIES",UNIVERSAL TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/205|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="VH1" tvg-logo="http://distv.net/icons/vh1megahits.png" group-title="ENTRETENIMENTO",VH1
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/206|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="VIVA" tvg-logo="http://distv.net/icons/viva.png" group-title="ENTRETENIMENTO",VIVA
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/207|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="WARNER CHANNEL" tvg-logo="http://distv.net/icons/warnerchannel.png" group-title="FILMES E SERIES",WARNER CHANNEL
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/208|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO" tvg-logo="http://distv.net/icons/woohoo.png" group-title="ENTRETENIMENTO",WOOHOO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/243|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
-#EXTINF:-1 tvg-id="" tvg-name="ZOOMOO" tvg-logo="http://distv.net/icons/zoomoo.png" group-title="KIDS",ZOOMOO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://rec2.distv.net:80/patricia/123456/244|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0 
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E FHD" tvg-logo="http://sbocs.no-ip.net/newlogos/USA/AandE.png" group-title="Canais | FILMES E SÉRIES ",A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20253|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E HD" tvg-logo="http://sbocs.no-ip.net/newlogos/USA/AandE.png" group-title="Canais | FILMES E SÉRIES ",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/236|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E SD" tvg-logo="http://sbocs.no-ip.net/newlogos/USA/AandE.png" group-title="Canais | FILMES E SÉRIES ",A&E SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/235|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="AgroMais HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/agromais.png" group-title="Canais | NOTÍCIAS ",AgroMais HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/48331|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="AgroMais SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/agromais.png" group-title="Canais | NOTÍCIAS ",AgroMais SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/48332|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://static.wixstatic.com/media/b13b12_1da24c6a749e4eefb4e6fc02f2368160~mv2.png" group-title="Canais | FILMES",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/512|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://static.wixstatic.com/media/b13b12_1da24c6a749e4eefb4e6fc02f2368160~mv2.png" group-title="Canais | FILMES",AMC SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/233|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/animalplanet.png" group-title="Canais | DOCUMENTÁRIOS ",Animal Planet FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20257|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/animalplanet.png" group-title="Canais | DOCUMENTÁRIOS ",Animal Planet HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/232|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="Animal Planet SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/animalplanet.png" group-title="Canais | DOCUMENTÁRIOS ",Animal Planet SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/231|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/axn.png" group-title="Canais | FILMES E SÉRIES ",AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20234|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/axn.png" group-title="Canais | FILMES E SÉRIES ",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/535|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/axn.png" group-title="Canais | FILMES E SÉRIES ",AXN SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/227|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="BabyTV HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/babytv.png" group-title="Canais | INFANTIL",BabyTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/226|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="babytv.br" tvg-name="BabyTV SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/babytv.png" group-title="Canais | INFANTIL",BabyTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/225|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band Campinas HD" tvg-logo="http://sbocs.no-ip.net/logo/bandcampinas.png" group-title="Canais | ABERTOS",Band Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/242|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band Campinas SD" tvg-logo="http://sbocs.no-ip.net/logo/bandcampinas.png" group-title="Canais | ABERTOS",Band Campinas SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/241|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/bandnews.png" group-title="Canais | NOTÍCIAS ",Band News HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/224|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="bandnews.br" tvg-name="Band News SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/bandnews.png" group-title="Canais | NOTÍCIAS ",Band News SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/223|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band SP HD" tvg-logo="http://sbocs.no-ip.net/logo/bandcampinas.png" group-title="Canais | ABERTOS",Band SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/130|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="band.br" tvg-name="Band SP SD" tvg-logo="http://sbocs.no-ip.net/logo/bandcampinas.png" group-title="Canais | ABERTOS",Band SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/129|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/bandsports.png" group-title="Canais | ESPORTES",Band Sports HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/221|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="Band Sports SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/bandsports.png" group-title="Canais | ESPORTES",Band Sports SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/220|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="Batman" tvg-logo="http://sbocs.no-ip.net/logo/24h/batman.png" group-title="Canais | CLÁSSICOS 24 HORAS ",Batman
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/44255|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="BBB 1 FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/49702|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="BBB 1 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/49701|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="BBB 1 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB 1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50011|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50014|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="BBB 2 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50015|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="BBB Academia" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB Academia
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50406|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="BBB Banheiro" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB Banheiro
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50407|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="BBB Confessionário" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB Confessionário
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50408|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="BBB Jardim" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB Jardim
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50409|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB Mosaico HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50012|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="BBB Mosaico SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB Mosaico SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50013|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="BBB Piscina" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB Piscina
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50410|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Grunge" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB Quarto Grunge
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50411|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="BBB Quarto Lollipop" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB Quarto Lollipop
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50412|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="BBB Sala" tvg-logo="http://sbocs.no-ip.net/logosiptv/reality/bbb.png" group-title="Canais - Reality - BBB 22",BBB Sala
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50413|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="bis.br" tvg-name="Bis HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/bis.png" group-title="Canais | MUSICAIS",Bis HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/219|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIs SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/bis.png" group-title="Canais | MUSICAIS",BIs SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/218|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/Bloomberg.png" group-title="Canais I CORTESIA",Bloomberg HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/49127|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/Bloomberg.png" group-title="Canais I CORTESIA",Bloomberg SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/49128|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Boavontadetv.br" tvg-name="Boa Vontade TV HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/boavontade.png" group-title="Canais I CORTESIA",Boa Vontade TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/49115|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Boavontadetv.br" tvg-name="Boa Vontade TV SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/boavontade.png" group-title="Canais I CORTESIA",Boa Vontade TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/49116|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/boomerang.png" group-title="Canais | INFANTIL",Boomerang HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/217|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="Boomerang SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/boomerang.png" group-title="Canais | INFANTIL",Boomerang SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/216|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/canaldoboi.png" group-title="Canais I CORTESIA",Canal do Boi HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20467|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="Canal do Boi SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/canaldoboi.png" group-title="Canais I CORTESIA",Canal do Boi SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/49046|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="Canal do Carro HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/canaldocarro.png" group-title="Canais | VARIEDADES",Canal do Carro HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/48327|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="Canal do Carro SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/canaldocarro.png" group-title="Canais | VARIEDADES",Canal do Carro SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/48328|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="Canal I Tv Igreja Mundial do Poder de Deus" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/igrejamundiareinodedeus.png" group-title="Canais | RELIGIÃO",Canal I Tv Igreja Mundial do Poder de Deus
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/23207|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="Canal Rural HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/canalrural.png" group-title="Canais I CORTESIA",Canal Rural HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/49121|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="Canal Rural SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/canalrural.png" group-title="Canais I CORTESIA",Canal Rural SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/49122|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/cancaonova.png" group-title="Canais | RELIGIÃO",Canção Nova HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/47755|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="cancaonova.br" tvg-name="Canção Nova SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/cancaonova.png" group-title="Canais | RELIGIÃO",Canção Nova SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/47756|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/cartoonnetwork.png" group-title="Canais | INFANTIL",Cartoon Network FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20267|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/cartoonnetwork.png" group-title="Canais | INFANTIL",Cartoon Network HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/524|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="cartoonnetwork.br" tvg-name="Cartoon Network SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/cartoonnetwork.png" group-title="Canais | INFANTIL",Cartoon Network SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/204|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/caroonito.png" group-title="Canais | INFANTIL",Cartoonito HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/49052|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/caroonito.png" group-title="Canais | INFANTIL",Cartoonito SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/49053|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="Cine Action 24H Ultra HD" tvg-logo="http://sbocs.no-ip.net/logo/cineaction.png" group-title="Canais |  24 HORAS",Cine Action 24H Ultra HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/548|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="Cine Action HD" tvg-logo="http://sbocs.no-ip.net/logo/cineaction.png" group-title="Canais |  24 HORAS",Cine Action HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/28657|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="Cine Drama 24H Ultra HD" tvg-logo="http://sbocs.no-ip.net/logo/cinedrama.png" group-title="Canais |  24 HORAS",Cine Drama 24H Ultra HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/550|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="Cine Family 24H" tvg-logo="http://sbocs.no-ip.net/logo/cinefamily.png" group-title="Canais |  24 HORAS",Cine Family 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/551|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="Cine Fiction 24H Ultra HD" tvg-logo="http://sbocs.no-ip.net/logo/fiction.png" group-title="Canais |  24 HORAS",Cine Fiction 24H Ultra HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/536|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="Cine Fun 24H Ultra HD" tvg-logo="http://sbocs.no-ip.net/logo/cinefun.png" group-title="Canais |  24 HORAS",Cine Fun 24H Ultra HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/552|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="Cine Guerra 24H Ultra HD" tvg-logo="https://imgur.com/fP9SNrP.png" group-title="Canais |  24 HORAS",Cine Guerra 24H Ultra HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/1477|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="Cine Horror 24H Ultra HD" tvg-logo="http://sbocs.no-ip.net/logo/cinehorror.png" group-title="Canais |  24 HORAS",Cine Horror 24H Ultra HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/553|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="CINE KIDS 24H ULTRA HD" tvg-logo="http://sbocs.no-ip.net/logo/cinekids.png" group-title="Canais |  24 HORAS",CINE KIDS 24H ULTRA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/554|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="CINE Nacionais 24H" tvg-logo="http://sbocs.no-ip.net/logo/cinenacional.png" group-title="Canais |  24 HORAS",CINE Nacionais 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/555|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 01 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 01 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/26714|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 02 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 02 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/26715|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 03 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 03 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/26716|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 04 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 04 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/26717|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 05 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 05 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/26718|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 06 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 06 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/26719|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 07 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 07 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/26720|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 08 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 08 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/26721|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 09 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 09 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/26722|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Cineskyplay.br" tvg-name="CINE SKY 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/79/Sky_Cinema.png" group-title="Canais I CINE SKY",CINE SKY 10 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/26723|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="Cinemax FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/cinemax.png" group-title="Canais | FILMES",Cinemax FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/36589|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/cinemax.png" group-title="Canais | FILMES",Cinemax HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/203|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="Cinemax SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/cinemax.png" group-title="Canais | FILMES",Cinemax SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/202|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="CNN International HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/mundo/cnninternacional.png" group-title="Canais | MUNDO INTERNACIONAL",CNN International HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/49125|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="CNN International SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/mundo/cnninternacional.png" group-title="Canais | MUNDO INTERNACIONAL",CNN International SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/49126|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/combate.png" group-title="Canais | PREMIERE",Combate FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/19526|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/combate.png" group-title="Canais | PREMIERE",Combate HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/201|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="combate.br" tvg-name="Combate SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/combate.png" group-title="Canais | PREMIERE",Combate SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/200|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/comedycentral.png" group-title="Canais | FILMES E SÉRIES ",Comedy Central FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20263|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/comedycentral.png" group-title="Canais | FILMES E SÉRIES ",Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/199|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="Comedy Central SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/comedycentral.png" group-title="Canais | FILMES E SÉRIES ",Comedy Central SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/198|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 1 HD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/18835|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="CONMEBOL TV 1 SD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",CONMEBOL TV 1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/19039|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 2 HD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/18836|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 2 SD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/19040|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 3 HD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/18837|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 3 SD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/19041|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 4 HD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/18838|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Conmeboltv1.br" tvg-name="Conmebol TV 4 SD" tvg-logo="https://designersbrasileiros.com.br/wp-content/uploads/2017/05/novo-logo-conmebol.png" group-title="Canais | ESPORTES",Conmebol TV 4 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/19042|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="Country Love Songs" tvg-logo="http://srv.maxptv.net:8080/images/206b90917d34b8dbb0c349284ece7e3c.png" group-title="Canais I Audio - Cortesia",Country Love Songs
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/49266|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="Country Music Hits" tvg-logo="http://srv.maxptv.net:8080/images/af476e94b091ba6e0d4a90f3bad43090.png" group-title="Canais I Audio - Cortesia",Country Music Hits
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/49268|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/cultura.png" group-title="Canais | ABERTOS",Cultura HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/197|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="cultura.br" tvg-name="Cultura SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/cultura.png" group-title="Canais | ABERTOS",Cultura SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/196|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/curta.png" group-title="Canais | VARIEDADES",Curta! HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/213|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="curta.br" tvg-name="Curta! SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/curta.png" group-title="Canais | VARIEDADES",Curta! SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/212|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://sbocs.no-ip.net/logosiptv/dazn/dazn.png" group-title="Canais I ESPORTES STREAMING",DAZN 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/19542|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="http://sbocs.no-ip.net/logosiptv/dazn/dazn.png" group-title="Canais I ESPORTES STREAMING",DAZN 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/19543|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="http://sbocs.no-ip.net/logosiptv/dazn/dazn.png" group-title="Canais I ESPORTES STREAMING",DAZN 3
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/19544|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="http://sbocs.no-ip.net/logosiptv/dazn/dazn.png" group-title="Canais I ESPORTES STREAMING",DAZN 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/19545|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5" tvg-logo="http://sbocs.no-ip.net/logosiptv/dazn/dazn.png" group-title="Canais I ESPORTES STREAMING",DAZN 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20459|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/duscoverychannel.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20225|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/duscoverychannel.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/195|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="discoverchannel.br" tvg-name="Discovery Channel SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/duscoverychannel.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/194|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/homehealt.png" group-title="Canais | VARIEDADES",Discovery Home & Health FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20265|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/homehealt.png" group-title="Canais | VARIEDADES",Discovery Home & Health HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/191|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Homehealth.br" tvg-name="Discovery Home & Health SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/homehealt.png" group-title="Canais | VARIEDADES",Discovery Home & Health SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/190|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/discoverykids.png" group-title="Canais | INFANTIL",Discovery Kids HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/189|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="Discovery Kids SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/discoverykids.png" group-title="Canais | INFANTIL",Discovery Kids SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/188|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/duscoveryscience.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Science FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20258|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/duscoveryscience.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Science HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/187|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="discoveryscience.br" tvg-name="Discovery Science SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/duscoveryscience.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Science SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/186|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/theather.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Theater HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/185|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="discoverytheater.br" tvg-name="Discovery Theater SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/theather.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Theater SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/184|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/discoveryturbo.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Turbo FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20266|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/discoveryturbo.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Turbo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/183|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="discoveryturbo.br" tvg-name="Discovery Turbo SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/discoveryturbo.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery Turbo SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/182|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/discoveryworld.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery World FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20259|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/discoveryworld.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery World HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/181|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="discoveryworld.br" tvg-name="Discovery World SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/discoveryworld.png" group-title="Canais | DOCUMENTÁRIOS ",Discovery World SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/180|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel  HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/disneychannel.png" group-title="Canais | INFANTIL",Disney Channel  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/179|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="Disneychannel.br" tvg-name="Disney Channel FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/disneychannel.png" group-title="Canais | INFANTIL",Disney Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20226|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="disney.br" tvg-name="Disney Channel SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/disneychannel.png" group-title="Canais | INFANTIL",Disney Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/178|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Junior HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/disneyjr.png" group-title="Canais | INFANTIL",Disney Junior HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/177|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="disneyjunior.br" tvg-name="Disney Junior SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/disneyjr.png" group-title="Canais | INFANTIL",Disney Junior SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/176|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="Disney XD HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/disneyxd.png" group-title="Canais | INFANTIL",Disney XD HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/175|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="disneyxd.br" tvg-name="Disney XD SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/disneyxd.png" group-title="Canais | INFANTIL",Disney XD SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/174|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="DOGTV.br" tvg-name="DogTV FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/dogtv.png" group-title="Canais | DOCUMENTÁRIOS ",DogTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/46139|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="DOGTV.br" tvg-name="DogTV HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/dogtv.png" group-title="Canais | DOCUMENTÁRIOS ",DogTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/22987|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="DOGTV.br" tvg-name="DogTV SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/dogtv.png" group-title="Canais | DOCUMENTÁRIOS ",DogTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/22988|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/e!.png" group-title="Canais | FILMES E SÉRIES ",E! HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/516|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/e!.png" group-title="Canais | FILMES E SÉRIES ",E! SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/172|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="EI Plus 1" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 1
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20395|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="EI Plus 10" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 10
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20235|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="EI Plus 2" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20244|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="EI Plus 3 " tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 3 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20242|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="EI Plus 4" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 4
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20241|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="EI Plus 5" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 5
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20240|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="EI Plus 6" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 6
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20239|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="EI Plus 7" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 7
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20238|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="EI Plus 8" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 8
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20237|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
+#EXTINF:-1 tvg-id="" tvg-name="EI Plus 9" tvg-logo="" group-title="Canais I ESPORTES STREAMING",EI Plus 9
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20236
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="EPTV Campinas FHD" tvg-logo="http://sbocs.no-ip.net/logo/eptvcampinas.png" group-title="Canais | ABERTOS",EPTV Campinas FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/34094
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="EPTV Campinas HD" tvg-logo="http://sbocs.no-ip.net/logo/eptvcampinas.png" group-title="Canais | ABERTOS",EPTV Campinas HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/238
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="EPTV Campinas HD 2" tvg-logo="http://sbocs.no-ip.net/logo/eptvcampinas.png" group-title="Canais | ABERTOS",EPTV Campinas HD 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/246
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="EPTV Campinas SD" tvg-logo="http://sbocs.no-ip.net/logo/eptvcampinas.png" group-title="Canais | ABERTOS",EPTV Campinas SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/237
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/espn.png" group-title="Canais | ESPORTES",ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/27272
+#EXTINF:-1 tvg-id="espnbrasil.br" tvg-name="ESPN SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/espn.png" group-title="Canais | ESPORTES",ESPN SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/27273
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN  2 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/espn2.png" group-title="Canais | ESPORTES",ESPN  2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/167
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN  2 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/espn2.png" group-title="Canais | ESPORTES",ESPN  2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/166
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN  3 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/novosespn/espn3.png" group-title="Canais | ESPORTES",ESPN  3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/171
+#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN  3 SD " tvg-logo="http://sbocs.no-ip.net/logosiptv/novosespn/espn3.png" group-title="Canais | ESPORTES",ESPN  3 SD 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/170
+#EXTINF:-1 tvg-id="Foxsports.br" tvg-name="ESPN 4 FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/novosespn/espn4.png" group-title="Canais | ESPORTES",ESPN 4 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20310
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="ESPN 4 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/novosespn/espn4.png" group-title="Canais | ESPORTES",ESPN 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/147
+#EXTINF:-1 tvg-id="foxsports.br" tvg-name="ESPN 4 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/novosespn/espn4.png" group-title="Canais | ESPORTES",ESPN 4 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/146
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="Espn Extra  SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/espnextra.png" group-title="Canais | ESPORTES",Espn Extra  SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/164
+#EXTINF:-1 tvg-id="espnextra.br" tvg-name="Espn Extra HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/espnextra.png" group-title="Canais | ESPORTES",Espn Extra HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/165
+#EXTINF:-1 tvg-id="" tvg-name="ESTADIO TNT SPORT 01 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/TNT_Sports_%282021%29.png/800px-TNT_Sports_%282021%29.png" group-title="Canais I TNT SPORTS",ESTADIO TNT SPORT 01 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/26738
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Film&Arts HD" tvg-logo="https://static.wixstatic.com/media/b13b12_716a17df3a654b65ac01971c7086b532~mv2.png" group-title="Canais | FILMES",Film&Arts HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/163
+#EXTINF:-1 tvg-id="Globorecife.br" tvg-name="Film&Arts SD" tvg-logo="https://static.wixstatic.com/media/b13b12_716a17df3a654b65ac01971c7086b532~mv2.png" group-title="Canais | FILMES",Film&Arts SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/162
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/fishtv.png" group-title="Canais | DOCUMENTÁRIOS ",Fish TV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20256
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/fishtv.png" group-title="Canais | DOCUMENTÁRIOS ",Fish TV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/525
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="Fish TV SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/fishtv.png" group-title="Canais | DOCUMENTÁRIOS ",Fish TV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/161
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/foodnetwork.png" group-title="Canais | VARIEDADES",Food Network HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/158
+#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="Food Network SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/foodnetwork.png" group-title="Canais | VARIEDADES",Food Network SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/159
+#EXTINF:-1 tvg-id="" tvg-name="For Man" tvg-logo="http://sbocs.no-ip.net/logosiptv/adultos24h/forman.png" group-title="Canais I Adultos 24h",For Man
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/42925
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX Sports 2 FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/foxsports2.png" group-title="Canais | ESPORTES",FOX Sports 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20311
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/foxsports2.png" group-title="Canais | ESPORTES",Fox Sports 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/529
+#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="Fox Sports 2 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/foxsports2.png" group-title="Canais | ESPORTES",Fox Sports 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/148
+#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/futura.png" group-title="Canais | DOCUMENTÁRIOS ",Futura HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/211
+#EXTINF:-1 tvg-id="futura.br" tvg-name="Futura SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/futura.png" group-title="Canais | DOCUMENTÁRIOS ",Futura SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/210
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png" group-title="Canais | FILMES E SÉRIES ",FX FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20275
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png" group-title="Canais | FILMES E SÉRIES ",FX HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/145
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/FX-logo.svg/1200px-FX-logo.svg.png" group-title="Canais | FILMES E SÉRIES ",FX SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/144
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO BRASILIA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50256
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO CENTRO AMERICA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO CENTRO AMERICA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50271
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50272
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO EPTV RIBEIRAO PRETO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50257
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV SUL DE MINAS HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO EPTV SUL DE MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50273
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO EPTV SUL MINAS HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO EPTV SUL MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50258
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO GRANDE MINAS HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO GRANDE MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50259
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO INTEGRAÇÃO HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO INTEGRAÇÃO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50260
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO INTER TV ALTO LITORAL HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO INTER TV ALTO LITORAL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50274
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO INTER TV CABUGI HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO INTER TV CABUGI HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50275
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO INTER TV DOS VALES HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO INTER TV DOS VALES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50276
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO MINAS HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50261
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NEWS HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50262
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NORDESTE HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NORDESTE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50263
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NSC BLUMENAU HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NSC BLUMENAU HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50277
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NSC CHAPECO HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NSC CHAPECO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50278
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NSC CRICIUMA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NSC CRICIUMA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50279
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NSC FLORIANOPOLIS HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NSC FLORIANOPOLIS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50264
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NSC JOINVILLE HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NSC JOINVILLE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50280
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO NSC TV FLORIANOPOLIS HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO NSC TV FLORIANOPOLIS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50281
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RBS PORTO ALEGRE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50265
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RBS PORTO ALEGRE HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RBS PORTO ALEGRE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50282
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RBS TV CAXIAS DO SUL HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RBS TV CAXIAS DO SUL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50283
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RBS TV PASSO FUNDO HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RBS TV PASSO FUNDO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50284
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RBS TV PELOTAS HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RBS TV PELOTAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50285
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO REDE AMAZONICA RONDONIA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO REDE AMAZONICA RONDONIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50286
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50266
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RPC CURITIBA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50287
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RPC FOZ DO IGUACU HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RPC FOZ DO IGUACU HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50288
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RPC PARANAVAI HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RPC PARANAVAI HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50289
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RPC TV PONTA GROSSA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO RPC TV PONTA GROSSA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50290
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO SP HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50267
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV ALAGOAS HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV ALAGOAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50291
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV ANHANGUERA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV ANHANGUERA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50292
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV BAHIA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50293
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV BELEM HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV BELEM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50268
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV DIARIO HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV DIARIO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50294
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV FRONTEIRA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV FRONTEIRA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50295
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV GAZETA SUL HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV GAZETA SUL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50296
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV INTEG. ARAXA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV INTEG. ARAXA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50297
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV INTEG. JUIZ DE FORA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV INTEG. JUIZ DE FORA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50298
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV MORENA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV MORENA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50299
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV NORDESTE HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV NORDESTE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50300
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV RIO SUL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50301
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV SERRA MAR HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV SERRA MAR HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50302
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV TEM BAURU HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV TEM BAURU HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50303
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV TEM S.J.R.PRETO HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV TEM S.J.R.PRETO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50269
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV TEM SJR.PRETO HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV TEM SJR.PRETO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50304
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV TEM SOROCABA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV TEM SOROCABA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50305
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV TRIBUNA SANTOS HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV TRIBUNA SANTOS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50306
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV VANG. S.J. CAMPOS HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV VANG. S.J. CAMPOS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50307
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV VANG. TAUBATE HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV VANG. TAUBATE HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50308
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV VITORIA HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO TV VITORIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50309
+#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO VERDES MARES HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/globos/globosregionais.png" group-title="Canais I GLOBO REGIONAIS",GLOBO VERDES MARES HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50310
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GloboNews HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/globonews.png" group-title="Canais | NOTÍCIAS ",GloboNews HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/143
+#EXTINF:-1 tvg-id="globonews.br" tvg-name="GloboNews SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/globonews.png" group-title="Canais | NOTÍCIAS ",GloboNews SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/142
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/gloob.png" group-title="Canais | INFANTIL",Gloob HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/530
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="Gloob SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/gloob.png" group-title="Canais | INFANTIL",Gloob SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/140
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/gnt.png" group-title="Canais | VARIEDADES",GNT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/139
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/gnt.png" group-title="Canais | VARIEDADES",GNT SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/138
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/h2.png" group-title="Canais | DOCUMENTÁRIOS ",H2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20260
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/h2.png" group-title="Canais | DOCUMENTÁRIOS ",H2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/137
+#EXTINF:-1 tvg-id="history2.br" tvg-name="H2 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/h2.png" group-title="Canais | DOCUMENTÁRIOS ",H2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/523
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbo2.png" group-title="Canais | HBO",HBO 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/19528
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbo2.png" group-title="Canais | HBO",HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/135
+#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO 2 SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbo2.png" group-title="Canais | HBO",HBO 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/134
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbofamily.png" group-title="Canais | HBO",HBO Family FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/19530
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbofamily.png" group-title="Canais | HBO",HBO Family HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/133
+#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO Family SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbofamily.png" group-title="Canais | HBO",HBO Family SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/132
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbo.png" group-title="Canais | HBO",HBO FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/19527
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbo.png" group-title="Canais | HBO",HBO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/131
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX STAR+ 01" tvg-logo="http://sbocs.no-ip.net/logosiptv/hbomax/hbomax1.png" group-title="Canais I ESPORTES STREAMING",HBO MAX STAR+ 01
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/47759
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX STAR+ 02" tvg-logo="http://sbocs.no-ip.net/logosiptv/hbomax/hbomax2.png" group-title="Canais I ESPORTES STREAMING",HBO MAX STAR+ 02
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/47761
+#EXTINF:-1 tvg-id="" tvg-name="HBO MAX STAR+ 03" tvg-logo="http://sbocs.no-ip.net/logosiptv/hbomax/hbomax3.png" group-title="Canais I ESPORTES STREAMING",HBO MAX STAR+ 03
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/47760
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20316
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/521
+#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO Mundi SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbomundi.png" group-title="Canais | HBO",HBO Mundi SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/112
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hboplus.png" group-title="Canais | HBO",HBO Plus FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/19529
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hboplus.png" group-title="Canais | HBO",HBO Plus HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/128
+#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO Plus SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hboplus.png" group-title="Canais | HBO",HBO Plus SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/127
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbopop.png" group-title="Canais | HBO",HBO Pop FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/19532
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbopop.png" group-title="Canais | HBO",HBO Pop HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/111
+#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO Pop SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbopop.png" group-title="Canais | HBO",HBO Pop SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/110
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbo.png" group-title="Canais | HBO",HBO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/126
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/19531
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/531
+#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO Signature SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hbosignature.png" group-title="Canais | HBO",HBO Signature SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/124
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20317
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/520
+#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO Xtreme SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/hboxtreme.png" group-title="Canais | HBO",HBO Xtreme SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/113
+#EXTINF:-1 tvg-id="" tvg-name="Hercules" tvg-logo="http://sbocs.no-ip.net/logo/24h/hercules.png" group-title="Canais | CLÁSSICOS 24 HORAS ",Hercules
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/43964
+#EXTINF:-1 tvg-id="discoverycivilization.br" tvg-name="HGTV HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/hgtv.png" group-title="Canais | DOCUMENTÁRIOS ",HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/193
+#EXTINF:-1 tvg-id="discoverycivilization.br" tvg-name="HGTV SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/hgtv.png" group-title="Canais | DOCUMENTÁRIOS ",HGTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/192
+#EXTINF:-1 tvg-id="" tvg-name="Hip Hop" tvg-logo="http://srv.maxptv.net:8080/images/f4e72bc32f2c636059d5f3ba44323921.png" group-title="Canais I Audio - Cortesia",Hip Hop
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/49253
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/history.png" group-title="Canais | DOCUMENTÁRIOS ",History Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20231
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/history.png" group-title="Canais | DOCUMENTÁRIOS ",History Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/532
+#EXTINF:-1 tvg-id="historychannel.br" tvg-name="History Channel SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/history.png" group-title="Canais | DOCUMENTÁRIOS ",History Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/122
+#EXTINF:-1 tvg-id="" tvg-name="Hits 90's" tvg-logo="http://srv.maxptv.net:8080/images/e9b7dbf423719adac41be4f4b262eaff.png" group-title="Canais I RÁDIOS FM",Hits 90's
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/23534
+#EXTINF:-1 tvg-id="" tvg-name="Hits Anos 80" tvg-logo="http://srv.maxptv.net:8080/images/b40fa9bf4cae2fe9f13b0b7833772443.png" group-title="Canais I RÁDIOS FM",Hits Anos 80
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/23535
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/id.png" group-title="Canais | FILMES E SÉRIES ",ID FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20254
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/id.png" group-title="Canais | FILMES E SÉRIES ",ID HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/121
+#EXTINF:-1 tvg-id="Investigacaodiscoveryid.br" tvg-name="ID SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/id.png" group-title="Canais | FILMES E SÉRIES ",ID SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/120
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/lifetime.png" group-title="Canais | FILMES E SÉRIES ",Lifetime FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20252
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/lifetime.png" group-title="Canais | FILMES E SÉRIES ",Lifetime HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/522
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="Lifetime SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/lifetime.png" group-title="Canais | FILMES E SÉRIES ",Lifetime SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/118
+#EXTINF:-1 tvg-id="" tvg-name="LOADING HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/loading.png" group-title="Canais | VARIEDADES",LOADING HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/48350
+#EXTINF:-1 tvg-id="" tvg-name="LOADING SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/loading.png" group-title="Canais | VARIEDADES",LOADING SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/48351
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/megapix.png" group-title="Canais | FILMES",Megapix HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/109
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="Megapix SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/megapix.png" group-title="Canais | FILMES",Megapix SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/108
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV 00s FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/mtv00.png" group-title="Canais | MUSICAIS",MTV 00s FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20262
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV 00s HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/mtv00.png" group-title="Canais | MUSICAIS",MTV 00s HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/8
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV 00s SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/mtv00.png" group-title="Canais | MUSICAIS",MTV 00s SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/7
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/mtv.png" group-title="Canais | MUSICAIS",MTV FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20261
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/mtv.png" group-title="Canais | MUSICAIS",MTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/519
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV Live HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/mtvlive.png" group-title="Canais | MUSICAIS",MTV Live HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20465
+#EXTINF:-1 tvg-id="" tvg-name="MTV LIVE SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/mtvlive.png" group-title="Canais | MUSICAIS",MTV LIVE SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/48337
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/mtv.png" group-title="Canais | MUSICAIS",MTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/106
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/multshow.png" group-title="Canais | MUSICAIS",Multishow HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/105
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/musicais/multshow.png" group-title="Canais | MUSICAIS",Multishow SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/104
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/musicboxbrasil.png" group-title="Canais | MUSICAIS",Music Box Brazil HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/48342
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/musicboxbrasil.png" group-title="Canais | MUSICAIS",Music Box Brazil SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/48343
+#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="Nat Geo Kids FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/natgeokids.png" group-title="Canais | INFANTIL",Nat Geo Kids FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20312
+#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="Nat Geo Kids HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/natgeokids.png" group-title="Canais | INFANTIL",Nat Geo Kids HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/518
+#EXTINF:-1 tvg-id="natgeokids.br" tvg-name="Nat Geo Kids SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/natgeokids.png" group-title="Canais | INFANTIL",Nat Geo Kids SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/102
+#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="Nat Geo Wild FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/natgeowild.png" group-title="Canais | DOCUMENTÁRIOS ",Nat Geo Wild FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20273
+#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="Nat Geo Wild HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/natgeowild.png" group-title="Canais | DOCUMENTÁRIOS ",Nat Geo Wild HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/101
+#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="Nat Geo Wild SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/natgeowild.png" group-title="Canais | DOCUMENTÁRIOS ",Nat Geo Wild SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/100
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/nationalgeografic.png" group-title="Canais | DOCUMENTÁRIOS ",National Geographic FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20272
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/nationalgeografic.png" group-title="Canais | DOCUMENTÁRIOS ",National Geographic HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/99
+#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="National Geographic SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/documentarios/nationalgeografic.png" group-title="Canais | DOCUMENTÁRIOS ",National Geographic SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/98
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/mundo/nhk.png" group-title="Canais | MUNDO INTERNACIONAL",NHK HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/97
+#EXTINF:-1 tvg-id="Nhk.br" tvg-name="NHK SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/mundo/nhk.png" group-title="Canais | MUNDO INTERNACIONAL",NHK SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/96
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick Jr. FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/nickjr.png" group-title="Canais | INFANTIL",Nick Jr. FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20314
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick Jr. HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/nickjr.png" group-title="Canais | INFANTIL",Nick Jr. HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/95
+#EXTINF:-1 tvg-id="nickjr.br" tvg-name="Nick Jr. SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/nickjr.png" group-title="Canais | INFANTIL",Nick Jr. SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/94
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/nicklodeon.png" group-title="Canais | INFANTIL",Nickelodeon FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20313
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/nicklodeon.png" group-title="Canais | INFANTIL",Nickelodeon HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/93
+#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="Nickelodeon SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/nicklodeon.png" group-title="Canais | INFANTIL",Nickelodeon SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/92
+#EXTINF:-1 tvg-id="" tvg-name="Nova Brasil FM Campinas" tvg-logo="https://cdn-profiles.tunein.com/s151034/images/logoq.png?t=160459" group-title="Canais I RÁDIOS FM",Nova Brasil FM Campinas
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/23671
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/canaloff.png" group-title="Canais | VARIEDADES",OFF HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/209
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/canaloff.png" group-title="Canais | VARIEDADES",OFF SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/208
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel FHD" tvg-logo="http://sbocs.no-ip.net/logo2/paramounthd.png" group-title="Canais | FILMES",Paramount Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20264
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel HD" tvg-logo="http://sbocs.no-ip.net/logo2/paramounthd.png" group-title="Canais | FILMES",Paramount Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/91
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="Paramount Channel SD" tvg-logo="http://sbocs.no-ip.net/logo2/paramounthd.png" group-title="Canais | FILMES",Paramount Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/90
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere.png" group-title="Canais | PREMIERE",Premiere 1 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/86
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 HD²" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere.png" group-title="Canais | PREMIERE",Premiere 1 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/247
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 HD³" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere.png" group-title="Canais | PREMIERE",Premiere 1 HD³
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/46681
+#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="Premiere 1 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere.png" group-title="Canais | PREMIERE",Premiere 1 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/85
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere2.png" group-title="Canais | PREMIERE",Premiere 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/13216
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 HD²" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere2.png" group-title="Canais | PREMIERE",Premiere 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/1462
+#EXTINF:-1 tvg-id="premiere2.br" tvg-name="Premiere 2 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere2.png" group-title="Canais | PREMIERE",Premiere 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/83
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere3.png" group-title="Canais | PREMIERE",Premiere 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/82
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 HD²" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere3.png" group-title="Canais | PREMIERE",Premiere 3 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/1463
+#EXTINF:-1 tvg-id="premiere3.br" tvg-name="Premiere 3 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere3.png" group-title="Canais | PREMIERE",Premiere 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/81
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere4.png" group-title="Canais | PREMIERE",Premiere 4 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/80
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 HD²" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere4.png" group-title="Canais | PREMIERE",Premiere 4 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/1464
+#EXTINF:-1 tvg-id="premiere4.br" tvg-name="Premiere 4 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere4.png" group-title="Canais | PREMIERE",Premiere 4 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/79
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere5.png" group-title="Canais | PREMIERE",Premiere 5 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/78
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 HD²" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere5.png" group-title="Canais | PREMIERE",Premiere 5 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/1465
+#EXTINF:-1 tvg-id="premiere5.br" tvg-name="Premiere 5 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere5.png" group-title="Canais | PREMIERE",Premiere 5 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/77
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere6.png" group-title="Canais | PREMIERE",Premiere 6 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/76
+#EXTINF:-1 tvg-id="premiere6.br" tvg-name="Premiere 6 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere6.png" group-title="Canais | PREMIERE",Premiere 6 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/75
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere7.png" group-title="Canais | PREMIERE",Premiere 7 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/74
+#EXTINF:-1 tvg-id="premiere7.br" tvg-name="Premiere 7 HD²" tvg-logo="http://sbocs.no-ip.net/logosiptv/premiere/premiere7.png" group-title="Canais | PREMIERE",Premiere 7 HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/1467
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/primeboxbrasil.png" group-title="Canais | FILMES",Prime Box Brazil HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/48344
+#EXTINF:-1 tvg-id="" tvg-name="Prime Box Brazil SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/primeboxbrasil.png" group-title="Canais | FILMES",Prime Box Brazil SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/48345
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD BAHIA HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50368
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record BH HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",Record BH HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50369
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD CAMPINAS HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50380
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD DF HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD DF HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50370
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD DF HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD DF HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50371
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title="Canais | ABERTOS",Record HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/240
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record HD 2" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title="Canais | ABERTOS",Record HD 2
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/68
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD INTERIOR SP HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD INTERIOR SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50377
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD MG HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD MG HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50372
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/recordnews.png" group-title="Canais | NOTÍCIAS ",Record News HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/67
+#EXTINF:-1 tvg-id="recordnews.br" tvg-name="Record News SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/recordnews.png" group-title="Canais | NOTÍCIAS ",Record News SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/66
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD PA HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD PA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50373
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD PA HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD PA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50382
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD PAULISTA HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD PAULISTA HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50378
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD RJ HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD RJ HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50374
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD RS HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD RS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50375
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record SD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title="Canais | ABERTOS",Record SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/239
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD SJR.PRETO HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD SJR.PRETO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50381
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record SP HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title="Canais | ABERTOS",Record SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/65
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD SP HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD SP HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50376
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="Record SP SD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title="Canais | ABERTOS",Record SP SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/64
+#EXTINF:-1 tvg-id="recordtv.br" tvg-name="RECORD VILA REAL HD" tvg-logo="http://sbocs.no-ip.net/logo/rederecord.png" group-title=" Canais I RECORD REGIONAIS ",RECORD VILA REAL HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50379
+#EXTINF:-1 tvg-id="" tvg-name="Rede Família SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/redefamilia.png" group-title="Canais | RELIGIÃO",Rede Família SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/48346
+#EXTINF:-1 tvg-id="RedeFami­lia.br" tvg-name="Rede Família SHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/redefamilia.png" group-title="Canais | RELIGIÃO",Rede Família SHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/31823
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="Rede Massa SBT HD" tvg-logo="http://sbocs.no-ip.net/logo/sbt.png" group-title="Canais | ABERTOS",Rede Massa SBT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/34300
+#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/redevida.png" group-title="Canais | RELIGIÃO",Rede Vida HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/62
+#EXTINF:-1 tvg-id="redevida.br" tvg-name="Rede Vida SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/redevida.png" group-title="Canais | RELIGIÃO",Rede Vida SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/63
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV HD" tvg-logo="http://sbocs.no-ip.net/logo/redetv.png" group-title="Canais | ABERTOS",RedeTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/61
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="RedeTV SD" tvg-logo="http://sbocs.no-ip.net/logo/redetv.png" group-title="Canais | ABERTOS",RedeTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/60
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="Rá -Tim Bum- HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/ratimbum.png" group-title="Canais | INFANTIL",Rá -Tim Bum- HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/70
+#EXTINF:-1 tvg-id="ratimbum.br" tvg-name="Rá- Tim- Bum SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/ratimbum.png" group-title="Canais | INFANTIL",Rá- Tim- Bum SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/69
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT HD" tvg-logo="http://sbocs.no-ip.net/logo/sbt.png" group-title="Canais | ABERTOS",SBT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/59
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SD" tvg-logo="http://sbocs.no-ip.net/logo/sbt.png" group-title="Canais | ABERTOS",SBT SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/58
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/canalsony.png" group-title="Canais | FILMES E SÉRIES ",Sony Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20233
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/canalsony.png" group-title="Canais | FILMES E SÉRIES ",Sony Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/53
+#EXTINF:-1 tvg-id="sony.br" tvg-name="Sony Channel SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/canalsony.png" group-title="Canais | FILMES E SÉRIES ",Sony Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/52
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space FHD" tvg-logo="http://sbocs.no-ip.net/logo2/spacehd.png" group-title="Canais | FILMES",Space FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20271
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space HD" tvg-logo="http://sbocs.no-ip.net/logo2/spacehd.png" group-title="Canais | FILMES",Space HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/51
+#EXTINF:-1 tvg-id="space.br" tvg-name="Space SD" tvg-logo="http://sbocs.no-ip.net/logo2/spacehd.png" group-title="Canais | FILMES",Space SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/50
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/sportv.png" group-title="Canais | ESPORTES",SporTV HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/49
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SporTV SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/sportv.png" group-title="Canais | ESPORTES",SporTV SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/48
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/sportv2.png" group-title="Canais | ESPORTES",SporTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/47
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SporTV 2 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/sportv2.png" group-title="Canais | ESPORTES",SporTV 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/46
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/sportv3.png" group-title="Canais | ESPORTES",SporTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/45
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SporTV 3 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/esportes/sportv3.png" group-title="Canais | ESPORTES",SporTV 3 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/44
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" group-title="Canais | FILMES E SÉRIES ",Star Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20274
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" group-title="Canais | FILMES E SÉRIES ",Star Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/157
+#EXTINF:-1 tvg-id="Fox.br" tvg-name="Star Channel SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Channel_2020.svg/800px-Star_Channel_2020.svg.png" group-title="Canais | FILMES E SÉRIES ",Star Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/150
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Star Hits 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Star_Premium_2021.svg/640px-Star_Premium_2021.svg.png" group-title="Canais | FILMES E SÉRIES ",Star Hits 2 FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20251
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Star Hits 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Star_Premium_2021.svg/640px-Star_Premium_2021.svg.png" group-title="Canais | FILMES E SÉRIES ",Star Hits 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/526
+#EXTINF:-1 tvg-id="Foxpremium2.br" tvg-name="Star Hits 2 SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Star_Premium_2021.svg/640px-Star_Premium_2021.svg.png" group-title="Canais | FILMES E SÉRIES ",Star Hits 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/527
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Star Hits FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Star_Premium_2021.svg/640px-Star_Premium_2021.svg.png" group-title="Canais | FILMES E SÉRIES ",Star Hits FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20250
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Star Hits HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Star_Premium_2021.svg/640px-Star_Premium_2021.svg.png" group-title="Canais | FILMES E SÉRIES ",Star Hits HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/528
+#EXTINF:-1 tvg-id="Foxpremium1.br" tvg-name="Star Hits SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Star_Premium_2021.svg/640px-Star_Premium_2021.svg.png" group-title="Canais | FILMES E SÉRIES ",Star Hits SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/151
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Star Life FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="Canais | VARIEDADES",Star Life FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20245
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Star Life HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="Canais | VARIEDADES",Star Life HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/156
+#EXTINF:-1 tvg-id="Foxlife.br" tvg-name="Star Life SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Star_Life_2021.svg/1200px-Star_Life_2021.svg.png" group-title="Canais | VARIEDADES",Star Life SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/155
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus HD" tvg-logo="http://sbocs.no-ip.net/logo/24h/starplus.png" group-title="Canais I ESPORTES STREAMING",Star Plus HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/46598
+#EXTINF:-1 tvg-id="" tvg-name="Star Plus SD" tvg-logo="http://sbocs.no-ip.net/logo/24h/starplus.png" group-title="Canais I ESPORTES STREAMING",Star Plus SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/46599
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal HD" tvg-logo="http://sbocs.no-ip.net/logo/universalchannel.png" group-title="Canais | FILMES",Studio Universal HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/43
+#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="Studio Universal SD" tvg-logo="http://sbocs.no-ip.net/logo/universalchannel.png" group-title="Canais | FILMES",Studio Universal SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/42
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy FHD" tvg-logo="http://cosmonerd.com.br/wp-content/uploads/2016/11/unnamed-1.png" group-title="Canais | FILMES E SÉRIES ",Syfy FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20255
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy HD" tvg-logo="http://cosmonerd.com.br/wp-content/uploads/2016/11/unnamed-1.png" group-title="Canais | FILMES E SÉRIES ",Syfy HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/41
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="Syfy SD" tvg-logo="http://cosmonerd.com.br/wp-content/uploads/2016/11/unnamed-1.png" group-title="Canais | FILMES E SÉRIES ",Syfy SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/40
+#EXTINF:-1 tvg-id="" tvg-name="Sítio do Pica pau Amarelo" tvg-logo="http://sbocs.no-ip.net/logo/24h/sitiodopicapau.png" group-title="Canais | CLÁSSICOS 24 HORAS ",Sítio do Pica pau Amarelo
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/44254
+#EXTINF:-1 tvg-id="" tvg-name="Sítio do Pica Pau Amarelo 24H" tvg-logo="" group-title="Canais | INFANTIL 24 HORAS",Sítio do Pica Pau Amarelo 24H
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/40796
+#EXTINF:-1 tvg-id="" tvg-name="Taz-Mania (1991)" tvg-logo="" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",Taz-Mania (1991)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/49751
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/tbs.png" group-title="Canais | FILMES E SÉRIES ",TBS FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20268
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/tbs.png" group-title="Canais | FILMES E SÉRIES ",TBS HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/39
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/tbs.png" group-title="Canais | FILMES E SÉRIES ",TBS SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/38
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM HD" tvg-logo="http://sbocs.no-ip.net/logo2/tcm.png" group-title="Canais | FILMES",TCM HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/37
+#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM SD" tvg-logo="http://sbocs.no-ip.net/logo2/tcm.png" group-title="Canais | FILMES",TCM SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/36
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecineaction.png" group-title="Canais | TELECINE",Telecine Action FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20247
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecineaction.png" group-title="Canais | TELECINE",Telecine Action HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/35
+#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="Telecine Action SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecineaction.png" group-title="Canais | TELECINE",Telecine Action SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/34
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinecult.png" group-title="Canais | TELECINE",Telecine Cult FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20246
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinecult.png" group-title="Canais | TELECINE",Telecine Cult HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/33
+#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="Telecine Cult SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinecult.png" group-title="Canais | TELECINE",Telecine Cult SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/32
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinefun.png" group-title="Canais | TELECINE",Telecine Fun FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20248
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinefun.png" group-title="Canais | TELECINE",Telecine Fun HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/31
+#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="Telecine Fun SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinefun.png" group-title="Canais | TELECINE",Telecine Fun SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/30
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinepipoca.png" group-title="Canais | TELECINE",Telecine Pipoca FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20230
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinepipoca.png" group-title="Canais | TELECINE",Telecine Pipoca HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/29
+#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="Telecine Pipoca SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinepipoca.png" group-title="Canais | TELECINE",Telecine Pipoca SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/28
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinepremiun.png" group-title="Canais | TELECINE",Telecine Premium FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20228
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinepremiun.png" group-title="Canais | TELECINE",Telecine Premium HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/27
+#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="Telecine Premium SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinepremiun.png" group-title="Canais | TELECINE",Telecine Premium SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/26
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinetouch.png" group-title="Canais | TELECINE",Telecine Touch FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20229
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinetouch.png" group-title="Canais | TELECINE",Telecine Touch HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/25
+#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="Telecine Touch SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/telecinetouch.png" group-title="Canais | TELECINE",Telecine Touch SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/24
+#EXTINF:-1 tvg-id="terraviva.br" tvg-name="Terra Viva HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/terraviva.png" group-title="Canais I CORTESIA",Terra Viva HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/49048
+#EXTINF:-1 tvg-id="terraviva.br" tvg-name="Terra Viva SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/terraviva.png" group-title="Canais I CORTESIA",Terra Viva SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/49049
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/1200px-TLC-Logo_2016.png" group-title="Canais | VARIEDADES",TLC HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/23
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/TLC-Logo_2016.png/1200px-TLC-Logo_2016.png" group-title="Canais | VARIEDADES",TLC SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/22
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD" tvg-logo="http://sbocs.no-ip.net/logo2/tnthd.png" group-title="Canais | FILMES",TNT FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20270
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD" tvg-logo="http://sbocs.no-ip.net/logo2/tnthd.png" group-title="Canais | FILMES",TNT HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/21
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT HD²" tvg-logo="http://sbocs.no-ip.net/logo2/tnthd.png" group-title="Canais | FILMES",TNT HD²
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/13873
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT SD" tvg-logo="http://sbocs.no-ip.net/logo2/tnthd.png" group-title="Canais | FILMES",TNT SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Séries FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/tntseries.png" group-title="Canais | FILMES E SÉRIES ",TNT Séries FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20269
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Séries HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/tntseries.png" group-title="Canais | FILMES E SÉRIES ",TNT Séries HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/517
+#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT Séries SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/tntseries.png" group-title="Canais | FILMES E SÉRIES ",TNT Séries SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/18
+#EXTINF:-1 tvg-id="" tvg-name="Todo Mundo Odeia o Cris" tvg-logo="http://sbocs.no-ip.net/logo/todomundoodeiaocris.png" group-title="Canais |  24 HORAS",Todo Mundo Odeia o Cris
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/317
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/tooncast.png" group-title="Canais | INFANTIL",Tooncast HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/17
+#EXTINF:-1 tvg-id="tooncast.br" tvg-name="Tooncast SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/tooncast.png" group-title="Canais | INFANTIL",Tooncast SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/16
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/tvaparecida.png" group-title="Canais | RELIGIÃO",TV Aparecida HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/15
+#EXTINF:-1 tvg-id="tvaparecida.br" tvg-name="TV Aparecida SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/tvaparecida.png" group-title="Canais | RELIGIÃO",TV Aparecida SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/14
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil  HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/tvbrasil.png" group-title="Canais I CORTESIA",TV Brasil  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/47534
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil 2 HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/tvbrasil2.png" group-title="Canais I CORTESIA",TV Brasil 2 HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/49111
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil 2 SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/tvbrasil2.png" group-title="Canais I CORTESIA",TV Brasil 2 SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/49112
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil FHD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/tvbrasil.png" group-title="Canais I CORTESIA",TV Brasil FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20308
+#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV Brasil SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/tvbrasil.png" group-title="Canais I CORTESIA",TV Brasil SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/47535
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV Gazeta FHD" tvg-logo="http://srv.maxptv.net:8080/images/ab81a01d70dfed850894655b5903e732.png" group-title="Canais I CORTESIA",TV Gazeta FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/49239
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="TV Gazeta HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/gazeta.png" group-title="Canais I CORTESIA",TV Gazeta HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/27160
+#EXTINF:-1 tvg-id="tvgazeta.br" tvg-name="Tv Gazeta SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/cortesia/gazeta.png" group-title="Canais I CORTESIA",Tv Gazeta SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/22948
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Tv Globinho  HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/tvglobinho.png" group-title="Canais | INFANTIL",Tv Globinho  HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/215
+#EXTINF:-1 tvg-id="Gloobinho.br" tvg-name="Tv Globinho SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/tvglobinho.png" group-title="Canais | INFANTIL",Tv Globinho SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/214
+#EXTINF:-1 tvg-id="tvjustica.br" tvg-name="Tv Justiça" tvg-logo="http://sbocs.no-ip.net/logosiptv/noticias/tvjustica.png" group-title="Canais | NOTÍCIAS ",Tv Justiça
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/23531
+#EXTINF:-1 tvg-id="novotempo.br" tvg-name="TV Novo Tempo HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/novotempo.png" group-title="Canais | RELIGIÃO",TV Novo Tempo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20464
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/novotempo.png" group-title="Canais | RELIGIÃO",TV NOVO TEMPO HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/48339
+#EXTINF:-1 tvg-id="" tvg-name="TV NOVO TEMPO SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/religiao/novotempo.png" group-title="Canais | RELIGIÃO",TV NOVO TEMPO SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/48338
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal Channel HD" tvg-logo="http://sbocs.no-ip.net/logo/universalchannel.png" group-title="Canais | FILMES E SÉRIES ",Universal Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/13215
+#EXTINF:-1 tvg-id="Universalchannel.br" tvg-name="Universal Channel SD" tvg-logo="http://sbocs.no-ip.net/logo/universalchannel.png" group-title="Canais | FILMES E SÉRIES ",Universal Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/11
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/viva.png" group-title="Canais | VARIEDADES",Viva HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/6
+#EXTINF:-1 tvg-id="viva.br" tvg-name="Viva SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/viva.png" group-title="Canais | VARIEDADES",Viva SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/5
+#EXTINF:-1 tvg-id="" tvg-name="WandaVision" tvg-logo="http://sbocs.no-ip.net/logo/wandavision.png" group-title="Canais | INFANTIL 24 HORAS",WandaVision
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/46523
+#EXTINF:-1 tvg-id="Warnerchannel.br" tvg-name="Warner Channel FHD" tvg-logo="http://sbocs.no-ip.net/logo/canais/warner.png" group-title="Canais | FILMES E SÉRIES ",Warner Channel FHD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/20232
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel HD" tvg-logo="http://sbocs.no-ip.net/logo/canais/warner.png" group-title="Canais | FILMES E SÉRIES ",Warner Channel HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/4
+#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="Warner Channel SD" tvg-logo="http://sbocs.no-ip.net/logo/canais/warner.png" group-title="Canais | FILMES E SÉRIES ",Warner Channel SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/3
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/wohoo.png" group-title="Canais | VARIEDADES",Woohoo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/207
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="Woohoo SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/variedades/wohoo.png" group-title="Canais | VARIEDADES",Woohoo SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/206
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZooMoo HD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/zoomo.png" group-title="Canais | INFANTIL",ZooMoo HD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/2
+#EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZooMoo SD" tvg-logo="http://sbocs.no-ip.net/logosiptv/infantil/zoomo.png" group-title="Canais | INFANTIL",ZooMoo SD
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=RamalhoIPTV(44)998656144;&buffer=60000;url=http://51.89.98.62:8080/BMW057/234567/1
 
 
 
