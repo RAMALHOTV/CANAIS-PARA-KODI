@@ -416,3 +416,5 @@ http://massud.homelinux.com:80/live/n9rQ8F68ceIORkn4/UvhxrwPaFA1YU6jU/48564.m3u8
 http://massud.homelinux.com:80/live/n9rQ8F68ceIORkn4/UvhxrwPaFA1YU6jU/48565.m3u8
 #EXTINF:-1 tvg-id="TVNOVOTEMPO" tvg-name="NOVO TEMPO HD" tvg-logo="http://painelgerenciador.com.br/icons/novotempo.png" group-title="RELIGIOSOS",NOVO TEMPO HD
 http://massud.homelinux.com:80/live/n9rQ8F68ceIORkn4/UvhxrwPaFA1YU6jU/48566.m3u8
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE 4K" tvg-logo="http://kanawat.com.br/icons/combate.png" group-title="ESPORTES",COMBATE 4K
+http://massud.homelinux.com:80/EUWr5AsG0wiSB7x7/ndIPdfEVJlJ31Dkr/14353.m3u8
