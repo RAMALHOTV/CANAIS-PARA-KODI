@@ -24,8 +24,8 @@ https://www.youtube.com/channel/UCojJlqr-L
 #EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV 
 https://www.youtube.com/channel/UCojJlqr-
 
-
-#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="24h I Chaves " tvg-logo="http://falko.myddns.me/Logos/Infantil24h/153.png" group-title="Canais | INFANTIL 24 HORAS",24h I Chaves 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0&amp;url=http://51.89.98.62:8080/BMW893/121212/40813
 #EXTINF:-1 tvg-id="" tvg-name="24H CAVERNA DO DRAGÃO" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/149.png" group-title=" Canais | CLÁSSICOS DESENHOS 24 HORAS ",24H CAVERNA DO DRAGÃO
  plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;name=RamalhoIPTV&amp;buffer=5049&amp;url=http://51.89.98.62:8080/osmarino/12345678/28136|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0
 #EXTINF:-1 tvg-id="" tvg-name="A Pequena Sereia (1992)" tvg-logo="http://falko.myddns.me/Logos/Infantil24h/136.png" group-title="Canais | INFANTIL 24 HORAS",A Pequena Sereia (1992)
