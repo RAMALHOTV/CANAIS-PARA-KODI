@@ -1,13 +1,6 @@
 
 
 
-
-
-
-
-
-
-
 #EXTM3U
 #EXTINF:-1[B][COLOR red] RamalhoIPTV[/B][/COLOR]
 http://canais.servidor
