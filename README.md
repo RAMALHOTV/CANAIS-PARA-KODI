@@ -1186,3 +1186,196 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]R
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/5533
 #EXTINF:-1 tvg-id="zoomoo.br" tvg-name="ZOOMOO SD" tvg-logo="https://imagizer.imageshack.com/img921/6128/Ucr8mo.png" group-title="CANAIS | INFANTIS",ZOOMOO SD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/23669
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E H265 DUALAUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",A&E H265 DUALAUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923202
+#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC FHD DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",AMC FHD DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923203
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET H265 " tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",ANIMAL PLANET H265 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923204
+#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN H265 " tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",AXN H265 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923205
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="BAND NEWS H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",BAND NEWS H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923206
+#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORTS H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",BAND SPORTS H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923207
+#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS H265 DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",BIS H265 DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923208
+#EXTINF:-1 tvg-id="boomerang.br" tvg-name="BOOMERANG H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",BOOMERANG H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923209
+#EXTINF:-1 tvg-id="canal.brasil.br" tvg-name="CANAL BRASIL H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",CANAL BRASIL H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923210
+#EXTINF:-1 tvg-id="sony.br" tvg-name="CANAL SONY  H265 :" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",CANAL SONY  H265 :
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923211
+#EXTINF:-1 tvg-id="cartoon.network.br" tvg-name="CARTOON NETWORK   H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",CARTOON NETWORK   H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923212
+#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX H265 DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",CINEMAX H265 DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923213
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="COMBATE H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",COMBATE H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923214
+#EXTINF:-1 tvg-id="comedy.central.br" tvg-name="COMEDY CENTRAL H265 DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",COMEDY CENTRAL H265 DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923215
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="DISCOVERY CHANNEL H265 DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",DISCOVERY CHANNEL H265 DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923216
+#EXTINF:-1 tvg-id="hgtv.br" tvg-name="HGTV H265 " tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",HGTV H265 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923217
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",DISCOVERY KIDS H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923219
+#EXTINF:-1 tvg-id="discovery.science.br" tvg-name="DISCOVERY SCIENCE H265 " tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",DISCOVERY SCIENCE H265 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923220
+#EXTINF:-1 tvg-id="discovery.theater.br" tvg-name="DISCOVERY THEATER H265:DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",DISCOVERY THEATER H265:DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923221
+#EXTINF:-1 tvg-id="discovery.turbo.br" tvg-name="DISCOVERY TURBO H265 DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",DISCOVERY TURBO H265 DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923222
+#EXTINF:-1 tvg-id="discovery.world.br" tvg-name="DISCOVERY  WORLD H265 DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",DISCOVERY  WORLD H265 DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923223
+#EXTINF:-1 tvg-id="disney.br" tvg-name="DISNEY CHANNEL H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",DISNEY CHANNEL H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923224
+#EXTINF:-1 tvg-id="e.br" tvg-name="E! FHD H265 DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",E! FHD H265 DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923225
+#EXTINF:-1 tvg-id="espn.extra.br" tvg-name="ESPN EXTRA H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",ESPN EXTRA H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923226
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",ESPN 2 H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923227
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 3  H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",ESPN 3  H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923228
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",ESPN H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923229
+#EXTINF:-1 tvg-id="fishtv.br" tvg-name="FISH TV H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",FISH TV H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923230
+#EXTINF:-1 tvg-id="food.network.br" tvg-name="FOOD NETWORK  H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",FOOD NETWORK  H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923231
+#EXTINF:-1 tvg-id="star.br" tvg-name="STAR CHANNEL H265 DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",STAR CHANNEL H265 DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923232
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 4 H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",ESPN 4 H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923233
+#EXTINF:-1 tvg-id="fox.sports.2.br" tvg-name="FOX SPORTS 2 H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",FOX SPORTS 2 H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923234
+#EXTINF:-1 tvg-id="fx.br" tvg-name="FX H265 " tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",FX H265 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923235
+#EXTINF:-1 tvg-id="globo.news.br" tvg-name="GLOBO NEWS H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",GLOBO NEWS H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923236
+#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",GLOOB H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923237
+#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT FHD DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",GNT FHD DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923238
+#EXTINF:-1 tvg-id="hbo.family.br" tvg-name="HBO FAMILLY H265 DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",HBO FAMILLY H265 DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923239
+#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO H265 DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",HBO H265 DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923240
+#EXTINF:-1 tvg-id="hbo.plus.br" tvg-name="HBO PLUS H265 DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",HBO PLUS H265 DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923241
+#EXTINF:-1 tvg-id="hbo.signature.br" tvg-name="HBO SIGNATURE H265 DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",HBO SIGNATURE H265 DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923242
+#EXTINF:-1 tvg-id="hbo.2.br" tvg-name="HBO 2 H265 DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",HBO 2 H265 DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923243
+#EXTINF:-1 tvg-id="history.br" tvg-name="HISTORY H265 " tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",HISTORY H265 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923244
+#EXTINF:-1 tvg-id="history.2.br" tvg-name="HISTORY 2 H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",HISTORY 2 H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923245
+#EXTINF:-1 tvg-id="investigacao.discovery.br" tvg-name="INVESTIGATION DISCOVERY H265 DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",INVESTIGATION DISCOVERY H265 DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923246
+#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFETIME H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",LIFETIME H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923247
+#EXTINF:-1 tvg-id="hbo.mundi.br" tvg-name="HBO MUNDI H265 " tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",HBO MUNDI H265 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923249
+#EXTINF:-1 tvg-id="hbo.xtreme.br" tvg-name="HBO XTREME H265 " tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",HBO XTREME H265 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923250
+#EXTINF:-1 tvg-id="hbo.pop.br" tvg-name="HBO POP H265 DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",HBO POP H265 DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923251
+#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX H265 " tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",MEGAPIX H265 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923252
+#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV H265 DUAAUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",MTV H265 DUAAUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923253
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW H265 DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",MULTISHOW H265 DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923254
+#EXTINF:-1 tvg-id="national.geographic.br" tvg-name="NATGEO H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",NATGEO H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923255
+#EXTINF:-1 tvg-id="nick.br" tvg-name="NICKELOAD H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",NICKELOAD H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923256
+#EXTINF:-1 tvg-id="nick.jr.br" tvg-name="NICK JUNIOR H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",NICK JUNIOR H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923257
+#EXTINF:-1 tvg-id="off.br" tvg-name="OFF H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",OFF H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923258
+#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT H265 DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",PARAMOUNT H265 DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923259
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIERE CLUBES  H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",PREMIERE CLUBES  H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923260
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 2 H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",PREMIERE 2 H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923261
+#EXTINF:-1 tvg-id="premiere.2.br" tvg-name="PREMIERE 3 H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",PREMIERE 3 H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923262
+#EXTINF:-1 tvg-id="premiere.4.br" tvg-name="PREMIERE 4 H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",PREMIERE 4 H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923263
+#EXTINF:-1 tvg-id="premiere.5.br" tvg-name="PREMIERE 5 H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",PREMIERE 5 H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923264
+#EXTINF:-1 tvg-id="premiere.6.br" tvg-name="PREMIERE 6 H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",PREMIERE 6 H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923265
+#EXTINF:-1 tvg-id="premiere.7.br" tvg-name="PREMIERE 7 H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",PREMIERE 7 H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923266
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD TV GOIANIA H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",RECORD TV GOIANIA H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923267
+#EXTINF:-1 tvg-id="rede.belem.br" tvg-name="REDE TV H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",REDE TV H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923268
+#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE  H265 DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",SPACE  H265 DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923269
+#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORTV 2 H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",SPORTV 2 H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923270
+#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORTV 3 H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",SPORTV 3 H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923271
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV  H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",SPORTV  H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923272
+#EXTINF:-1 tvg-id="studio.universal.br" tvg-name="STUDIO UNIVERSAL  H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",STUDIO UNIVERSAL  H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923273
+#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",SYFY H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923274
+#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS  H265 " tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",TBS  H265 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923275
+#EXTINF:-1 tvg-id="telecine.action.br" tvg-name="TELECINE ACTION H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",TELECINE ACTION H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923276
+#EXTINF:-1 tvg-id="telecine.cult.br" tvg-name="TELECINE CULT H265 DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",TELECINE CULT H265 DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923277
+#EXTINF:-1 tvg-id="telecine.fun.br" tvg-name="TELECINE FUN H265 DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",TELECINE FUN H265 DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923278
+#EXTINF:-1 tvg-id="telecine.pipoca.br" tvg-name="TELECINE PIPOCA H265 " tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",TELECINE PIPOCA H265 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923279
+#EXTINF:-1 tvg-id="telecine.premium.br" tvg-name="TELECINE PREMIUM H265 DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",TELECINE PREMIUM H265 DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923280
+#EXTINF:-1 tvg-id="telecine.touch.br" tvg-name="TELECINE TOUCH H265 DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",TELECINE TOUCH H265 DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923281
+#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",TLC H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923282
+#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT FHD H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",TNT FHD H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923283
+#EXTINF:-1 tvg-id="tnt.series.br" tvg-name="TNT SERIES FHD H265 DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",TNT SERIES FHD H265 DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923284
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO TV ANHAGUERA H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",GLOBO TV ANHAGUERA H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923285
+#EXTINF:-1 tvg-id="band.br" tvg-name="BAND GOIANIA H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",BAND GOIANIA H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923286
+#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SERRA DOURADA H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",SBT SERRA DOURADA H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923287
+#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV  H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",UNIVERSAL TV  H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923288
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 H265 DUAL AUDIO" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",VH1 H265 DUAL AUDIO
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923289
+#EXTINF:-1 tvg-id="warner.br" tvg-name="WARNER H265 :" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",WARNER H265 :
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923290
+#EXTINF:-1 tvg-id="woohoo.br" tvg-name="WOOHOO H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",WOOHOO H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923291
+#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORTV 4K" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",SPORTV 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923299
+#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 4 4K" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",ESPN 4 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923300
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO EPTV RIBEIRAO PRETO  H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",GLOBO EPTV RIBEIRAO PRETO  H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923351
+#EXTINF:-1 tvg-id="premiere.clubes.br" tvg-name="PREMIER CLUBE 4K" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",PREMIER CLUBE 4K
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923710
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",GLOBO SP H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923711
+#EXTINF:-1 tvg-id="globo.brasilia.br" tvg-name="GLOBO BRASILIA H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",GLOBO BRASILIA H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923716
+#EXTINF:-1 tvg-id="globo.sp.br" tvg-name="GLOBO SP H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",GLOBO SP H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923717
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SP H265" tvg-logo="https://seeklogo.com/images/H/hevc-h-265-logo-B993AFBC63-seeklogo.com.png" group-title="CANAIS | H.265 / 4K",RECORD SP H265
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/00005786/MF159357C/923723
+
