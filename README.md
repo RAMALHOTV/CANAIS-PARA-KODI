@@ -22,7 +22,8 @@ https://www.youtube.com/channel/UCojJlqr-L9290l5D63SXTzg?view_as=public
 #EXTINF:-1 tvg-logo="http://i.imgur.com/4xQxZ5g.png" group-title="Informações da Lista",(44)91045772  
 https://www.youtube.com/channel/UCojJ
 
-
+#EXTINF:-1 tvg-id="discovery.kids.br" tvg-name="DISCOVERY KIDS HD" tvg-logo="http://logocanais.ddns.net/Logo/DiscoveryKids1.png" group-title="CANAIS | INFANTIS",DISCOVERY KIDS HD
+http://axr.life:80/gabriela10/gabriela10/5054|User-Agent=VLC/3.0.18
 
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="A&E FHD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png" group-title="CANAIS | FILMES & SERIES",A&E FHD
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=[B][COLOR light blue]RamalhoIPTV[/COLOR][/B];&buffer=60000;url=http://axr.life:80/gabriela10/gabriela10/5189
