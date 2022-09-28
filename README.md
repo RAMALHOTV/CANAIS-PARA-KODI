@@ -19,365 +19,346 @@ https://www.youtube.com/channel/UCojJlqr-
  
 
 
-#EXTM3U
-#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE 4K" tvg-logo="http://kanawat.com.br/icons/combate.png" group-title="ESPORTES",COMBATE 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14353
-#EXTINF:-1 tvg-id="kombatsport.pt" tvg-name="UFC 4K" tvg-logo="https://kanawat.com.br/icons/ufc.png" group-title="ESPORTES",UFC 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/58093
-#EXTINF:-1 tvg-id="" tvg-name="WWE 4K" tvg-logo="http://kanawat.com.br/icons/wwes.png" group-title="ESPORTES",WWE 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/58117
-#EXTINF:-1 tvg-id="sporttvnba.pt" tvg-name="NBA 4K" tvg-logo="http://kanawat.com.br/icons/nbaz.png" group-title="ESPORTES",NBA 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/57776
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 1 4K" tvg-logo="http://kanawat.com.br/icons/Espn1.png" group-title="ESPORTES",ESPN 1 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14356
-#EXTINF:-1 tvg-id="espn.br" tvg-name="ESPN 1 FHD" tvg-logo="http://kanawat.com.br/icons/Espn1.png" group-title="ESPORTES",ESPN 1 FHD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/69909
-#EXTINF:-1 tvg-id="espn2.br" tvg-name="ESPN 2 4K" tvg-logo="http://kanawat.com.br/icons/Espn1.png" group-title="ESPORTES",ESPN 2 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14354
-#EXTINF:-1 tvg-id="espn3.br" tvg-name="ESPN 3 4K" tvg-logo="http://kanawat.com.br/icons/Espn1.png" group-title="ESPORTES",ESPN 3 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14355
-#EXTINF:-1 tvg-id="espn4.br" tvg-name="Espn 4 4K" tvg-logo="http://kanawat.com.br/icons/Espn1.png" group-title="ESPORTES",Espn 4 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14358
-#EXTINF:-1 tvg-id="espnextra.br" tvg-name="ESPN EXTRA 4K" tvg-logo="http://kanawat.com.br/icons/Espn1.png" group-title="ESPORTES",ESPN EXTRA 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14357
-#EXTINF:-1 tvg-id="foxsports2.br" tvg-name="FOX SPORT 2 4K" tvg-logo="http://kanawat.com.br/icons/foxsportss.png" group-title="ESPORTES",FOX SPORT 2 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14359
-#EXTINF:-1 tvg-id="sportv.br" tvg-name="SPORT TV 1 4K" tvg-logo="http://kanawat.com.br/icons/sporttv1.png" group-title="ESPORTES",SPORT TV 1 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14360
-#EXTINF:-1 tvg-id="sportv2.br" tvg-name="SPORT TV 2 4K" tvg-logo="http://kanawat.com.br/icons/sporttv1.png" group-title="ESPORTES",SPORT TV 2 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14361
-#EXTINF:-1 tvg-id="sportv3.br" tvg-name="SPORT TV 3 4K" tvg-logo="http://kanawat.com.br/icons/sporttv1.png" group-title="ESPORTES",SPORT TV 3 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14362
-#EXTINF:-1 tvg-id="off.br" tvg-name="OFF 4K" tvg-logo="http://kanawat.com.br/icons/off.png" group-title="ESPORTES",OFF 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14363
-#EXTINF:-1 tvg-id="bandsports.br" tvg-name="BAND SPORT 4K" tvg-logo="http://kanawat.com.br/icons/bandsports.png" group-title="ESPORTES",BAND SPORT 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14364
-#EXTINF:-1 tvg-id="premiereclubes.br" tvg-name="PREMIER CLUB 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER CLUB 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14365
-#EXTINF:-1 tvg-id="premiere2.br" tvg-name="PREMIER 2 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 2 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14366
-#EXTINF:-1 tvg-id="premiere3.br" tvg-name="PREMIER 3 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 3 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14367
-#EXTINF:-1 tvg-id="premiere4.br" tvg-name="PREMIER 4 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 4 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14368
-#EXTINF:-1 tvg-id="premiere5.br" tvg-name="PREMIER 5 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 5 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14369
-#EXTINF:-1 tvg-id="premiere6.br" tvg-name="PREMIER 6 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 6 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14370
-#EXTINF:-1 tvg-id="premiere7.br" tvg-name="PREMIER 7 4K" tvg-logo="http://kanawat.com.br/icons/premier.png" group-title="ESPORTES",PREMIER 7 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14371
-#EXTINF:-1 tvg-id="pfc.pt" tvg-name="PFC" tvg-logo="http://kanawat.com.br/icons/pfc.png" group-title="ESPORTES",PFC
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/57863
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 1 4K" tvg-logo="http://kanawat.com.br/icons/dazn1.png" group-title="ESPORTES",DAZN 1 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48569
-#EXTINF:-1 tvg-id="" tvg-name="Dazn 2 4K" tvg-logo="http://kanawat.com.br/icons/dazn2.png" group-title="ESPORTES",Dazn 2 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15064
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 4K" tvg-logo="http://kanawat.com.br/icons/dazn3.png" group-title="ESPORTES",DAZN 3 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48570
-#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 4K" tvg-logo="http://painelgerenciador.com.br/icons/dazn.png" group-title="ESPORTES",DAZN 4 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48571
-#EXTINF:-1 tvg-id="" tvg-name="DAZN F1 K " tvg-logo="http://painelgerenciador.com.br/icons/dazn.png" group-title="ESPORTES",DAZN F1 K 
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48572
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BRASIL 1 4K" tvg-logo="http://kanawat.com.br/icons/dazn1.png" group-title="ESPORTES",DAZN BRASIL 1 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64398
-#EXTINF:-1 tvg-id="" tvg-name="DAZN BRASIL 2 4K" tvg-logo="http://kanawat.com.br/icons/dazn2.png" group-title="ESPORTES",DAZN BRASIL 2 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64399
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT ESPORTES 1 HD" tvg-logo="http://kanawat.com.br/icons/tntsports.png" group-title="ESPORTES",TNT ESPORTES 1 HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15102
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT ESPORTES 2 HD " tvg-logo="http://kanawat.com.br/icons/tntsports.png" group-title="ESPORTES",TNT ESPORTES 2 HD 
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15122
-#EXTINF:-1 tvg-id="" tvg-name="TNT ESPORTES 3 HD " tvg-logo="http://kanawat.com.br/icons/tntsports.png" group-title="ESPORTES",TNT ESPORTES 3 HD 
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15123
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 1 HD" tvg-logo="https://www.kanawat.com.br/icons/hbomax.png" group-title="ESPORTES",HBO MAX 1 HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56336
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 2 HD" tvg-logo="https://www.kanawat.com.br/icons/hbomax.png" group-title="ESPORTES",HBO MAX 2 HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56337
-#EXTINF:-1 tvg-id="" tvg-name="HBO MAX 3 HD" tvg-logo="https://www.kanawat.com.br/icons/hbomax.png" group-title="ESPORTES",HBO MAX 3 HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56338
-#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS 1 HD" tvg-logo="https://www.kanawat.com.br/icons/starplus.png" group-title="ESPORTES",STAR PLUS 1 HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56339
-#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS 2 HD" tvg-logo="https://www.kanawat.com.br/icons/starplus.png" group-title="ESPORTES",STAR PLUS 2 HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56340
-#EXTINF:-1 tvg-id="" tvg-name="STAR PLUS 3 HD" tvg-logo="https://www.kanawat.com.br/icons/starplus.png" group-title="ESPORTES",STAR PLUS 3 HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/56341
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 1 4k" tvg-logo="http://kanawat.com.br/icons/conmeboll.png" group-title="ESPORTES",CONMEBOL TV 1 4k
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15234
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 4k" tvg-logo="http://kanawat.com.br/icons/conmeboll.png" group-title="ESPORTES",CONMEBOL TV 2 4k
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15233
-#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 4k" tvg-logo="http://kanawat.com.br/icons/conmeboll.png" group-title="ESPORTES",CONMEBOL TV 3 4k
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/46405
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO SP 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO SP 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48530
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RJ 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO RJ 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48531
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO GLOBO EPTV CAMPINAS HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO GLOBO EPTV CAMPINAS HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48532
-#EXTINF:-1 tvg-id="globotvinternacional.br" tvg-name=" GLOBO TV TEM SOROCABA" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO", GLOBO TV TEM SOROCABA
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64383
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RCP CURITIBA 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO RCP CURITIBA 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48533
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO NSC TV FLORIANOPOIS 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO NSC TV FLORIANOPOIS 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48534
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO MINAS 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO MINAS 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48536
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="INTER TV GRANDE MINAS HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",INTER TV GRANDE MINAS HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48537
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="EPTV SUL DE MINAS HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",EPTV SUL DE MINAS HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48538
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="Globo Natal 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",Globo Natal 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64392
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV BAHIA" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV BAHIA
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64389
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO NORDESTE 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO NORDESTE 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48539
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV BRASILIA 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV BRASILIA 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48535
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO RBS PORTO ALEGRE 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO RBS PORTO ALEGRE 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48540
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO ANHANGUERA GOIANIA 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO ANHANGUERA GOIANIA 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64390
-#EXTINF:-1 tvg-id="globotvinternacional.br" tvg-name="GLOBO GLOBO EPTV RIBEIRO PRETO 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO GLOBO EPTV RIBEIRO PRETO 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64382
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV BELEM" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV BELEM
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48541
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOBO TV CABUGI" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV CABUGI
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64384
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV CENTRO AMERICA 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV CENTRO AMERICA 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48542
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV GAZETE VITORIA HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV GAZETE VITORIA HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64395
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV MIRANTE HD 4K" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV MIRANTE HD 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48545
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV MORENA HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV MORENA HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48546
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOBO TV TEM BAURU" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV TEM BAURU
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64385
-#EXTINF:-1 tvg-id="globotvinternacional.br" tvg-name="GLOBO TV TEM SÃO JOSÉ DO RIO PRETO" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV TEM SÃO JOSÉ DO RIO PRETO
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64388
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV TRIBUNA SANTOS" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV TRIBUNA SANTOS
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64386
-#EXTINF:-1 tvg-id="globorj.br" tvg-name="GLOBO TV VANGUARDA S.J DOS CAMPOS" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV VANGUARDA S.J DOS CAMPOS
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64387
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV VERDES MARES FORTALEZA" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV VERDES MARES FORTALEZA
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64393
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO TV VERDESMARES" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO TV VERDESMARES
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48547
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name="GLOBO PORTUGAL HD" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO",GLOBO PORTUGAL HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64394
-#EXTINF:-1 tvg-id="redeglobo.br" tvg-name=" GLOBO FORTALEZA" tvg-logo="http://kanawat.com.br/icons/globoz.png" group-title="REDE GLOBO", GLOBO FORTALEZA
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64381
-#EXTINF:-1 tvg-id="maisnatela.br" tvg-name="Mais Globo 4K" tvg-logo="http://painelgerenciador.com.br/icons/maisglobo.png" group-title="REDE GLOBO",Mais Globo 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14557
-#EXTINF:-1 tvg-id="" tvg-name="Jovem Pan HD" tvg-logo="https://www.kanawat.com.br/icons/jpnews.png" group-title="NOTÍCIAS",Jovem Pan HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/63938
-#EXTINF:-1 tvg-id="globonews.br" tvg-name="GLOBO NEWS 4K" tvg-logo="http://www.kanawat.com.br/icons/globonewss.png" group-title="NOTÍCIAS",GLOBO NEWS 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14562
-#EXTINF:-1 tvg-id="bandnews.br" tvg-name="BAND NEWS 4K" tvg-logo="https://kanawat.com.br/icons/bandnew.png" group-title="NOTÍCIAS",BAND NEWS 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14563
-#EXTINF:-1 tvg-id="recordnews.br" tvg-name="RECORD NEWS 4K" tvg-logo="https://kanawat.com.br/icons/recordnew.png" group-title="NOTÍCIAS",RECORD NEWS 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48559
-#EXTINF:-1 tvg-id="cnn.br" tvg-name="CNN BRASIL 4K" tvg-logo="http://kanawat.com.br/icons/cnnbr.png" group-title="NOTÍCIAS",CNN BRASIL 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48560
-#EXTINF:-1 tvg-id="cnnplus1.br" tvg-name="CNN ESPANOL HD" tvg-logo="http://kanawat.com.br/icons/cnnesp.png" group-title="NOTÍCIAS",CNN ESPANOL HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48561
-#EXTINF:-1 tvg-id="cnnbrasil.br" tvg-name="CNN INTERNACIONAL 4K" tvg-logo="http://kanawat.com.br/icons/cnnintr.png" group-title="NOTÍCIAS",CNN INTERNACIONAL 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48562
-#EXTINF:-1 tvg-id="tvi.pt" tvg-name="CNN Portugal PT" tvg-logo="http://kanawat.com.br/icons/cnnintr.png" group-title="NOTÍCIAS",CNN Portugal PT
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/57910
-#EXTINF:-1 tvg-id="cnbc.pt" tvg-name="CNBC" tvg-logo="http://kanawat.com.br/icons/cnbc.png" group-title="NOTÍCIAS",CNBC
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/57838
-#EXTINF:-1 tvg-id="" tvg-name="Bloomberg 4K" tvg-logo="http://painelgerenciador.com.br/icons/bloomberg.png" group-title="NOTÍCIAS",Bloomberg 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14564
-#EXTINF:-1 tvg-id="bbcworldnews.pt" tvg-name="BBC World News" tvg-logo="http://kanawat.com.br/icons/bbcworld.png" group-title="NOTÍCIAS",BBC World News
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/57817
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD RJ HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD RJ HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14573
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD SP HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD SP HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14566
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD TV" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD TV
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48568
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD BELEM HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD BELEM HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14570
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD BH HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD BH HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14571
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD DF HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD DF HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14572
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD GO HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD GO HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14568
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD MANAUS HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD MANAUS HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15054
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD Para HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD Para HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14569
-#EXTINF:-1 tvg-id="recordtvbrasília.br" tvg-name="RECORD RS HD" tvg-logo="http://kanawat.com.br/icons/recordtv.png" group-title="REDE RECORD",RECORD RS HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14567
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT 4K" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48552
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SP 4K" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT SP 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64404
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT MT HD" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT MT HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15119
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT PR HD" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT PR HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64406
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT RJ HD" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT RJ HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64405
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT BRASILIA HD" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT BRASILIA HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64407
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Interior" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT Interior
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/60587
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Nordeste " tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT Nordeste 
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/60585
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT Recife HD" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT Recife HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/60586
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT SCC " tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT SCC 
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15004
-#EXTINF:-1 tvg-id="sbt.br" tvg-name="SBT TV (BACKUP)" tvg-logo="http://kanawat.com.br/icons/sbtz.png" group-title=" REDE SBT",SBT TV (BACKUP)
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/64408
-#EXTINF:-1 tvg-id="bandminas.br" tvg-name="BAND  SP 4K" tvg-logo="http://painelgerenciador.com.br/icons/band.png" group-title="ABERTOS",BAND  SP 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15231
-#EXTINF:-1 tvg-id="band.br" tvg-name=" Band HD" tvg-logo="http://painelgerenciador.com.br/icons/band.png" group-title="ABERTOS", Band HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14967
-#EXTINF:-1 tvg-id="band" tvg-name="BAND SP FHD" tvg-logo="http://painelgerenciador.com.br/icons/band.png" group-title="ABERTOS",BAND SP FHD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15232
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV!" tvg-logo="http://painelgerenciador.com.br/icons/redetv.png" group-title="ABERTOS",REDE TV!
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48553
-#EXTINF:-1 tvg-id="" tvg-name="REDE FAMILIA HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redefamilia.png" group-title="ABERTOS",REDE FAMILIA HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15008
-#EXTINF:-1 tvg-id="tvredemaisvarginha.br" tvg-name="REDE GENESIS HD" tvg-logo="http://painelgerenciador.com.br/icons/redegenies.png" group-title="ABERTOS",REDE GENESIS HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48555
-#EXTINF:-1 tvg-id="redegospel.br" tvg-name="REDE GOSPEL HD" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redegospel.png" group-title="ABERTOS",REDE GOSPEL HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14983
-#EXTINF:-1 tvg-id="tvredemaisvarginha.br" tvg-name="REDE SUPER HD" tvg-logo="http://painelgerenciador.com.br/icons/redesuper.png" group-title="ABERTOS",REDE SUPER HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/48554
-#EXTINF:-1 tvg-id="" tvg-name="Rede TV SUL" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redetvsul.png" group-title="MAIS CANAIS",Rede TV SUL
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15086
-#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redevida.png" group-title="RELIGIOSOS",REDE VIDA
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15120
-#EXTINF:-1 tvg-id="" tvg-name="Rede Boas Novas" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redeboasnovas.png" group-title="MAIS CANAIS",Rede Boas Novas
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15083
-#EXTINF:-1 tvg-id="" tvg-name="Rede Cnt" tvg-logo="http://painelgerenciador.com.br/icons/paraguay/redecnt.png" group-title="ABERTOS",Rede Cnt
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15020
-#EXTINF:-1 tvg-id="" tvg-name="Rede Litoral News" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redelitoralnews.png" group-title="MAIS CANAIS",Rede Litoral News
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15085
-#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV Tocantins HD" tvg-logo="http://painelgerenciador.com.br/icons/redetv.png" group-title="ABERTOS",REDE TV Tocantins HD
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15024
-#EXTINF:-1 tvg-id="" tvg-name="REDE TV União DF " tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redeuniao.png" group-title="MAIS CANAIS",REDE TV União DF 
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/15095
-#EXTINF:-1 tvg-id="nickelodeon.br" tvg-name="NICK 4K" tvg-logo="http://kanawat.com.br/icons/nick.png" group-title="INFANTIS",NICK 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14411
-#EXTINF:-1 tvg-id="nickjr.br" tvg-name="NICK JR 4K" tvg-logo="http://kanawat.com.br/icons/nickjr.png" group-title="INFANTIS",NICK JR 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14412
-#EXTINF:-1 tvg-id="disneyhd.br" tvg-name="DISNEY CHANNEL 4K" tvg-logo="http://kanawat.com.br/icons/disneychannel.png" group-title="INFANTIS",DISNEY CHANNEL 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14413
-#EXTINF:-1 tvg-id="discoverykids.br" tvg-name="DISCOVERY KIDS 4K" tvg-logo="http://painelgerenciador.com.br/icons/discoveykids.png" group-title="INFANTIS",DISCOVERY KIDS 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14415
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoonito 4K" tvg-logo="http://painelgerenciador.com.br/icons/boomerang.png" group-title="INFANTIS",Cartoonito 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14418
-#EXTINF:-1 tvg-id="cartoonito.br" tvg-name="Cartoon Network 4K" tvg-logo="http://painelgerenciador.com.br/icons/cartoonnetwork.png" group-title="INFANTIS",Cartoon Network 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14417
-#EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB 4K" tvg-logo="http://painelgerenciador.com.br/icons/gloob.png" group-title="INFANTIS",GLOOB 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14420
-#EXTINF:-1 tvg-id="gloobinho.bt" tvg-name="GLOOBINHO 4K" tvg-logo="http://painelgerenciador.com.br/icons/globinho.png" group-title="INFANTIS",GLOOBINHO 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14421
-#EXTINF:-1 tvg-id="tnt.br" tvg-name="TNT 4K" tvg-logo="http://painelgerenciador.com.br/icons/tnt.png" group-title="FILMES E SERIES",TNT 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14374
-#EXTINF:-1 tvg-id="tntseries.br" tvg-name="TNT SERIES 4K" tvg-logo="http://painelgerenciador.com.br/icons/tntseries.png" group-title="FILMES E SERIES",TNT SERIES 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14375
-#EXTINF:-1 tvg-id="cinemax.br" tvg-name="CINEMAX 4K" tvg-logo="http://painelgerenciador.com.br/icons/cinemax.png" group-title="FILMES E SERIES",CINEMAX 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14396
-#EXTINF:-1 tvg-id="space.br" tvg-name="SPACE 4K" tvg-logo="http://painelgerenciador.com.br/icons/space.png" group-title="FILMES E SERIES",SPACE 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14376
-#EXTINF:-1 tvg-id="sony.br" tvg-name="SONY 4K" tvg-logo="http://painelgerenciador.com.br/icons/sony.png" group-title="FILMES E SERIES",SONY 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14399
-#EXTINF:-1 tvg-id="syfy.br" tvg-name="SYFY 4K" tvg-logo="http://painelgerenciador.com.br/icons/syfy.png" group-title="FILMES E SERIES",SYFY 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14400
-#EXTINF:-1 tvg-id="fx.br" tvg-name="FX 4K" tvg-logo="http://painelgerenciador.com.br/icons/fx.png" group-title="FILMES E SERIES",FX 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14381
-#EXTINF:-1 tvg-id="axn.br" tvg-name="AXN 4K" tvg-logo="http://painelgerenciador.com.br/icons/axn.png" group-title="FILMES E SERIES",AXN 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14398
-#EXTINF:-1 tvg-id="starchannel.br" tvg-name="STAR CHANNEL 4K" tvg-logo="http://www.kanawat.com.br/icons/starchannel.png" group-title="FILMES E SERIES",STAR CHANNEL 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14379
-#EXTINF:-1 tvg-id="starhits.br" tvg-name="STAR HITS 4K" tvg-logo="http://www.kanawat.com.br/icons/starhits.png" group-title="FILMES E SERIES",STAR HITS 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14377
-#EXTINF:-1 tvg-id="starlife.br" tvg-name="STAR LIFE 4K" tvg-logo="http://www.kanawat.com.br/icons/starlife.png" group-title="FILMES E SERIES",STAR LIFE 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14380
-#EXTINF:-1 tvg-id="telecineaction.br" tvg-name="TC ACTION 4K" tvg-logo="http://painelgerenciador.com.br/icons/tcaction.png" group-title="FILMES E SERIES",TC ACTION 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14382
-#EXTINF:-1 tvg-id="telecinepipoca.br" tvg-name="TC PIPOCA 4K" tvg-logo="http://painelgerenciador.com.br/icons/tcpipoca.png" group-title="FILMES E SERIES",TC PIPOCA 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14384
-#EXTINF:-1 tvg-id="telecinepremium.br" tvg-name="TC PREMIUM 4K" tvg-logo="http://painelgerenciador.com.br/icons/tcpremium.png" group-title="FILMES E SERIES",TC PREMIUM 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14383
-#EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TC TOUCH 4K" tvg-logo="http://painelgerenciador.com.br/icons/tctouch.png" group-title="FILMES E SERIES",TC TOUCH 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14385
-#EXTINF:-1 tvg-id="telecinefun.br" tvg-name="TC FUN 4K" tvg-logo="http://painelgerenciador.com.br/icons/tcfun.png" group-title="FILMES E SERIES",TC FUN 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14386
-#EXTINF:-1 tvg-id="telecinecult.br" tvg-name="TC CULT 4K" tvg-logo="http://painelgerenciador.com.br/icons/tccult.png" group-title="FILMES E SERIES",TC CULT 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14387
-#EXTINF:-1 tvg-id="hbo.br" tvg-name="HBO 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbo.png" group-title="FILMES E SERIES",HBO 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14388
-#EXTINF:-1 tvg-id="hbo2.br" tvg-name="HBO2 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbo2.png" group-title="FILMES E SERIES",HBO2 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14389
-#EXTINF:-1 tvg-id="hbofamily.br" tvg-name="HBO FAMILY 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbofamily.png" group-title="FILMES E SERIES",HBO FAMILY 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14392
-#EXTINF:-1 tvg-id="hbomundi.br" tvg-name="HBO MUNDI 4K" tvg-logo="http://painelgerenciador.com.br/icons/hboxtreme.png" group-title="FILMES E SERIES",HBO MUNDI 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14393
-#EXTINF:-1 tvg-id="hboplusbrasil.br" tvg-name="HBO PLUS 4K" tvg-logo="http://painelgerenciador.com.br/icons/hboplus.png" group-title="FILMES E SERIES",HBO PLUS 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14390
-#EXTINF:-1 tvg-id="hbopop.br" tvg-name="HBO POP 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbopop.png" group-title="FILMES E SERIES",HBO POP 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14394
-#EXTINF:-1 tvg-id="hboxtreme.br" tvg-name="HBO XTREME 4K" tvg-logo="http://painelgerenciador.com.br/icons/hboxtreme.png" group-title="FILMES E SERIES",HBO XTREME 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14395
-#EXTINF:-1 tvg-id="hbosignature.br" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://painelgerenciador.com.br/icons/hbosignature.png" group-title="FILMES E SERIES",HBO SIGNATURE 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14391
-#EXTINF:-1 tvg-id="studiouniversal.br" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="http://painelgerenciador.com.br/icons/studiouniversal.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14406
-#EXTINF:-1 tvg-id="universal.br" tvg-name="UNIVERSAL TV 4K" tvg-logo="http://painelgerenciador.com.br/icons/universaltv.png" group-title="FILMES E SERIES",UNIVERSAL TV 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14403
-#EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX 4K" tvg-logo="http://painelgerenciador.com.br/icons/megapix.png" group-title="FILMES E SERIES",MEGAPIX 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14401
-#EXTINF:-1 tvg-id="comedycentral.br" tvg-name="COMEDY CENTRAL 4K" tvg-logo="http://painelgerenciador.com.br/icons/comedycentral.png" group-title="FILMES E SERIES",COMEDY CENTRAL 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14405
-#EXTINF:-1 tvg-id="warnerchannel.br" tvg-name="WARNER CHANNEL 4K" tvg-logo="http://painelgerenciador.com.br/icons/warnerchannel.png" group-title="FILMES E SERIES",WARNER CHANNEL 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14404
-#EXTINF:-1 tvg-id="paramount.br" tvg-name="PARAMOUNT 4K" tvg-logo="http://painelgerenciador.com.br/icons/paramount.png" group-title="FILMES E SERIES",PARAMOUNT 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14402
-#EXTINF:-1 tvg-id="canalbrasil.br" tvg-name="CANAL BRASIL 4K" tvg-logo="http://painelgerenciador.com.br/icons/canalbrasil.png" group-title="FILMES E SERIES",CANAL BRASIL 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14397
-#EXTINF:-1 tvg-id="aande.br" tvg-name="A&E 4K" tvg-logo="http://painelgerenciador.com.br/icons/a&e.png" group-title="FILMES E SERIES",A&E 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14408
-#EXTINF:-1 tvg-id="tcm.br" tvg-name="TCM 4K" tvg-logo="http://painelgerenciador.com.br/icons/tcm.png" group-title="FILMES E SERIES",TCM 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14409
-#EXTINF:-1 tvg-id="fox.pt" tvg-name="Fox 4K" tvg-logo="http://painelgerenciador.com.br/icons/fox.png" group-title="PT  FILMES E SERIES",Fox 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/57714
-#EXTINF:-1 tvg-id="nationalgeographic.br" tvg-name="NAT GEO 4K" tvg-logo="http://painelgerenciador.com.br/icons/natgeo.png" group-title="DOCUMENTARIOS",NAT GEO 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14427
-#EXTINF:-1 tvg-id="nationalgeographic.pt" tvg-name="NAT GEO HEVC" tvg-logo="http://painelgerenciador.com.br/icons/natgeo.png" group-title="DOCUMENTARIOS",NAT GEO HEVC
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/57914
-#EXTINF:-1 tvg-id="natgeowild.br" tvg-name="NAT GEO WILD 4K" tvg-logo="http://painelgerenciador.com.br/icons/natgeowild.png" group-title="DOCUMENTARIOS",NAT GEO WILD 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14429
-#EXTINF:-1 tvg-id="animalplanet.br" tvg-name="ANIMAL PLANET 4K" tvg-logo="http://painelgerenciador.com.br/icons/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14428
-#EXTINF:-1 tvg-id="eentertainment.br" tvg-name="E! 4K" tvg-logo="http://painelgerenciador.com.br/icons/e!.png" group-title="VARIEDADES",E! 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14441
-#EXTINF:-1 tvg-id="tlc.br" tvg-name="TLC 4K" tvg-logo="http://painelgerenciador.com.br/icons/tlc.png" group-title="VARIEDADES",TLC 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14442
-#EXTINF:-1 tvg-id="viva.br" tvg-name="VIVA 4K" tvg-logo="http://painelgerenciador.com.br/icons/viva.png" group-title="VARIEDADES",VIVA 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14444
-#EXTINF:-1 tvg-id="gnt.br" tvg-name="GNT 4K" tvg-logo="http://painelgerenciador.com.br/icons/gnt.png" group-title="VARIEDADES",GNT 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14443
-#EXTINF:-1 tvg-id="tbs.br" tvg-name="TBS 4K" tvg-logo="http://painelgerenciador.com.br/icons/tbs.png" group-title="VARIEDADES",TBS 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14449
-#EXTINF:-1 tvg-id="trutv.br" tvg-name="TRUE TV 4K" tvg-logo="http://painelgerenciador.com.br/icons/truetv.png" group-title="VARIEDADES",TRUE TV 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14445
-#EXTINF:-1 tvg-id="lifetime.br" tvg-name="LIFE TIME 4K" tvg-logo="http://painelgerenciador.com.br/icons/lifetime.png" group-title="VARIEDADES",LIFE TIME 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14446
-#EXTINF:-1 tvg-id="foodnetwork.br" tvg-name="FOOD NETWORK 4K" tvg-logo="http://painelgerenciador.com.br/icons/foodnetwork.png" group-title="VARIEDADES",FOOD NETWORK 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14448
-#EXTINF:-1 tvg-id="multishow.br" tvg-name="MULTISHOW 4K" tvg-logo="http://painelgerenciador.com.br/icons/multishow.png" group-title="MUSICA&ENTR",MULTISHOW 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14424
-#EXTINF:-1 tvg-id="bis.br" tvg-name="BIS 4K" tvg-logo="http://painelgerenciador.com.br/icons/bis.png" group-title="MUSICA&ENTR",BIS 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14423
-#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 4K" tvg-logo="http://painelgerenciador.com.br/icons/vh1.png" group-title="MUSICA&ENTR",VH1 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14426
-#EXTINF:-1 tvg-id="mtv.br" tvg-name="MTV 4K" tvg-logo="http://painelgerenciador.com.br/icons/mtv.png" group-title="MUSICA&ENTR",MTV 4K
-http://massud.homelinux.com:80/IBaeApBuhjy5uFko/q4hAWlcOPQBbORiE/14425
-
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 2022" tvg-logo="https://i.ibb.co/8D8xdh4/afazenda.png" group-title="CANAIS | A FAZENDA 2022",A FAZENDA 2022
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/Julinho/Senha123/264194
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 01" tvg-logo="https://i.ibb.co/8D8xdh4/afazenda.png" group-title="CANAIS | A FAZENDA 2022",A FAZENDA 01
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/Julinho/Senha123/264195
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 02" tvg-logo="https://i.ibb.co/8D8xdh4/afazenda.png" group-title="CANAIS | A FAZENDA 2022",A FAZENDA 02
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/Julinho/Senha123/264196
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 03" tvg-logo="https://i.ibb.co/8D8xdh4/afazenda.png" group-title="CANAIS | A FAZENDA 2022",A FAZENDA 03
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/Julinho/Senha123/264197
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 04" tvg-logo="https://i.ibb.co/8D8xdh4/afazenda.png" group-title="CANAIS | A FAZENDA 2022",A FAZENDA 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/Julinho/Senha123/264198
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 05" tvg-logo="https://i.ibb.co/8D8xdh4/afazenda.png" group-title="CANAIS | A FAZENDA 2022",A FAZENDA 05
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/Julinho/Senha123/264199
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 07" tvg-logo="https://i.ibb.co/8D8xdh4/afazenda.png" group-title="CANAIS | A FAZENDA 2022",A FAZENDA 07
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/Julinho/Senha123/264200
+#EXTINF:-1 tvg-id="" tvg-name="FAZENDA 08" tvg-logo="https://i.ibb.co/8D8xdh4/afazenda.png" group-title="CANAIS | A FAZENDA 2022",FAZENDA 08
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/Julinho/Senha123/264201
+#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 09" tvg-logo="https://i.ibb.co/8D8xdh4/afazenda.png" group-title="CANAIS | A FAZENDA 2022",A FAZENDA 09
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/Julinho/Senha123/264202
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://i.imgur.com/DWDAdbs.png" group-title="CANAIS | FILMES E SERIES",A&E FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204359
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD H265²" tvg-logo="https://i.imgur.com/DWDAdbs.png" group-title="CANAIS | H265",A&E FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203500
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/DWDAdbs.png" group-title="CANAIS | FILMES E SERIES",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204360
+#EXTINF:-1 tvg-id="A-E.us" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/DWDAdbs.png" group-title="CANAIS | USA",A&E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/247912
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD²" tvg-logo="https://i.imgur.com/DWDAdbs.png" group-title="CANAIS | FILMES E SERIES",A&E HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203501
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://i.imgur.com/DWDAdbs.png" group-title="CANAIS | FILMES E SERIES",A&E SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204361
+#EXTINF:-1 tvg-id="" tvg-name="ABC  HD" tvg-logo="" group-title="CANAIS | USA",ABC  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/247913
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://i.imgur.com/bOZYvx3.png" group-title="CANAIS | FILMES E SERIES",AMC FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204593
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD H265²" tvg-logo="https://i.imgur.com/bOZYvx3.png" group-title="CANAIS | H265",AMC FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203968
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/bOZYvx3.png" group-title="CANAIS | FILMES E SERIES",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204594
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC HD" tvg-logo="https://1.bp.blogspot.com/-MPbCb1IAtps/WB8tayoyiLI/AAAAAAAAFTg/eFRAt4PCzzcW9bcsUh_wC7yVtyGATeYMACLcB/s1600/AMC%2Blogo.png" group-title="PT: FILMES",AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/247875
+#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://i.imgur.com/bOZYvx3.png" group-title="CANAIS | FILMES E SERIES",AMC SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204595
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://i.imgur.com/WPsXug7.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204566
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD H265²" tvg-logo="https://i.imgur.com/WPsXug7.png" group-title="CANAIS | H265",ANIMAL PLANET FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203503
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/WPsXug7.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204567
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD²" tvg-logo="https://i.imgur.com/WPsXug7.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203504
+#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://i.imgur.com/WPsXug7.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204568
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="https://i.imgur.com/hqDuBrN.png" group-title="CANAIS | VARIEDADES",ARTE 1 FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204563
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD H265²" tvg-logo="https://i.imgur.com/hqDuBrN.png" group-title="CANAIS | H265",ARTE 1 FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203506
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://i.imgur.com/hqDuBrN.png" group-title="CANAIS | VARIEDADES",ARTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204564
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD²" tvg-logo="https://i.imgur.com/hqDuBrN.png" group-title="CANAIS | VARIEDADES",ARTE 1 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203507
+#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD" tvg-logo="https://i.imgur.com/hqDuBrN.png" group-title="CANAIS | VARIEDADES",ARTE 1 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204565
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://i.imgur.com/Qasfr0N.png" group-title="CANAIS | FILMES E SERIES",AXN FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204560
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265²" tvg-logo="https://i.imgur.com/Qasfr0N.png" group-title="CANAIS | H265",AXN FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203509
+#EXTINF:-1 tvg-id="" tvg-name="AXN FHD LEG" tvg-logo="https://i.imgur.com/Qasfr0N.png" group-title="CANAIS | LEGENDADOS",AXN FHD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/249937
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/Qasfr0N.png" group-title="CANAIS | FILMES E SERIES",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204561
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/Qasfr0N.png" group-title="PT: SERIES",AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/247904
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD LEG" tvg-logo="https://i.imgur.com/Qasfr0N.png" group-title="CANAIS | LEGENDADOS",AXN HD LEG
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/249936
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD²" tvg-logo="https://i.imgur.com/Qasfr0N.png" group-title="CANAIS | FILMES E SERIES",AXN HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203510
+#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/Qasfr0N.png" group-title="CANAIS | FILMES E SERIES",AXN SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204562
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="https://i.imgur.com/Qasfr0N.png" group-title="PT: SERIES",AXN WHITE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/247905
+#EXTINF:-1 tvg-id="AmazonSat" tvg-name="AmazonSat" tvg-logo="https://www.gruporedeamazonica.com.br/img/marca-prancheta-amazon-sat-02.png" group-title="CANAIS | ABERTOS",AMAZONSAT
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY FHD H265²" tvg-logo="https://i.imgur.com/tfTrAK5.png" group-title="CANAIS | H265",BABY FHD H265²
+4 turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203512
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY HD²" tvg-logo="https://i.imgur.com/tfTrAK5.png" group-title="CANAIS | INFANTIS",BABY HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203513
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV SD" tvg-logo="https://i.imgur.com/UKFLfSf.png" group-title="PT: KIDS",BABY TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/247836
+#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD²" tvg-logo="https://i.imgur.com/tfTrAK5.png" group-title="CANAIS | INFANTIS",BABY TV SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203514
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP FHD" tvg-logo="https://i.imgur.com/mAalT5i.png" group-title="CANAIS | ABERTOS",BAND SP FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204638
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP FHD H265²" tvg-logo="https://i.imgur.com/mAalT5i.png" group-title="CANAIS | H265",BAND SP FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203515
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD" tvg-logo="https://i.imgur.com/mAalT5i.png" group-title="CANAIS | ABERTOS",BAND SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204637
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD²" tvg-logo="https://i.imgur.com/mAalT5i.png" group-title="CANAIS | ABERTOS",BAND SP HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203516
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP SD²" tvg-logo="https://i.imgur.com/mAalT5i.png" group-title="CANAIS | ABERTOS",BAND SP SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203520
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP SD" tvg-logo="https://i.imgur.com/mAalT5i.png" group-title="CANAIS | ABERTOS",BAND SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204636
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RJ FHD" tvg-logo="https://i.imgur.com/mAalT5i.png" group-title="CANAIS | ABERTOS",BAND RJ FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/257410
+#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RJ HD" tvg-logo="https://i.imgur.com/mAalT5i.png" group-title="CANAIS | ABERTOS",BAND RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/257408
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://i.imgur.com/WkTa2mC.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204443
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD H265²" tvg-logo="https://i.imgur.com/WkTa2mC.png" group-title="CANAIS | H265",BAND NEWS FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203517
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://i.imgur.com/WkTa2mC.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204444
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD²" tvg-logo="https://i.imgur.com/WkTa2mC.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203518
+#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="https://i.imgur.com/WkTa2mC.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204445
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204440
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD H265²" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" group-title="CANAIS | H265",BAND SPORTS FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203521
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204441
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD²" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203522
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204442
+#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD²" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203523
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD" tvg-logo="https://i.imgur.com/5jZBDLf.png" group-title="CANAIS | MÚSICAS",BIS FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204404
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD H265²" tvg-logo="https://i.imgur.com/5jZBDLf.png" group-title="CANAIS | H265",BIS FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203524
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD" tvg-logo="https://i.imgur.com/5jZBDLf.png" group-title="CANAIS | MÚSICAS",BIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204405
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD²" tvg-logo="https://i.imgur.com/5jZBDLf.png" group-title="CANAIS | MÚSICAS",BIS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203525
+#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS SD" tvg-logo="https://i.imgur.com/5jZBDLf.png" group-title="CANAIS | MÚSICAS",BIS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204406
+#EXTINF:-1 tvg-id="" tvg-name="BJJ STAR JIU JITSU BR" tvg-logo="https://i.imgur.com/J0nPLoC.png" group-title="CANAIS | PPV",BJJ STAR JIU JITSU BR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/249823
+#EXTINF:-1 tvg-id="Boavontadetv.br" tvg-name="BOA VONTADE TV FHD H265²" tvg-logo="https://i.imgur.com/ZMZtG9W.png" group-title="CANAIS | H265",BOA VONTADE TV FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204068
+#EXTINF:-1 tvg-id="Boavontadetv.br" tvg-name="Boa Vontade TV SD" tvg-logo="https://i.imgur.com/ZMZtG9W.png" group-title="CANAIS | RELIGIOSOS",Boa Vontade TV SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204643
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="https://i.imgur.com/DNbSMeb.png" group-title="CANAIS | FILMES E SERIES",CANAL BRASIL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204377
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD H265²" tvg-logo="https://i.imgur.com/DNbSMeb.png" group-title="CANAIS | H265",CANAL BRASIL FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203530
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://i.imgur.com/DNbSMeb.png" group-title="CANAIS | FILMES E SERIES",CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204378
+#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://i.imgur.com/DNbSMeb.png" group-title="CANAIS | FILMES E SERIES",CANAL BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204379
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://i.imgur.com/X7zMBzu.png" group-title="CANAIS | ABERTOS",CANAL DO BOI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204351
+#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI SD" tvg-logo="https://i.imgur.com/X7zMBzu.png" group-title="CANAIS | ABERTOS",CANAL DO BOI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204352
+#EXTINF:-1 tvg-id="HistoryChannel.pt" tvg-name="CANAL HISTÓRIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="PT: DOCUMENTARIOS",CANAL HISTÓRIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/247829
+#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA SD" tvg-logo="https://i.imgur.com/Crw0Nqu.png" group-title="PT: KIDS",CANAL PANDA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/247839
+#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="CANAL Q SD" tvg-logo="https://i.imgur.com/pChUy7I.png" group-title="PT: ENTRETENIMENTO",CANAL Q SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/247859
+#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL FHD H265²" tvg-logo="https://i.imgur.com/pxWcK6u.png" group-title="CANAIS | H265",CANAL RURAL FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204050
+#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL HD" tvg-logo="https://i.imgur.com/pxWcK6u.png" group-title="CANAIS | ABERTOS",CANAL RURAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204644
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA FHD H265²" tvg-logo="https://i.imgur.com/sb14hWC.png" group-title="CANAIS | H265",CANÇÃO NOVA FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204071
+#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA SD" tvg-logo="https://i.imgur.com/sb14hWC.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/252217
+#EXTINF:-1 tvg-id="Carioca.br" tvg-name="CARIOCÃO 2 HD²" tvg-logo="https://i.imgur.com/A6nvl1f.png" group-title="CANAIS | PPV",CARIOCÃO 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204095
+#EXTINF:-1 tvg-id="Carioca.br" tvg-name="CARIOCÃO 2 SD²" tvg-logo="https://i.imgur.com/A6nvl1f.png" group-title="CANAIS | PPV",CARIOCÃO 2 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204094
+#EXTINF:-1 tvg-id="Carioca.br" tvg-name="CARIOCÃO 3 HD" tvg-logo="https://i.imgur.com/A6nvl1f.png" group-title="CANAIS | PPV",CARIOCÃO 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/233125
+#EXTINF:-1 tvg-id="Carioca.br" tvg-name="CARIOCÃO HD²" tvg-logo="https://i.imgur.com/A6nvl1f.png" group-title="CANAIS | PPV",CARIOCÃO HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204093
+#EXTINF:-1 tvg-id="Carioca.br" tvg-name="CARIOCÃO SD²" tvg-logo="https://i.imgur.com/A6nvl1f.png" group-title="CANAIS | PPV",CARIOCÃO SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204092
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON  NETWORK SD" tvg-logo="https://i.imgur.com/3h5BEaA.png" group-title="PT: KIDS",CARTOON  NETWORK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/247844
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://i.imgur.com/3h5BEaA.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204476
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD H265²" tvg-logo="https://i.imgur.com/3h5BEaA.png" group-title="CANAIS | H265",CARTOON NETWORK FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203533
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.imgur.com/3h5BEaA.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204477
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD²" tvg-logo="https://i.imgur.com/3h5BEaA.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203534
+#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://i.imgur.com/3h5BEaA.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204478
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO FHD" tvg-logo="https://i.imgur.com/EvyJhEv.png" group-title="CANAIS | INFANTIS",CARTOONITO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204497
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO FHD H265²" tvg-logo="https://i.imgur.com/EvyJhEv.png" group-title="CANAIS | H265",CARTOONITO FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203527
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO HD" tvg-logo="https://i.imgur.com/EvyJhEv.png" group-title="CANAIS | INFANTIS",CARTOONITO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204498
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO HD²" tvg-logo="https://i.imgur.com/EvyJhEv.png" group-title="CANAIS | INFANTIS",CARTOONITO HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203528
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO SD" tvg-logo="https://i.imgur.com/EvyJhEv.png" group-title="CANAIS | INFANTIS",CARTOONITO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204499
+#EXTINF:-1 tvg-id="" tvg-name="CHEF TV FHD H265²" tvg-logo="https://i.imgur.com/A8e3PhK.png" group-title="CANAIS | H265",CHEF TV FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203982
+#EXTINF:-1 tvg-id="" tvg-name="CHEF TV HD²" tvg-logo="https://i.imgur.com/A8e3PhK.png" group-title="CANAIS | VARIEDADES",CHEF TV HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203983
+#EXTINF:-1 tvg-id="Like.br" tvg-name="CHEF TV SD²" tvg-logo="https://i.imgur.com/A8e3PhK.png" group-title="CANAIS | VARIEDADES",CHEF TV SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203984
+#EXTINF:-1 tvg-id="" tvg-name="CINE KIDS 24HRS" tvg-logo="https://i.imgur.com/QjvhpFY.png" group-title="CANAIS | DESENHOS 24 HRS",CINE KIDS 24HRS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/249600
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 1" tvg-logo="https://i.imgur.com/CPs442Y.png" group-title="CANAIS | CINE SKY",CINE SKY PLAY 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/249824
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 2" tvg-logo="https://i.imgur.com/CPs442Y.png" group-title="CANAIS | CINE SKY",CINE SKY PLAY 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/249825
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 3" tvg-logo="https://i.imgur.com/CPs442Y.png" group-title="CANAIS | CINE SKY",CINE SKY PLAY 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/249826
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 4" tvg-logo="https://i.imgur.com/CPs442Y.png" group-title="CANAIS | CINE SKY",CINE SKY PLAY 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/249827
+#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 5" tvg-logo="https://i.imgur.com/CPs442Y.png" group-title="CANAIS | CINE SKY",CINE SKY PLAY 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/249828
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://i.imgur.com/i4sfYtU.png" group-title="CANAIS | FILMES E SERIES",CINEMAX FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204410
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD H265²" tvg-logo="https://i.imgur.com/i4sfYtU.png" group-title="CANAIS | H265",CINEMAX FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203536
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.imgur.com/i4sfYtU.png" group-title="CANAIS | FILMES E SERIES",CINEMAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204411
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD²" tvg-logo="https://i.imgur.com/i4sfYtU.png" group-title="CANAIS | FILMES E SERIES",CINEMAX HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203537
+#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://i.imgur.com/i4sfYtU.png" group-title="CANAIS | FILMES E SERIES",CINEMAX SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204412
+#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="CINEMUNDO FHD" tvg-logo="https://3.bp.blogspot.com/-mHEz-7oSIXw/VSene5r6G5I/AAAAAAAAEyE/4R-rWWL9nyo/s1600/Cinemundo%2Blogo%2B1.png" group-title="PT: FILMES",CINEMUNDO FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/247874
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="https://i.imgur.com/59jZ1gG.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204347
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL FHD H265²" tvg-logo="https://i.imgur.com/59jZ1gG.png" group-title="CANAIS | H265",CNN BRASIL FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203539
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://i.imgur.com/59jZ1gG.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204348
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL HD²" tvg-logo="https://i.imgur.com/59jZ1gG.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203540
+#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL SD" tvg-logo="https://i.imgur.com/59jZ1gG.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204349
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN ESPANHOL FHD H265²" tvg-logo="https://i.imgur.com/XQy29jr.png" group-title="CANAIS | H265",CNN ESPANHOL FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203541
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN ESPANHOL HD²" tvg-logo="https://i.imgur.com/XQy29jr.png" group-title="CANAIS | NOTÍCIAS",CNN ESPANHOL HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203542
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN ESPANHOL SD²" tvg-logo="https://i.imgur.com/XQy29jr.png" group-title="CANAIS | NOTÍCIAS",CNN ESPANHOL SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203543
+#EXTINF:-1 tvg-id="" tvg-name="CNN HD" tvg-logo="https://i.ibb.co/8sFX5w2/Cnn-logo-square.png" group-title="PT: NOTICIAS",CNN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/247894
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL FHD H265²" tvg-logo="https://i.imgur.com/wLHpvLn.png" group-title="CANAIS | H265",CNN INTERNACIONAL FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203544
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL HD²" tvg-logo="https://i.imgur.com/wLHpvLn.png" group-title="CANAIS | NOTÍCIAS",CNN INTERNACIONAL HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203545
+#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL SD²" tvg-logo="https://i.imgur.com/wLHpvLn.png" group-title="CANAIS | NOTÍCIAS",CNN INTERNACIONAL SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203546
+#EXTINF:-1 tvg-id="CNT.br" tvg-name="CNT FHD H265²" tvg-logo="https://i.imgur.com/nbISzuI.png" group-title="CANAIS | H265",CNT FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204070
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate FHD" tvg-logo="https://i.imgur.com/bhTrveM.png" group-title="CANAIS | ESPORTES",Combate FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204380
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD H265²" tvg-logo="https://i.imgur.com/bhTrveM.png" group-title="CANAIS | H265",COMBATE FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203547
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate HD" tvg-logo="https://i.imgur.com/bhTrveM.png" group-title="CANAIS | ESPORTES",Combate HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204381
+#EXTINF:-1 tvg-id="Like.br" tvg-name="COMBATE HD²" tvg-logo="https://i.imgur.com/bhTrveM.png" group-title="CANAIS | ESPORTES",COMBATE HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203548
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate SD" tvg-logo="https://i.imgur.com/bhTrveM.png" group-title="CANAIS | ESPORTES",Combate SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204382
+#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD²" tvg-logo="https://i.imgur.com/bhTrveM.png" group-title="CANAIS | ESPORTES",COMBATE SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203549
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central FHD" tvg-logo="https://i.imgur.com/k2IFLxr.png" group-title="CANAIS | VARIEDADES",Comedy Central FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204452
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD H265²" tvg-logo="https://i.imgur.com/k2IFLxr.png" group-title="CANAIS | H265",COMEDY CENTRAL FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203550
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="https://i.imgur.com/k2IFLxr.png" group-title="CANAIS | VARIEDADES",Comedy Central HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204453
+#EXTINF:-1 tvg-id="Like.br" tvg-name="COMEDY CENTRAL HD²" tvg-logo="https://i.imgur.com/k2IFLxr.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203551
+#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central SD" tvg-logo="https://i.imgur.com/k2IFLxr.png" group-title="CANAIS | VARIEDADES",Comedy Central SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204454
+#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL 1" tvg-logo="https://i.imgur.com/g3t93Dr.png" group-title="CANAIS | PPV",CONMEBOL 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203972
+#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL 2" tvg-logo="https://i.imgur.com/g3t93Dr.png" group-title="CANAIS | PPV",CONMEBOL 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203969
+#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL 3" tvg-logo="https://i.imgur.com/g3t93Dr.png" group-title="CANAIS | PPV",CONMEBOL 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204096
+#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL 3²" tvg-logo="https://i.imgur.com/g3t93Dr.png" group-title="CANAIS | PPV",CONMEBOL 3²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203970
+#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL 4 " tvg-logo="https://i.imgur.com/g3t93Dr.png" group-title="CANAIS | PPV",CONMEBOL 4 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203971
+#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL 4 HD²" tvg-logo="https://i.imgur.com/g3t93Dr.png" group-title="CANAIS | PPV",CONMEBOL 4 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204097
+#EXTINF:-1 tvg-id="Catarinense.br" tvg-name="COPA CATARINENSE 2 HD²" tvg-logo="https://i.imgur.com/VNzJ3xo.png" group-title="CANAIS | PPV",COPA CATARINENSE 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203555
+#EXTINF:-1 tvg-id="Catarinense.br" tvg-name="COPA CATARINENSE 2 SD²" tvg-logo="https://i.imgur.com/VNzJ3xo.png" group-title="CANAIS | PPV",COPA CATARINENSE 2 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203554
+#EXTINF:-1 tvg-id="Catarinense.br" tvg-name="COPA CATARINENSE 3 HD²" tvg-logo="https://i.imgur.com/VNzJ3xo.png" group-title="CANAIS | PPV",COPA CATARINENSE 3 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203980
+#EXTINF:-1 tvg-id="Catarinense.br" tvg-name="COPA CATARINENSE 3 SD²" tvg-logo="https://i.imgur.com/VNzJ3xo.png" group-title="CANAIS | PPV",COPA CATARINENSE 3 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203981
+#EXTINF:-1 tvg-id="Catarinense.br" tvg-name="COPA CATARINENSE 4 HD²" tvg-logo="https://i.imgur.com/VNzJ3xo.png" group-title="CANAIS | PPV",COPA CATARINENSE 4 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203978
+#EXTINF:-1 tvg-id="Catarinense.br" tvg-name="COPA CATARINENSE 4 SD²" tvg-logo="https://i.imgur.com/VNzJ3xo.png" group-title="CANAIS | PPV",COPA CATARINENSE 4 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203979
+#EXTINF:-1 tvg-id="Catarinense.br" tvg-name="COPA CATARINENSE HD²" tvg-logo="https://i.imgur.com/VNzJ3xo.png" group-title="CANAIS | PPV",COPA CATARINENSE HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203556
+#EXTINF:-1 tvg-id="Catarinense.br" tvg-name="COPA CATARINENSE SD²" tvg-logo="https://i.imgur.com/VNzJ3xo.png" group-title="CANAIS | PPV",COPA CATARINENSE SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203553
+#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 2 HD²" tvg-logo="https://tinyurl.com/logonordestefc" group-title="CANAIS | PPV",COPA DO NORDESTE 2 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203559
+#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 2 SD²" tvg-logo="https://tinyurl.com/logonordestefc" group-title="CANAIS | PPV",COPA DO NORDESTE 2 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203558
+#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 3 HD²" tvg-logo="https://i.imgur.com/4cCESfw.png" group-title="CANAIS | PPV",COPA DO NORDESTE 3 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203958
+#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 3 SD²" tvg-logo="https://i.imgur.com/4cCESfw.png" group-title="CANAIS | PPV",COPA DO NORDESTE 3 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203957
+#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 4" tvg-logo="https://i.imgur.com/4cCESfw.png" group-title="CANAIS | PPV",COPA DO NORDESTE 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203959
+#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 4 HD²" tvg-logo="https://i.imgur.com/4cCESfw.png" group-title="CANAIS | PPV",COPA DO NORDESTE 4 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203960
+#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 5" tvg-logo="https://i.imgur.com/4cCESfw.png" group-title="CANAIS | PPV",COPA DO NORDESTE 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203962
+#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 5 HD²" tvg-logo="https://i.imgur.com/4cCESfw.png" group-title="CANAIS | PPV",COPA DO NORDESTE 5 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203961
+#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 6 HD²" tvg-logo="https://i.imgur.com/4cCESfw.png" group-title="CANAIS | PPV",COPA DO NORDESTE 6 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203963
+#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 6 SD²" tvg-logo="https://i.imgur.com/4cCESfw.png" group-title="CANAIS | PPV",COPA DO NORDESTE 6 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203964
+#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 7 HD²" tvg-logo="https://i.imgur.com/4cCESfw.png" group-title="CANAIS | PPV",COPA DO NORDESTE 7 HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203977
+#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 7 SD²" tvg-logo="https://i.imgur.com/4cCESfw.png" group-title="CANAIS | PPV",COPA DO NORDESTE 7 SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203976
+#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE HD²" tvg-logo="https://tinyurl.com/logonordestefc" group-title="CANAIS | PPV",COPA DO NORDESTE HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203560
+#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE SD²" tvg-logo="https://tinyurl.com/logonordestefc" group-title="CANAIS | PPV",COPA DO NORDESTE SD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203557
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="CULTURA FHD" tvg-logo="https://i.imgur.com/F8vZr6d.png" group-title="CANAIS | ABERTOS",CULTURA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204307
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="CULTURA FHD H265²" tvg-logo="https://i.imgur.com/F8vZr6d.png" group-title="CANAIS | H265",CULTURA FHD H265²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204072
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="CULTURA HD" tvg-logo="https://i.imgur.com/F8vZr6d.png" group-title="CANAIS | ABERTOS",CULTURA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204292
+#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="CULTURA SD" tvg-logo="https://i.imgur.com/F8vZr6d.png" group-title="CANAIS | ABERTOS",CULTURA 
