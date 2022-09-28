@@ -1,364 +1,607 @@
 #EXTM3U
  
-#PLAYLISTV: pltv-logo="https://i.imgur.com/M0aRl2a.jpg" pltv-name="RAMALHOTV" pltv-description=TV ONLINE para PlaylisTV/IPTV" pltv-cover="https://i.imgur.com/M0aRl2a.jpg" pltv-author="RAMALHOTV" pltv-site="https://www.youtube.com/user/matamataxiterbr?sub_confirmation=1" pltv-email="" pltv-phone="(44) 98656144"
- 
-################################################################################# Informações da Lista
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/4QnsDMD.png" group-title="Informações da Lista",(44)991045772 
-https://www.youtube.com/channel/UCojJlq
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/5zE1k8M.png" group-title="Informações da Lista",RamalhoTV 
-https://www.youtube.com/channel/UCojJlqr-L
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/OalUKZI.png" group-title="Informações da Lista",Atualizado:22/09/2022
- https://www.youtube.com/channel/UCojJlqr-L
- 
-#EXTINF:-1 tvg-logo="http://i.imgur.com/luqePRJ.png" group-title="Informações da Lista",By RAMALHOTV 
-https://www.youtube.com/channel/UCojJlqr-
- 
- 
-
-
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 2022" tvg-logo="https://i.ibb.co/8D8xdh4/afazenda.png" group-title="CANAIS | A FAZENDA 2022",A FAZENDA 2022
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/Julinho/Senha123/264194
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 01" tvg-logo="https://i.ibb.co/8D8xdh4/afazenda.png" group-title="CANAIS | A FAZENDA 2022",A FAZENDA 01
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/Julinho/Senha123/264195
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 02" tvg-logo="https://i.ibb.co/8D8xdh4/afazenda.png" group-title="CANAIS | A FAZENDA 2022",A FAZENDA 02
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/Julinho/Senha123/264196
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 03" tvg-logo="https://i.ibb.co/8D8xdh4/afazenda.png" group-title="CANAIS | A FAZENDA 2022",A FAZENDA 03
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/Julinho/Senha123/264197
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 04" tvg-logo="https://i.ibb.co/8D8xdh4/afazenda.png" group-title="CANAIS | A FAZENDA 2022",A FAZENDA 04
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/Julinho/Senha123/264198
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 05" tvg-logo="https://i.ibb.co/8D8xdh4/afazenda.png" group-title="CANAIS | A FAZENDA 2022",A FAZENDA 05
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/Julinho/Senha123/264199
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 07" tvg-logo="https://i.ibb.co/8D8xdh4/afazenda.png" group-title="CANAIS | A FAZENDA 2022",A FAZENDA 07
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/Julinho/Senha123/264200
-#EXTINF:-1 tvg-id="" tvg-name="FAZENDA 08" tvg-logo="https://i.ibb.co/8D8xdh4/afazenda.png" group-title="CANAIS | A FAZENDA 2022",FAZENDA 08
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/Julinho/Senha123/264201
-#EXTINF:-1 tvg-id="" tvg-name="A FAZENDA 09" tvg-logo="https://i.ibb.co/8D8xdh4/afazenda.png" group-title="CANAIS | A FAZENDA 2022",A FAZENDA 09
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://gameplay.p2sweb.me:80/Julinho/Senha123/264202
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://i.imgur.com/DWDAdbs.png" group-title="CANAIS | FILMES E SERIES",A&E FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204359
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD H265²" tvg-logo="https://i.imgur.com/DWDAdbs.png" group-title="CANAIS | H265",A&E FHD H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203500
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/DWDAdbs.png" group-title="CANAIS | FILMES E SERIES",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204360
-#EXTINF:-1 tvg-id="A-E.us" tvg-name="A&E HD" tvg-logo="https://i.imgur.com/DWDAdbs.png" group-title="CANAIS | USA",A&E HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/247912
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD²" tvg-logo="https://i.imgur.com/DWDAdbs.png" group-title="CANAIS | FILMES E SERIES",A&E HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203501
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://i.imgur.com/DWDAdbs.png" group-title="CANAIS | FILMES E SERIES",A&E SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204361
-#EXTINF:-1 tvg-id="" tvg-name="ABC  HD" tvg-logo="" group-title="CANAIS | USA",ABC  HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/247913
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD" tvg-logo="https://i.imgur.com/bOZYvx3.png" group-title="CANAIS | FILMES E SERIES",AMC FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204593
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC FHD H265²" tvg-logo="https://i.imgur.com/bOZYvx3.png" group-title="CANAIS | H265",AMC FHD H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203968
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/bOZYvx3.png" group-title="CANAIS | FILMES E SERIES",AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204594
-#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC HD" tvg-logo="https://1.bp.blogspot.com/-MPbCb1IAtps/WB8tayoyiLI/AAAAAAAAFTg/eFRAt4PCzzcW9bcsUh_wC7yVtyGATeYMACLcB/s1600/AMC%2Blogo.png" group-title="PT: FILMES",AMC HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/247875
-#EXTINF:-1 tvg-id="Amc.br" tvg-name="AMC SD" tvg-logo="https://i.imgur.com/bOZYvx3.png" group-title="CANAIS | FILMES E SERIES",AMC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204595
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="https://i.imgur.com/WPsXug7.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204566
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET FHD H265²" tvg-logo="https://i.imgur.com/WPsXug7.png" group-title="CANAIS | H265",ANIMAL PLANET FHD H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203503
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="https://i.imgur.com/WPsXug7.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204567
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET HD²" tvg-logo="https://i.imgur.com/WPsXug7.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203504
-#EXTINF:-1 tvg-id="Animalplanet.br" tvg-name="ANIMAL PLANET SD" tvg-logo="https://i.imgur.com/WPsXug7.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204568
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD" tvg-logo="https://i.imgur.com/hqDuBrN.png" group-title="CANAIS | VARIEDADES",ARTE 1 FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204563
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 FHD H265²" tvg-logo="https://i.imgur.com/hqDuBrN.png" group-title="CANAIS | H265",ARTE 1 FHD H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203506
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD" tvg-logo="https://i.imgur.com/hqDuBrN.png" group-title="CANAIS | VARIEDADES",ARTE 1 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204564
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 HD²" tvg-logo="https://i.imgur.com/hqDuBrN.png" group-title="CANAIS | VARIEDADES",ARTE 1 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203507
-#EXTINF:-1 tvg-id="Arte1.br" tvg-name="ARTE 1 SD" tvg-logo="https://i.imgur.com/hqDuBrN.png" group-title="CANAIS | VARIEDADES",ARTE 1 SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204565
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD" tvg-logo="https://i.imgur.com/Qasfr0N.png" group-title="CANAIS | FILMES E SERIES",AXN FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204560
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN FHD H265²" tvg-logo="https://i.imgur.com/Qasfr0N.png" group-title="CANAIS | H265",AXN FHD H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203509
-#EXTINF:-1 tvg-id="" tvg-name="AXN FHD LEG" tvg-logo="https://i.imgur.com/Qasfr0N.png" group-title="CANAIS | LEGENDADOS",AXN FHD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/249937
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/Qasfr0N.png" group-title="CANAIS | FILMES E SERIES",AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204561
-#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="https://i.imgur.com/Qasfr0N.png" group-title="PT: SERIES",AXN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/247904
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD LEG" tvg-logo="https://i.imgur.com/Qasfr0N.png" group-title="CANAIS | LEGENDADOS",AXN HD LEG
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/249936
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN HD²" tvg-logo="https://i.imgur.com/Qasfr0N.png" group-title="CANAIS | FILMES E SERIES",AXN HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203510
-#EXTINF:-1 tvg-id="Axn.br" tvg-name="AXN SD" tvg-logo="https://i.imgur.com/Qasfr0N.png" group-title="CANAIS | FILMES E SERIES",AXN SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204562
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE HD" tvg-logo="https://i.imgur.com/Qasfr0N.png" group-title="PT: SERIES",AXN WHITE HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/247905
-#EXTINF:-1 tvg-id="AmazonSat" tvg-name="AmazonSat" tvg-logo="https://www.gruporedeamazonica.com.br/img/marca-prancheta-amazon-sat-02.png" group-title="CANAIS | ABERTOS",AMAZONSAT
-https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY FHD H265²" tvg-logo="https://i.imgur.com/tfTrAK5.png" group-title="CANAIS | H265",BABY FHD H265²
-4 turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203512
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY HD²" tvg-logo="https://i.imgur.com/tfTrAK5.png" group-title="CANAIS | INFANTIS",BABY HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203513
-#EXTINF:-1 tvg-id="" tvg-name="BABY TV SD" tvg-logo="https://i.imgur.com/UKFLfSf.png" group-title="PT: KIDS",BABY TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/247836
-#EXTINF:-1 tvg-id="BabyTV.br" tvg-name="BABY TV SD²" tvg-logo="https://i.imgur.com/tfTrAK5.png" group-title="CANAIS | INFANTIS",BABY TV SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203514
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP FHD" tvg-logo="https://i.imgur.com/mAalT5i.png" group-title="CANAIS | ABERTOS",BAND SP FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204638
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP FHD H265²" tvg-logo="https://i.imgur.com/mAalT5i.png" group-title="CANAIS | H265",BAND SP FHD H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203515
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD" tvg-logo="https://i.imgur.com/mAalT5i.png" group-title="CANAIS | ABERTOS",BAND SP HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204637
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP HD²" tvg-logo="https://i.imgur.com/mAalT5i.png" group-title="CANAIS | ABERTOS",BAND SP HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203516
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP SD²" tvg-logo="https://i.imgur.com/mAalT5i.png" group-title="CANAIS | ABERTOS",BAND SP SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203520
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND SP SD" tvg-logo="https://i.imgur.com/mAalT5i.png" group-title="CANAIS | ABERTOS",BAND SP SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204636
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RJ FHD" tvg-logo="https://i.imgur.com/mAalT5i.png" group-title="CANAIS | ABERTOS",BAND RJ FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/257410
-#EXTINF:-1 tvg-id="BandRede.br" tvg-name="BAND RJ HD" tvg-logo="https://i.imgur.com/mAalT5i.png" group-title="CANAIS | ABERTOS",BAND RJ HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/257408
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD" tvg-logo="https://i.imgur.com/WkTa2mC.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204443
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS FHD H265²" tvg-logo="https://i.imgur.com/WkTa2mC.png" group-title="CANAIS | H265",BAND NEWS FHD H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203517
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD" tvg-logo="https://i.imgur.com/WkTa2mC.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204444
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS HD²" tvg-logo="https://i.imgur.com/WkTa2mC.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203518
-#EXTINF:-1 tvg-id="Bandnews.br" tvg-name="BAND NEWS SD" tvg-logo="https://i.imgur.com/WkTa2mC.png" group-title="CANAIS | NOTÍCIAS",BAND NEWS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204445
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204440
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS FHD H265²" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" group-title="CANAIS | H265",BAND SPORTS FHD H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203521
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204441
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS HD²" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203522
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204442
-#EXTINF:-1 tvg-id="Bandsportshd.br" tvg-name="BAND SPORTS SD²" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/bandsports.png" group-title="CANAIS | ESPORTES",BAND SPORTS SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203523
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD" tvg-logo="https://i.imgur.com/5jZBDLf.png" group-title="CANAIS | MÚSICAS",BIS FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204404
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS FHD H265²" tvg-logo="https://i.imgur.com/5jZBDLf.png" group-title="CANAIS | H265",BIS FHD H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203524
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD" tvg-logo="https://i.imgur.com/5jZBDLf.png" group-title="CANAIS | MÚSICAS",BIS HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204405
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS HD²" tvg-logo="https://i.imgur.com/5jZBDLf.png" group-title="CANAIS | MÚSICAS",BIS HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203525
-#EXTINF:-1 tvg-id="Bishd.br" tvg-name="BIS SD" tvg-logo="https://i.imgur.com/5jZBDLf.png" group-title="CANAIS | MÚSICAS",BIS SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204406
-#EXTINF:-1 tvg-id="" tvg-name="BJJ STAR JIU JITSU BR" tvg-logo="https://i.imgur.com/J0nPLoC.png" group-title="CANAIS | PPV",BJJ STAR JIU JITSU BR
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/249823
-#EXTINF:-1 tvg-id="Boavontadetv.br" tvg-name="BOA VONTADE TV FHD H265²" tvg-logo="https://i.imgur.com/ZMZtG9W.png" group-title="CANAIS | H265",BOA VONTADE TV FHD H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204068
-#EXTINF:-1 tvg-id="Boavontadetv.br" tvg-name="Boa Vontade TV SD" tvg-logo="https://i.imgur.com/ZMZtG9W.png" group-title="CANAIS | RELIGIOSOS",Boa Vontade TV SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204643
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD" tvg-logo="https://i.imgur.com/DNbSMeb.png" group-title="CANAIS | FILMES E SERIES",CANAL BRASIL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204377
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL FHD H265²" tvg-logo="https://i.imgur.com/DNbSMeb.png" group-title="CANAIS | H265",CANAL BRASIL FHD H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203530
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL HD" tvg-logo="https://i.imgur.com/DNbSMeb.png" group-title="CANAIS | FILMES E SERIES",CANAL BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204378
-#EXTINF:-1 tvg-id="Canalbrasil.br" tvg-name="CANAL BRASIL SD" tvg-logo="https://i.imgur.com/DNbSMeb.png" group-title="CANAIS | FILMES E SERIES",CANAL BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204379
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI HD" tvg-logo="https://i.imgur.com/X7zMBzu.png" group-title="CANAIS | ABERTOS",CANAL DO BOI HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204351
-#EXTINF:-1 tvg-id="CanaldoBoi.br" tvg-name="CANAL DO BOI SD" tvg-logo="https://i.imgur.com/X7zMBzu.png" group-title="CANAIS | ABERTOS",CANAL DO BOI SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204352
-#EXTINF:-1 tvg-id="HistoryChannel.pt" tvg-name="CANAL HISTÓRIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="PT: DOCUMENTARIOS",CANAL HISTÓRIA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/247829
-#EXTINF:-1 tvg-id="" tvg-name="CANAL PANDA SD" tvg-logo="https://i.imgur.com/Crw0Nqu.png" group-title="PT: KIDS",CANAL PANDA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/247839
-#EXTINF:-1 tvg-id="CanalQ.pt" tvg-name="CANAL Q SD" tvg-logo="https://i.imgur.com/pChUy7I.png" group-title="PT: ENTRETENIMENTO",CANAL Q SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/247859
-#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL FHD H265²" tvg-logo="https://i.imgur.com/pxWcK6u.png" group-title="CANAIS | H265",CANAL RURAL FHD H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204050
-#EXTINF:-1 tvg-id="Canalrural.br" tvg-name="CANAL RURAL HD" tvg-logo="https://i.imgur.com/pxWcK6u.png" group-title="CANAIS | ABERTOS",CANAL RURAL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204644
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA FHD H265²" tvg-logo="https://i.imgur.com/sb14hWC.png" group-title="CANAIS | H265",CANÇÃO NOVA FHD H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204071
-#EXTINF:-1 tvg-id="CancaoNova.br" tvg-name="CANÇÃO NOVA SD" tvg-logo="https://i.imgur.com/sb14hWC.png" group-title="CANAIS | RELIGIOSOS",CANÇÃO NOVA SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/252217
-#EXTINF:-1 tvg-id="Carioca.br" tvg-name="CARIOCÃO 2 HD²" tvg-logo="https://i.imgur.com/A6nvl1f.png" group-title="CANAIS | PPV",CARIOCÃO 2 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204095
-#EXTINF:-1 tvg-id="Carioca.br" tvg-name="CARIOCÃO 2 SD²" tvg-logo="https://i.imgur.com/A6nvl1f.png" group-title="CANAIS | PPV",CARIOCÃO 2 SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204094
-#EXTINF:-1 tvg-id="Carioca.br" tvg-name="CARIOCÃO 3 HD" tvg-logo="https://i.imgur.com/A6nvl1f.png" group-title="CANAIS | PPV",CARIOCÃO 3 HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/233125
-#EXTINF:-1 tvg-id="Carioca.br" tvg-name="CARIOCÃO HD²" tvg-logo="https://i.imgur.com/A6nvl1f.png" group-title="CANAIS | PPV",CARIOCÃO HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204093
-#EXTINF:-1 tvg-id="Carioca.br" tvg-name="CARIOCÃO SD²" tvg-logo="https://i.imgur.com/A6nvl1f.png" group-title="CANAIS | PPV",CARIOCÃO SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204092
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON  NETWORK SD" tvg-logo="https://i.imgur.com/3h5BEaA.png" group-title="PT: KIDS",CARTOON  NETWORK SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/247844
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD" tvg-logo="https://i.imgur.com/3h5BEaA.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204476
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK FHD H265²" tvg-logo="https://i.imgur.com/3h5BEaA.png" group-title="CANAIS | H265",CARTOON NETWORK FHD H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203533
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD" tvg-logo="https://i.imgur.com/3h5BEaA.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204477
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK HD²" tvg-logo="https://i.imgur.com/3h5BEaA.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203534
-#EXTINF:-1 tvg-id="Cartoonnetwork.br" tvg-name="CARTOON NETWORK SD" tvg-logo="https://i.imgur.com/3h5BEaA.png" group-title="CANAIS | INFANTIS",CARTOON NETWORK SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204478
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO FHD" tvg-logo="https://i.imgur.com/EvyJhEv.png" group-title="CANAIS | INFANTIS",CARTOONITO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204497
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO FHD H265²" tvg-logo="https://i.imgur.com/EvyJhEv.png" group-title="CANAIS | H265",CARTOONITO FHD H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203527
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO HD" tvg-logo="https://i.imgur.com/EvyJhEv.png" group-title="CANAIS | INFANTIS",CARTOONITO HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204498
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO HD²" tvg-logo="https://i.imgur.com/EvyJhEv.png" group-title="CANAIS | INFANTIS",CARTOONITO HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203528
-#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="CARTOONITO SD" tvg-logo="https://i.imgur.com/EvyJhEv.png" group-title="CANAIS | INFANTIS",CARTOONITO SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204499
-#EXTINF:-1 tvg-id="" tvg-name="CHEF TV FHD H265²" tvg-logo="https://i.imgur.com/A8e3PhK.png" group-title="CANAIS | H265",CHEF TV FHD H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203982
-#EXTINF:-1 tvg-id="" tvg-name="CHEF TV HD²" tvg-logo="https://i.imgur.com/A8e3PhK.png" group-title="CANAIS | VARIEDADES",CHEF TV HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203983
-#EXTINF:-1 tvg-id="Like.br" tvg-name="CHEF TV SD²" tvg-logo="https://i.imgur.com/A8e3PhK.png" group-title="CANAIS | VARIEDADES",CHEF TV SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203984
-#EXTINF:-1 tvg-id="" tvg-name="CINE KIDS 24HRS" tvg-logo="https://i.imgur.com/QjvhpFY.png" group-title="CANAIS | DESENHOS 24 HRS",CINE KIDS 24HRS
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/249600
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 1" tvg-logo="https://i.imgur.com/CPs442Y.png" group-title="CANAIS | CINE SKY",CINE SKY PLAY 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/249824
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 2" tvg-logo="https://i.imgur.com/CPs442Y.png" group-title="CANAIS | CINE SKY",CINE SKY PLAY 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/249825
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 3" tvg-logo="https://i.imgur.com/CPs442Y.png" group-title="CANAIS | CINE SKY",CINE SKY PLAY 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/249826
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 4" tvg-logo="https://i.imgur.com/CPs442Y.png" group-title="CANAIS | CINE SKY",CINE SKY PLAY 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/249827
-#EXTINF:-1 tvg-id="" tvg-name="CINE SKY PLAY 5" tvg-logo="https://i.imgur.com/CPs442Y.png" group-title="CANAIS | CINE SKY",CINE SKY PLAY 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/249828
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD" tvg-logo="https://i.imgur.com/i4sfYtU.png" group-title="CANAIS | FILMES E SERIES",CINEMAX FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204410
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX FHD H265²" tvg-logo="https://i.imgur.com/i4sfYtU.png" group-title="CANAIS | H265",CINEMAX FHD H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203536
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD" tvg-logo="https://i.imgur.com/i4sfYtU.png" group-title="CANAIS | FILMES E SERIES",CINEMAX HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204411
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX HD²" tvg-logo="https://i.imgur.com/i4sfYtU.png" group-title="CANAIS | FILMES E SERIES",CINEMAX HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203537
-#EXTINF:-1 tvg-id="Cinemax.br" tvg-name="CINEMAX SD" tvg-logo="https://i.imgur.com/i4sfYtU.png" group-title="CANAIS | FILMES E SERIES",CINEMAX SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204412
-#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="CINEMUNDO FHD" tvg-logo="https://3.bp.blogspot.com/-mHEz-7oSIXw/VSene5r6G5I/AAAAAAAAEyE/4R-rWWL9nyo/s1600/Cinemundo%2Blogo%2B1.png" group-title="PT: FILMES",CINEMUNDO FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/247874
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL FHD" tvg-logo="https://i.imgur.com/59jZ1gG.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204347
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL FHD H265²" tvg-logo="https://i.imgur.com/59jZ1gG.png" group-title="CANAIS | H265",CNN BRASIL FHD H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203539
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL HD" tvg-logo="https://i.imgur.com/59jZ1gG.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204348
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL HD²" tvg-logo="https://i.imgur.com/59jZ1gG.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203540
-#EXTINF:-1 tvg-id="Cnnbrasil.br" tvg-name="CNN BRASIL SD" tvg-logo="https://i.imgur.com/59jZ1gG.png" group-title="CANAIS | NOTÍCIAS",CNN BRASIL SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204349
-#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN ESPANHOL FHD H265²" tvg-logo="https://i.imgur.com/XQy29jr.png" group-title="CANAIS | H265",CNN ESPANHOL FHD H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203541
-#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN ESPANHOL HD²" tvg-logo="https://i.imgur.com/XQy29jr.png" group-title="CANAIS | NOTÍCIAS",CNN ESPANHOL HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203542
-#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN ESPANHOL SD²" tvg-logo="https://i.imgur.com/XQy29jr.png" group-title="CANAIS | NOTÍCIAS",CNN ESPANHOL SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203543
-#EXTINF:-1 tvg-id="" tvg-name="CNN HD" tvg-logo="https://i.ibb.co/8sFX5w2/Cnn-logo-square.png" group-title="PT: NOTICIAS",CNN HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/247894
-#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL FHD H265²" tvg-logo="https://i.imgur.com/wLHpvLn.png" group-title="CANAIS | H265",CNN INTERNACIONAL FHD H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203544
-#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL HD²" tvg-logo="https://i.imgur.com/wLHpvLn.png" group-title="CANAIS | NOTÍCIAS",CNN INTERNACIONAL HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203545
-#EXTINF:-1 tvg-id="Cnninternacional.br" tvg-name="CNN INTERNACIONAL SD²" tvg-logo="https://i.imgur.com/wLHpvLn.png" group-title="CANAIS | NOTÍCIAS",CNN INTERNACIONAL SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203546
-#EXTINF:-1 tvg-id="CNT.br" tvg-name="CNT FHD H265²" tvg-logo="https://i.imgur.com/nbISzuI.png" group-title="CANAIS | H265",CNT FHD H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204070
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate FHD" tvg-logo="https://i.imgur.com/bhTrveM.png" group-title="CANAIS | ESPORTES",Combate FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204380
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE FHD H265²" tvg-logo="https://i.imgur.com/bhTrveM.png" group-title="CANAIS | H265",COMBATE FHD H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203547
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate HD" tvg-logo="https://i.imgur.com/bhTrveM.png" group-title="CANAIS | ESPORTES",Combate HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204381
-#EXTINF:-1 tvg-id="Like.br" tvg-name="COMBATE HD²" tvg-logo="https://i.imgur.com/bhTrveM.png" group-title="CANAIS | ESPORTES",COMBATE HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203548
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="Combate SD" tvg-logo="https://i.imgur.com/bhTrveM.png" group-title="CANAIS | ESPORTES",Combate SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204382
-#EXTINF:-1 tvg-id="Combatehd.br" tvg-name="COMBATE SD²" tvg-logo="https://i.imgur.com/bhTrveM.png" group-title="CANAIS | ESPORTES",COMBATE SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203549
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central FHD" tvg-logo="https://i.imgur.com/k2IFLxr.png" group-title="CANAIS | VARIEDADES",Comedy Central FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204452
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="COMEDY CENTRAL FHD H265²" tvg-logo="https://i.imgur.com/k2IFLxr.png" group-title="CANAIS | H265",COMEDY CENTRAL FHD H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203550
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central HD" tvg-logo="https://i.imgur.com/k2IFLxr.png" group-title="CANAIS | VARIEDADES",Comedy Central HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204453
-#EXTINF:-1 tvg-id="Like.br" tvg-name="COMEDY CENTRAL HD²" tvg-logo="https://i.imgur.com/k2IFLxr.png" group-title="CANAIS | VARIEDADES",COMEDY CENTRAL HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203551
-#EXTINF:-1 tvg-id="Comedycentral.br" tvg-name="Comedy Central SD" tvg-logo="https://i.imgur.com/k2IFLxr.png" group-title="CANAIS | VARIEDADES",Comedy Central SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204454
-#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL 1" tvg-logo="https://i.imgur.com/g3t93Dr.png" group-title="CANAIS | PPV",CONMEBOL 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203972
-#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL 2" tvg-logo="https://i.imgur.com/g3t93Dr.png" group-title="CANAIS | PPV",CONMEBOL 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203969
-#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL 3" tvg-logo="https://i.imgur.com/g3t93Dr.png" group-title="CANAIS | PPV",CONMEBOL 3
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204096
-#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL 3²" tvg-logo="https://i.imgur.com/g3t93Dr.png" group-title="CANAIS | PPV",CONMEBOL 3²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203970
-#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL 4 " tvg-logo="https://i.imgur.com/g3t93Dr.png" group-title="CANAIS | PPV",CONMEBOL 4 
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203971
-#EXTINF:-1 tvg-id="Like.br" tvg-name="CONMEBOL 4 HD²" tvg-logo="https://i.imgur.com/g3t93Dr.png" group-title="CANAIS | PPV",CONMEBOL 4 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204097
-#EXTINF:-1 tvg-id="Catarinense.br" tvg-name="COPA CATARINENSE 2 HD²" tvg-logo="https://i.imgur.com/VNzJ3xo.png" group-title="CANAIS | PPV",COPA CATARINENSE 2 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203555
-#EXTINF:-1 tvg-id="Catarinense.br" tvg-name="COPA CATARINENSE 2 SD²" tvg-logo="https://i.imgur.com/VNzJ3xo.png" group-title="CANAIS | PPV",COPA CATARINENSE 2 SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203554
-#EXTINF:-1 tvg-id="Catarinense.br" tvg-name="COPA CATARINENSE 3 HD²" tvg-logo="https://i.imgur.com/VNzJ3xo.png" group-title="CANAIS | PPV",COPA CATARINENSE 3 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203980
-#EXTINF:-1 tvg-id="Catarinense.br" tvg-name="COPA CATARINENSE 3 SD²" tvg-logo="https://i.imgur.com/VNzJ3xo.png" group-title="CANAIS | PPV",COPA CATARINENSE 3 SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203981
-#EXTINF:-1 tvg-id="Catarinense.br" tvg-name="COPA CATARINENSE 4 HD²" tvg-logo="https://i.imgur.com/VNzJ3xo.png" group-title="CANAIS | PPV",COPA CATARINENSE 4 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203978
-#EXTINF:-1 tvg-id="Catarinense.br" tvg-name="COPA CATARINENSE 4 SD²" tvg-logo="https://i.imgur.com/VNzJ3xo.png" group-title="CANAIS | PPV",COPA CATARINENSE 4 SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203979
-#EXTINF:-1 tvg-id="Catarinense.br" tvg-name="COPA CATARINENSE HD²" tvg-logo="https://i.imgur.com/VNzJ3xo.png" group-title="CANAIS | PPV",COPA CATARINENSE HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203556
-#EXTINF:-1 tvg-id="Catarinense.br" tvg-name="COPA CATARINENSE SD²" tvg-logo="https://i.imgur.com/VNzJ3xo.png" group-title="CANAIS | PPV",COPA CATARINENSE SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203553
-#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 2 HD²" tvg-logo="https://tinyurl.com/logonordestefc" group-title="CANAIS | PPV",COPA DO NORDESTE 2 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203559
-#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 2 SD²" tvg-logo="https://tinyurl.com/logonordestefc" group-title="CANAIS | PPV",COPA DO NORDESTE 2 SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203558
-#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 3 HD²" tvg-logo="https://i.imgur.com/4cCESfw.png" group-title="CANAIS | PPV",COPA DO NORDESTE 3 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203958
-#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 3 SD²" tvg-logo="https://i.imgur.com/4cCESfw.png" group-title="CANAIS | PPV",COPA DO NORDESTE 3 SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203957
-#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 4" tvg-logo="https://i.imgur.com/4cCESfw.png" group-title="CANAIS | PPV",COPA DO NORDESTE 4
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203959
-#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 4 HD²" tvg-logo="https://i.imgur.com/4cCESfw.png" group-title="CANAIS | PPV",COPA DO NORDESTE 4 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203960
-#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 5" tvg-logo="https://i.imgur.com/4cCESfw.png" group-title="CANAIS | PPV",COPA DO NORDESTE 5
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203962
-#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 5 HD²" tvg-logo="https://i.imgur.com/4cCESfw.png" group-title="CANAIS | PPV",COPA DO NORDESTE 5 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203961
-#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 6 HD²" tvg-logo="https://i.imgur.com/4cCESfw.png" group-title="CANAIS | PPV",COPA DO NORDESTE 6 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203963
-#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 6 SD²" tvg-logo="https://i.imgur.com/4cCESfw.png" group-title="CANAIS | PPV",COPA DO NORDESTE 6 SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203964
-#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 7 HD²" tvg-logo="https://i.imgur.com/4cCESfw.png" group-title="CANAIS | PPV",COPA DO NORDESTE 7 HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203977
-#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE 7 SD²" tvg-logo="https://i.imgur.com/4cCESfw.png" group-title="CANAIS | PPV",COPA DO NORDESTE 7 SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203976
-#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE HD²" tvg-logo="https://tinyurl.com/logonordestefc" group-title="CANAIS | PPV",COPA DO NORDESTE HD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203560
-#EXTINF:-1 tvg-id="NordesteFC.br" tvg-name="COPA DO NORDESTE SD²" tvg-logo="https://tinyurl.com/logonordestefc" group-title="CANAIS | PPV",COPA DO NORDESTE SD²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/203557
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="CULTURA FHD" tvg-logo="https://i.imgur.com/F8vZr6d.png" group-title="CANAIS | ABERTOS",CULTURA FHD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204307
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="CULTURA FHD H265²" tvg-logo="https://i.imgur.com/F8vZr6d.png" group-title="CANAIS | H265",CULTURA FHD H265²
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204072
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="CULTURA HD" tvg-logo="https://i.imgur.com/F8vZr6d.png" group-title="CANAIS | ABERTOS",CULTURA HD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://cdn.wisemod.click:80/Julinho/Senha123/204292
-#EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="CULTURA SD" tvg-logo="https://i.imgur.com/F8vZr6d.png" group-title="CANAIS | ABERTOS",CULTURA 
+##EXTM3U
+#EXTINF:-1,WARNER CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/19291
+#EXTINF:-1,NATGEO KIDS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/19290
+#EXTINF:-1,BABY TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/19289
+#EXTINF:-1,ANIMAL PLANET 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18055
+#EXTINF:-1,ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/12
+#EXTINF:-1,CTC LOVE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/132
+#EXTINF:-1,DISCOVERY CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4048
+#EXTINF:-1,DISCOVERY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/171
+#EXTINF:-1,DISCOVERY H&amp;H 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18050
+#EXTINF:-1,DISCOVERY H&amp;H HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/175
+#EXTINF:-1,DISCOVERY ID 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18045
+#EXTINF:-1,DISCOVERY ID HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/176
+#EXTINF:-1,DISCOVERY SCIENCE 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18053
+#EXTINF:-1,DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/179
+#EXTINF:-1,DISCOVERY THEATER 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18051
+#EXTINF:-1,DISCOVERY THEATER HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/180
+#EXTINF:-1,DISCOVERY TURBO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18049
+#EXTINF:-1,DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/182
+#EXTINF:-1,DISCOVERY WORLD 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18048
+#EXTINF:-1,DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/183
+#EXTINF:-1,FISH TV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18042
+#EXTINF:-1,FISH TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/248
+#EXTINF:-1,H2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/299
+#EXTINF:-1,HISTORY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/496
+#EXTINF:-1,MAIS NA TELA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4054
+#EXTINF:-1,NAT GEO WILD 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/332
+#EXTINF:-1,NATIONAL GEOGRAPHIC 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18044
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/335
+#EXTINF:-1,HISTORY CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18057
+#EXTINF:-1,TLC 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/5129
+#EXTINF:-1,TLC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/181
+#EXTINF:-1,CANCAO NOVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/88
+#EXTINF:-1,CANCAO NOVA UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/87
+#EXTINF:-1,COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/126
+#EXTINF:-1,CURTA 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/133
+#EXTINF:-1,E! 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/189
+#EXTINF:-1,E! 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18074
+#EXTINF:-1,E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/190
+#EXTINF:-1,FOOD NETWORK 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18056
+#EXTINF:-1,FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/249
+#EXTINF:-1,GLOBOSAT + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/294
+#EXTINF:-1,GNT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18047
+#EXTINF:-1,GNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/297
+#EXTINF:-1,MTV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18059
+#EXTINF:-1,REDE VIDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/443
+#EXTINF:-1,VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4075
+#EXTINF:-1,VIVA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/547
+#EXTINF:-1,WOOHOO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/551
+#EXTINF:-1,BAND SPORTS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4093
+#EXTINF:-1,BAND SPORTS HD.
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/75
+#EXTINF:-1,COMBATE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/125
+#EXTINF:-1,COMBATE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/124
+#EXTINF:-1,ELEVEN SPORTS 1 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/191
+#EXTINF:-1,ELEVEN SPORTS 2 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/192
+#EXTINF:-1,ESPN 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4092
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/238
+#EXTINF:-1,ESPN 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4069
+#EXTINF:-1,ESPN BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4068
+#EXTINF:-1,ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/240
+#EXTINF:-1,ESPN EXTRA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4060
+#EXTINF:-1,ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/242
+#EXTINF:-1,ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/243
+#EXTINF:-1,EUROSPORT 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/245
+#EXTINF:-1,EUROSPORT 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/246
+#EXTINF:-1,FOX SPORTS 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4734
+#EXTINF:-1,FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/262
+#EXTINF:-1,FOX SPORTS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4733
+#EXTINF:-1,FOX SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/265
+#EXTINF:-1,PFC +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/347
+#EXTINF:-1,PREMIERE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/351
+#EXTINF:-1,PREMIERE 1 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/350
+#EXTINF:-1,PREMIERE 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/17289
+#EXTINF:-1,PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/353
+#EXTINF:-1,PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/355
+#EXTINF:-1,PREMIERE 3 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/354
+#EXTINF:-1,PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/357
+#EXTINF:-1,PREMIERE 4 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/356
+#EXTINF:-1,PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/359
+#EXTINF:-1,PREMIERE 5 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/358
+#EXTINF:-1,PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/361
+#EXTINF:-1,PREMIERE 6 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/360
+#EXTINF:-1,PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/363
+#EXTINF:-1,PREMIERE 7 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/362
+#EXTINF:-1,PREMIERE 8 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/364
+#EXTINF:-1,PREMIERE 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/365
+#EXTINF:-1,PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/368
+#EXTINF:-1,PREMIERE CLUBES 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/366
+#EXTINF:-1,SPORT TV 1 + UHD PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/460
+#EXTINF:-1,SPORT TV 1 HD PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/461
+#EXTINF:-1,SPORT TV 2 HD PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/462
+#EXTINF:-1,SPORT TV 3 HD PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/463
+#EXTINF:-1,SPORT TV 4 HD PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/464
+#EXTINF:-1,SPORT TV 5 HD PT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/465
+#EXTINF:-1,SPORTV 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18063
+#EXTINF:-1,SPORTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/467
+#EXTINF:-1,SPORTV 3 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18064
+#EXTINF:-1,SPORTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/469
+#EXTINF:-1,SPORTV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18062
+#EXTINF:-1,SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/474
+#EXTINF:-1,CAMPEONATO CARIOCA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/9123
+#EXTINF:-1,CONMEBOL TV 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/16255
+#EXTINF:-1,CONMEBOL TV 3 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/5130
+#EXTINF:-1,CONMEBOL TV 4 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/5131
+#EXTINF:-1,CONMEBOL TV1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/128
+#EXTINF:-1,CONMEBOL TV2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/129
+#EXTINF:-1,CONMEBOL TV3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/130
+#EXTINF:-1,CONMEBOL TV4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/131
+#EXTINF:-1,COPA NORDESTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/8564
+#EXTINF:-1,COPA NORDESTE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/8565
+#EXTINF:-1,DAZN 1 BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/134
+#EXTINF:-1,DAZN 1 EUR HD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/135
+#EXTINF:-1,DAZN 1 LATINO (Solo Eventos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/136
+#EXTINF:-1,DAZN 2 BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/137
+#EXTINF:-1,DAZN 2 EUR HD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/138
+#EXTINF:-1,DAZN 2 LATINO (Solo Eventos)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/139
+#EXTINF:-1,DAZN BAR 1 HD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/141
+#EXTINF:-1,DAZN BAR 2 HD H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/142
+#EXTINF:-1,DAZN BRASIL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/143
+#EXTINF:-1,DAZN BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/144
+#EXTINF:-1,ESTADIO TNT SPORT 01 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/9918
+#EXTINF:-1,ESTADIO TNT SPORT 02 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/9919
+#EXTINF:-1,ESTADIO TNT SPORT 03  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/9920
+#EXTINF:-1,ESTADIO TNT SPORT 05 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/9922
+#EXTINF:-1,ESTADIO TNT SPORTS MELHORES MOMENTOS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/9923
+#EXTINF:-1,A&E 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18065
+#EXTINF:-1,A&amp;E HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/6
+#EXTINF:-1,AMC 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/501
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/9
+#EXTINF:-1,ARTE 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4053
+#EXTINF:-1,ARTE 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18072
+#EXTINF:-1,AXN 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/499
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/67
+#EXTINF:-1,CANAL BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/5128
+#EXTINF:-1,CANAL BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/85
+#EXTINF:-1,SONY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/86
+#EXTINF:-1,CINEMAX 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4071
+#EXTINF:-1,CINEMAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/105
+#EXTINF:-1,FILM &amp; ARTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/247
+#EXTINF:-1,FUTURA 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/266
+#EXTINF:-1,FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/267
+#EXTINF:-1,HBO + HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/301
+#EXTINF:-1,HBO + 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/300
+#EXTINF:-1,HBO 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4085
+#EXTINF:-1,HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/303
+#EXTINF:-1,HBO 3 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/304
+#EXTINF:-1,HBO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4084
+#EXTINF:-1,HBO FAMILY 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4087
+#EXTINF:-1,HBO FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/308
+#EXTINF:-1,HBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/309
+#EXTINF:-1,HBO MUNDI 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4072
+#EXTINF:-1,HBO MUNDI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/310
+#EXTINF:-1,HBO POP 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4089
+#EXTINF:-1,HBO POP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/314
+#EXTINF:-1,HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/316
+#EXTINF:-1,HBO SINGNATURE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4088
+#EXTINF:-1,HBO XTREME 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4073
+#EXTINF:-1,HBO XTREME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/317
+#EXTINF:-1,LIFETIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/324
+#EXTINF:-1,MEGAPIX 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4518
+#EXTINF:-1,OFF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/343
+#EXTINF:-1,PARAMOUNT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/345
+#EXTINF:-1,PARAMOUNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/346
+#EXTINF:-1,PRIME BOX BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/5126
+#EXTINF:-1,SPACE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18068
+#EXTINF:-1,SPACE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/459
+#EXTINF:-1,STAR CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18078
+#EXTINF:-1,STAR CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/250
+#EXTINF:-1,STAR HITS 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4050
+#EXTINF:-1,STAR HITS 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4051
+#EXTINF:-1,STAR LIFE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18077
+#EXTINF:-1,STAR LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/254
+#EXTINF:-1,TBS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/476
+#EXTINF:-1,TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/477
+#EXTINF:-1,TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/479
+#EXTINF:-1,TCM 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/478
+#EXTINF:-1,TELECINE ACTION 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4519
+#EXTINF:-1,TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/481
+#EXTINF:-1,TELECINE CULT 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18041
+#EXTINF:-1,TELECINE CULT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/483
+#EXTINF:-1,TELECINE FUN 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4520
+#EXTINF:-1,TELECINE FUN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/485
+#EXTINF:-1,TELECINE PIPOCA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4524
+#EXTINF:-1,TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/488
+#EXTINF:-1,TELECINE PREMIUM 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4522
+#EXTINF:-1,TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/491
+#EXTINF:-1,TELECINE TOUCH 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4523
+#EXTINF:-1,TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/493
+#EXTINF:-1,TNT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18066
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/503
+#EXTINF:-1,TNT SERIES 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18067
+#EXTINF:-1,TNT SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/502
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/544
+#EXTINF:-1,WARNER CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/549
+#EXTINF:-1,BABY TV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/69
+#EXTINF:-1,BOOMERANG 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18037
+#EXTINF:-1,BOOMERANG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/80
+#EXTINF:-1,CARTOON NETWORK 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18034
+#EXTINF:-1,CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/89
+#EXTINF:-1,DISCOVERY KIDS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4083
+#EXTINF:-1,DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/178
+#EXTINF:-1,DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/184
+#EXTINF:-1,DISNEY CHANNEL  4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18035
+#EXTINF:-1,DISNEY XD 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18039
+#EXTINF:-1,GLOOB 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4056
+#EXTINF:-1,GLOOB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/295
+#EXTINF:-1,GLOOBINHO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18040
+#EXTINF:-1,GLOOBINHO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/296
+#EXTINF:-1,NICK JR 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18036
+#EXTINF:-1,NICK JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/340
+#EXTINF:-1,NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/341
+#EXTINF:-1,TOONCAST 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18038
+#EXTINF:-1,TOONCAST HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/505
+#EXTINF:-1,TV RA TIM BUM 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/5127
+#EXTINF:-1,ZOOMOO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/585
+#EXTINF:-1,MULTISHOW HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/330
+#EXTINF:-1,MUSIC BOX 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/18060
+#EXTINF:-1,POLISHOP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/349
+#EXTINF:-1,BAND NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/72
+#EXTINF:-1,CNN BRASIL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/107
+#EXTINF:-1,CNN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/108
+#EXTINF:-1,CNN ESPANHOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/113
+#EXTINF:-1,CNN INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/116
+#EXTINF:-1,CNN TURK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/120
+#EXTINF:-1,CNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/123
+#EXTINF:-1,GLOBO NEWS DF
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/277
+#EXTINF:-1,GLOBO NEWS MG HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/278
+#EXTINF:-1,GLOBO NEWS SP 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/279
+#EXTINF:-1,NHK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/339
+#EXTINF:-1,RECORD NEWS U4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/430
+#EXTINF:-1,RECORD NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/431
+#EXTINF:-1,SIC INTERNACIONAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/455
+#EXTINF:-1,BAND MINAS UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/71
+#EXTINF:-1,BAND NEWS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4094
+#EXTINF:-1,BAND NORDESTE UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/73
+#EXTINF:-1,BAND SP 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4735
+#EXTINF:-1,BAND SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/74
+#EXTINF:-1,CANAL BOI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/6814
+#EXTINF:-1,EPTV CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/193
+#EXTINF:-1,GLOBO BAHIA   4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/8566
+#EXTINF:-1,GLOBO BRASILIA 4k
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/269
+#EXTINF:-1,GLOBO BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/268
+#EXTINF:-1,GLOBO EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/270
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/271
+#EXTINF:-1,GLOBO EPTV SAO CARLOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/272
+#EXTINF:-1,GLOBO TV INTEGRAÇÃO JUIZ DE FORA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/273
+#EXTINF:-1,GLOBO INTER TV CABUGI NATAL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/274
+#EXTINF:-1,GLOBO MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/7919
+#EXTINF:-1,GLOBO MINAS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/276
+#EXTINF:-1,GLOBO NEWS 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4525
+#EXTINF:-1,GLOBO NORDESTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/282
+#EXTINF:-1,GLOBO NORDESTE  4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/281
+#EXTINF:-1,GLOBO RBS  PORTO ALEGRE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/284
+#EXTINF:-1,GLOBO RIO PRETO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/285
+#EXTINF:-1,GLOBO RJ 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/6455
+#EXTINF:-1,GLOBO RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/286
+#EXTINF:-1,GLOBO RPC CURITIBA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/287
+#EXTINF:-1,GLOBO RPC FOZ DO IGUAÇU 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/17290
+#EXTINF:-1,GLOBO RPC PARANAESE UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/288
+#EXTINF:-1,GLOBO SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/7918
+#EXTINF:-1,GLOBO SP 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/289
+#EXTINF:-1,GLOBO TV CENTRO AMERICA CUIABA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/291
+#EXTINF:-1,GLOBO INTER TV CABUGI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/322
+#EXTINF:-1,GLOBO NSC  BLUMENAU 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/342
+#EXTINF:-1,PRIME BOX BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/369
+#EXTINF:-1,RBI 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/419
+#EXTINF:-1,RBS TV PORTO ALEGRE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/420
+#EXTINF:-1,RECORD BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/423
+#EXTINF:-1,RECORD DF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/425
+#EXTINF:-1,RECORD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/427
+#EXTINF:-1,RECORD MANAUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/429
+#EXTINF:-1,RECORD MINAS UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/15741
+#EXTINF:-1,RECORD RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/436
+#EXTINF:-1,RECORD SP INTERIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/438
+#EXTINF:-1,RECORD SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/437
+#EXTINF:-1,REDE BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/440
+#EXTINF:-1,REDE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/442
+#EXTINF:-1,SBT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/4736
+#EXTINF:-1,SBT CIDADE VERDE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/448
+#EXTINF:-1,SBT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/452
+#EXTINF:-1,SBT RJ UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/451
+#EXTINF:-1,SBT SERRA DURADA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/453
+#EXTINF:-1,SBT TV JORNAL UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/454
+#EXTINF:-1,TRU TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/506
+#EXTINF:-1,TV APARECIDA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/508
+#EXTINF:-1,TV BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/509
+#EXTINF:-1,TV CAMARA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/512
+#EXTINF:-1,GLOBO TV CENTRAL AMERICA CUIABA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/513
+#EXTINF:-1,TV CULTURA  UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/514
+#EXTINF:-1,TV DIARIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/515
+#EXTINF:-1,TV ESCOLA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/517
+#EXTINF:-1,GLOBO TV GAZETA ES 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/17287
+#EXTINF:-1,TV HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/519
+#EXTINF:-1,GLOBO TV LIBERAL BELEM 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/521
+#EXTINF:-1,TV MORENA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/6813
+#EXTINF:-1,TV NOVO TEMPO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/522
+#EXTINF:-1,TV RA TIM BUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/524
+#EXTINF:-1,TV SENADO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/526
+#EXTINF:-1,TV TEM BAURU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/527
+#EXTINF:-1,TV TEM SAO JOSE DP RIO PRETO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/528
+#EXTINF:-1,TV TEM SOROCABA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/529
+#EXTINF:-1,TV TRIBUNA SANTOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/531
+#EXTINF:-1,TV VANGUARDA S. J. DOS CAMPOS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=20191129153332&url=http://mn.hostinggonow.com:2095/NEW_LIVE2370242632/8024768742/533
