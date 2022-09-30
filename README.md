@@ -29,8 +29,6 @@ http://a5telecom.distv.net:8080/6536/6536/502
 http://a5telecom.distv.net:8080/6536/6536/532
 #EXTINF:-1 tvg-id="BIS" tvg-name="BIS" tvg-logo="http://45.170.92.6:8080/icones/bis.png" group-title="ENTRETENIMENTO",BIS
 http://a5telecom.distv.net:8080/6536/6536/599
-#EXTINF:-1 tvg-id="" tvg-name="BRASILEIRINHAS" tvg-logo="http://45.170.92.6:8080/icones/brasileirinhas.png" group-title="ADULTOS",BRASILEIRINHAS
-http://a5telecom.distv.net:8080/6536/6536/505
 #EXTINF:-1 tvg-id="" tvg-name="CABUGI(GLOBO)" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="RIO-GRANDE-NORTE",CABUGI(GLOBO)
 http://a5telecom.distv.net:8080/6536/6536/382
 #EXTINF:-1 tvg-id="" tvg-name="CANAL DO BOI" tvg-logo="http://45.170.92.6:8080/icones/canaldoboi.png" group-title="PARABOLICA",CANAL DO BOI
@@ -149,8 +147,6 @@ http://a5telecom.distv.net:8080/6536/6536/540
 http://a5telecom.distv.net:8080/6536/6536/669
 #EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://45.170.92.6:8080/icones/fx.png" group-title="FILMES&SERIES",FX
 http://a5telecom.distv.net:8080/6536/6536/639
-#EXTINF:-1 tvg-id="" tvg-name="GAY" tvg-logo="http://45.170.92.6:8080/icones/canaladulto.png" group-title="ADULTOS",GAY
-http://a5telecom.distv.net:8080/6536/6536/508
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO BRASILIA" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO BRASILIA
 http://a5telecom.distv.net:8080/6536/6536/475
 #EXTINF:-1 tvg-id="" tvg-name="GLOBO FLORIANOPOLIS" tvg-logo="http://45.170.92.6:8080/icones/globo.png" group-title="GLOBOS&RECORD",GLOBO FLORIANOPOLIS
@@ -204,11 +200,7 @@ http://a5telecom.distv.net:8080/6536/6536/645
 #EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="http://45.170.92.6:8080/icones/hbosignature.png" group-title="FILMES&SERIES",HBO SIGNATURE
 http://a5telecom.distv.net:8080/6536/6536/646
 #EXTINF:-1 tvg-id="HBOXTREME" tvg-name="HBO XTREME" tvg-logo="http://45.170.92.6:8080/icones/hboextreme.png" group-title="FILMES&SERIES",HBO XTREME
-http://a5telecom.distv.net:8080/6536/6536/647
-#EXTINF:-1 tvg-id="" tvg-name="HETERO" tvg-logo="http://45.170.92.6:8080/icones/canaladulto.png" group-title="ADULTOS",HETERO
-http://a5telecom.distv.net:8080/6536/6536/509
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="http://45.170.92.6:8080/icones/hgtv.png" group-title="ENTRETENIMENTO",HGTV
-http://a5telecom.distv.net:8080/6536/6536/613
+http://a5telecom.distv.net:8080/6536/6536/6473
 #EXTINF:-1 tvg-id="HISTORYCHANNEL" tvg-name="HISTORY" tvg-logo="http://45.170.92.6:8080/icones/historychannel.png" group-title="ENTRETENIMENTO",HISTORY
 http://a5telecom.distv.net:8080/6536/6536/614
 #EXTINF:-1 tvg-id="" tvg-name="ID TV" tvg-logo="http://45.170.92.6:8080/icones/idealtv.png" group-title="PARABOLICA",ID TV
@@ -217,8 +209,6 @@ http://a5telecom.distv.net:8080/6536/6536/365
 http://a5telecom.distv.net:8080/6536/6536/455
 #EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS" tvg-logo="http://45.170.92.6:8080/icones/jovempannews.png" group-title="NEWS",JOVEM PAN NEWS
 http://a5telecom.distv.net:8080/6536/6536/436
-#EXTINF:-1 tvg-id="" tvg-name="LESBIAN" tvg-logo="http://45.170.92.6:8080/icones/canaladulto.png" group-title="ADULTOS",LESBIAN
-http://a5telecom.distv.net:8080/6536/6536/510
 #EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="http://45.170.92.6:8080/icones/lifetime.png" group-title="FILMES&SERIES",LIFETIME
 http://a5telecom.distv.net:8080/6536/6536/648
 #EXTINF:-1 tvg-id="" tvg-name="LIKE" tvg-logo="http://45.170.92.6:8080/icones/like.png" group-title="FILMES&SERIES",LIKE
