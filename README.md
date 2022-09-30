@@ -39,12 +39,7 @@ plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]R
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://axr.life:80/00005824/MF159357C/5190
 #EXTINF:-1 tvg-id="amc.br" tvg-name="AMC HD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/NWiwiv.png" group-title="CANAIS | FILMES & SERIES",AMC HD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://axr.life:80/00005824/MF159357C/5041
-#EXTINF:-1 tvg-id="amc.br" tvg-name="AMC SD" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/924/NWiwiv.png" group-title="CANAIS | FILMES & SERIES",AMC SD
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://axr.life:80/00005824/MF159357C/5395
-#EXTINF:-1 tvg-id="" tvg-name="AMIGAS DA MINHA IRMÃ 1" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="CANAIS | XXX +18 ADULTOS",AMIGAS DA MINHA IRMÃ 1
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://axr.life:80/00005824/MF159357C/1010062
-#EXTINF:-1 tvg-id="" tvg-name="AMIGAS DA MINHA IRMÃ 2" tvg-logo="https://seeklogo.com/images/K/Kijkwijzer__18_-logo-EE76BEF576-seeklogo.com.png" group-title="CANAIS | XXX +18 ADULTOS",AMIGAS DA MINHA IRMÃ 2
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://axr.life:80/00005824/MF159357C/1010063
+
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET FHD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET FHD
 plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=[COLOR turquoise]RamalhoIPTV [/COLOR]&maxbitrate=0&buffer=90000&url=http://axr.life:80/00005824/MF159357C/5191
 #EXTINF:-1 tvg-id="animal.planet.br" tvg-name="ANIMAL PLANET HD" tvg-logo="http://imagizer.imageshack.us/v2/640x480q90/922/wYHvP7.png" group-title="CANAIS | DOCUMENTÁRIOS",ANIMAL PLANET HD
