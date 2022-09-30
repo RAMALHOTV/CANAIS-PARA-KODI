@@ -207,10 +207,6 @@ http://a5telecom.distv.net:8080/6536/6536/614
 http://a5telecom.distv.net:8080/6536/6536/365
 #EXTINF:-1 tvg-id="" tvg-name="INTERTV GRANDE MINAS" tvg-logo="http://45.170.92.6:8080/icones/globominas.png" group-title="PARABOLICA",INTERTV GRANDE MINAS
 http://a5telecom.distv.net:8080/6536/6536/455
-#EXTINF:-1 tvg-id="" tvg-name="JOVEM PAN NEWS" tvg-logo="http://45.170.92.6:8080/icones/jovempannews.png" group-title="NEWS",JOVEM PAN NEWS
-http://a5telecom.distv.net:8080/6536/6536/436
-#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFETIME" tvg-logo="http://45.170.92.6:8080/icones/lifetime.png" group-title="FILMES&SERIES",LIFETIME
-http://a5telecom.distv.net:8080/6536/6536/648
 #EXTINF:-1 tvg-id="" tvg-name="LIKE" tvg-logo="http://45.170.92.6:8080/icones/like.png" group-title="FILMES&SERIES",LIKE
 http://a5telecom.distv.net:8080/6536/6536/685
 #EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="http://45.170.92.6:8080/icones/lovenature.png" group-title="ENTRETENIMENTO",LOVE NATURE
@@ -347,10 +343,6 @@ http://a5telecom.distv.net:8080/6536/6536/562
 http://a5telecom.distv.net:8080/6536/6536/680
 #EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST" tvg-logo="http://45.170.92.6:8080/icones/tooncast.png" group-title="KIDS",TOONCAST
 http://a5telecom.distv.net:8080/6536/6536/594
-#EXTINF:-1 tvg-id="" tvg-name="TRANNY" tvg-logo="http://45.170.92.6:8080/icones/tranny.png" group-title="ADULTOS",TRANNY
-http://a5telecom.distv.net:8080/6536/6536/511
-#EXTINF:-1 tvg-id="TRAVELBOXBRAZIL" tvg-name="TRAVELBOX BRAZIL" tvg-logo="http://45.170.92.6:8080/icones/travelboxbrazil.png" group-title="ENTRETENIMENTO",TRAVELBOX BRAZIL
-http://a5telecom.distv.net:8080/6536/6536/673
 #EXTINF:-1 tvg-id="TRUTV" tvg-name="TRUETV" tvg-logo="http://45.170.92.6:8080/icones/trutv.png" group-title="ENTRETENIMENTO",TRUETV
 http://a5telecom.distv.net:8080/6536/6536/667
 #EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA" tvg-logo="http://45.170.92.6:8080/icones/tvaparecida.png" group-title="PARABOLICA",TV APARECIDA
