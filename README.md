@@ -1,7 +1,7 @@
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
-<title>[B][COLOR lime] [/COLOR] [COLOR yellow] SELECIONE UM INTEM ABAIXO  [/COLOR][/B]</title>
+<title>[B] [COLOR yellow] SELECIONE UM INTEM ABAIXO  [/COLOR][/B]</title>
 <link>http://ignorame</link>
 <thumbnail>https://i.imgur.com/eWu6bbS.jpg</thumbnail>
 <fanart>https://i.imgur.com/lsQCKaA.jpg</fanart>
@@ -41,14 +41,6 @@
 <externallink>https://</externallink>
 </item>
 
-<item>
-<title>[B][COLOR lime] [/COLOR] [COLOR yellow]   [/COLOR][/B]</title>
-<link>http://ignorame</link>
-<thumbnail>https://i.imgur.com/eWu6bbS.jpg</thumbnail>
-<fanart>https://i.imgur.com/lsQCKaA.jpg</fanart>
-<externallink>https://</externallink>
-</item>
-
 
 <item>
 <title>[B][COLOR lime]VOLTAR AO [/COLOR] [COLOR yellow]MENU FILMES [/COLOR][/B]</title>
@@ -58,12 +50,6 @@
 <externallink>https://raw.githubusercontent.com/RAMALHOTV/base-filmes-/main/README.md</externallink>
 </item>
 <item>
-<title>[B][COLOR lime] [/COLOR] [COLOR yellow]   [/COLOR][/B]</title>
-<link>http://ignorame</link>
-<thumbnail>https://i.imgur.com/eWu6bbS.jpg</thumbnail>
-<fanart>https://i.imgur.com/lsQCKaA.jpg</fanart>
-<externallink>https://</externallink>
-</item>
 
 
 <item>
